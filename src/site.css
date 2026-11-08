@@ -186,3 +186,8 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 .film-frame.torch{background:radial-gradient(ellipse at 50% 30%,#ffcf5a 0 9%,#C97B60 9.5% 15%,transparent 15.5%),linear-gradient(90deg,transparent 0 46%,#DBE9E1 46% 54%,transparent 54%) 50% 100%/100% 62% no-repeat,#172C2A}
 .film-frame.tapestry{background:repeating-linear-gradient(90deg,#C97B60 0 18px,#b06a51 18px 22px),#C97B60}
 .film-frame.mo{background:radial-gradient(ellipse at 38% 55%,#172C2A 0 14%,transparent 14.5%),radial-gradient(ellipse at 62% 55%,#172C2A 0 14%,transparent 14.5%),#DBE9E1}
+.proof-tile.r-endorsement{background:#EFE3D2}.proof-tile.r-investment-partnership{background:#D9E8E6}
+.film-frame.court{background:radial-gradient(circle at 50% 50%,transparent 0 14%,#F7F3EA 14.5% 15.5%,transparent 16%),linear-gradient(90deg,transparent 0 49.5%,#F7F3EA 49.5% 50.5%,transparent 50.5%),#C97B60}
+.film-frame.stadium{background:radial-gradient(ellipse at 50% 120%,#2F7D6F 0 45%,#DBE9E1 45.5% 50%,transparent 50.5%),linear-gradient(#172C2A,#0d1d1b)}
+.film-frame.car{background:linear-gradient(transparent 0 55%,#2b3a38 55%),radial-gradient(ellipse at 50% 58%,#075950 0 22%,transparent 22.5%),linear-gradient(#DBE9E1,#7FB3A3)}
+.film-frame.field{background:repeating-linear-gradient(90deg,#2F7D6F 0 30px,#28705f 30px 60px),#2F7D6F}

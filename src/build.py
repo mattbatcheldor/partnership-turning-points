@@ -55,6 +55,28 @@ def contract_art():
 </g></g>
 </svg>'''
 
+
+def price_art():
+    # Editorial illustration: a large price tag with a deal value filled in and the result line left blank.
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a large price tag on a string. The deal value is filled in as twenty billion dollars, and the line for the result is left blank.</title>
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".4"/></filter></defs>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<path d="M150 40c80 40 140 70 196 118" fill="none" stroke="#DBE9E1" stroke-width="3" stroke-dasharray="2 7"/>
+<g transform="translate(40 18) scale(.92)"><g transform="rotate(-8 470 300)" filter="url(#sh)">
+<path d="M300 150h400a18 18 0 0 1 18 18v264a18 18 0 0 1-18 18h-400l-110-150z" fill="#C97B60"/>
+<circle cx="262" cy="300" r="16" fill="#172C2A"/>
+<text x="330" y="208" font-family="{sans}" font-size="14" letter-spacing="3" fill="#172C2A">EDITION 03 / MONEY FIRST</text>
+<text x="330" y="246" font-family="{sans}" font-size="15" font-weight="700" letter-spacing="2" fill="#F7F3EA">DEAL VALUE</text>
+<text x="330" y="312" font-family="{serif}" font-size="54" font-weight="600" fill="#F7F3EA">$20,000,000,000</text>
+<text x="330" y="378" font-family="{sans}" font-size="15" font-weight="700" letter-spacing="2" fill="#172C2A">RESULT</text>
+<line x1="420" y1="380" x2="680" y2="380" stroke="#172C2A" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="330" y="418" font-family="{serif}" font-size="18" font-style="italic" fill="#172C2A">Not disclosed.</text>
+</g></g>
+</svg>'''
+
 LEVELS = ['Modelled effect', 'Sales trend', 'Survey', 'Reach only', 'Archival']
 LEVEL_NOTES = {
     'Modelled effect': 'A model estimates the effect against a baseline.',
@@ -73,8 +95,10 @@ MECHANISMS = [
     ('Money for association', 'One side pays to stand next to something people already love.'),
     ('Purpose for preference', 'A brand gives a cause money or a stage, and the cause gives people a reason to choose the brand.'),
     ('Network for network', 'Peers or rivals join up to offer customers something none could alone.'),
+    ('Money for distribution', 'One side pays to be where customers start: the default, the shelf or the screen.'),
+    ('Capital for capability', 'One side invests money or infrastructure, and the other brings a capability it could not build.'),
 ]
-ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement', 'Cause partnership', 'Alliance']
+ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement', 'Cause partnership', 'Alliance', 'Endorsement', 'Investment partnership']
 # Every case is sorted by the type of partnership.
 ROLE_DEFAULTS = {'roles': ROLES, 'role_label': 'Type', 'role_aria': 'Type of partnership', 'source_label': 'The partners'}
 ERAS = ['1950s to 1980s', '1990s and 2000s', '2010s', '2020s']
@@ -458,6 +482,27 @@ EDITIONS = [
             ('mcdonalds-london-2012', 'Leo Burnett’s own record of the campaign. Notice who is on screen: the public, not the athletes.', 'torch'),
             ('tourism-ireland-game-of-thrones', 'Tourism Ireland’s film of the tapestry it made because it couldn’t use the show’s footage freely.', 'tapestry'),
             ('gillette-movember', 'A later Gillette UK film for Movember. The partnership outlived its first campaign.', 'mo'),
+        ),
+    },
+    {
+        'number': '03',
+        'name': 'Money first',
+        'data': 'campaigns-03.json',
+        'template': 'page-template-03.html',
+        'output': 'edition-03/index.html',
+        'asset_prefix': '../',
+        'art': price_art,
+        'test_heading': 'How the outcome was recorded',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Sales trend': 'Sales, revenue or company value moved, but other causes are not separated out.',
+            'Archival': 'The record shows the price and the terms, not what the money achieved.',
+        },
+        'screening': (
+            ('nike-michael-jordan', 'Jordan Brand’s own history of the first shoe. Notice how much of the story is about the people who wore it.', 'court'),
+            ('emirates-arsenal', 'Arsenal’s film for the renewal. A sponsor that has stayed this long is its own kind of evidence.', 'stadium'),
+            ('oracle-red-bull-racing', 'Oracle’s launch film for the car carrying its name. Watch how the sponsor presents itself as a technology partner.', 'car'),
+            ('amazon-nfl', 'Prime Video’s opening film for its first season. The price bought a new kind of football broadcast.', 'field'),
         ),
     },
 ]
