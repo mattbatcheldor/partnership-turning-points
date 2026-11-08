@@ -133,6 +133,43 @@ ROLE_DEFAULTS = {'roles': ROLES, 'role_label': 'Type', 'role_aria': 'Type of par
 ERAS = ['1950s to 1980s', '1990s and 2000s', '2010s', '2020s']
 
 
+def torn_art():
+    # Editorial illustration: a partnership agreement torn in two, stamped as terminated.
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    pts = [(450 + (12 if i % 2 else -10), 60 + i * 25) for i in range(21)]
+    down = ' '.join(f'L{x} {y}' for x, y in pts)
+    up = ' '.join(f'L{x} {y}' for x, y in reversed(pts))
+    lines_l = ''.join(f'<rect x="220" y="{230 + i * 22}" width="{190 - (i % 3) * 30}" height="7" fill="#DBE9E1"/>' for i in range(6))
+    lines_r = ''.join(f'<rect x="490" y="{230 + i * 22}" width="{170 - (i % 3) * 30}" height="7" fill="#DBE9E1"/>' for i in range(6))
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a partnership agreement torn in two, with the halves pulling apart. A stamp across the tear reads terminated.</title>
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".4"/></filter></defs>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<g transform="translate(60 30) scale(.86)">
+<g transform="rotate(-5 320 300) translate(-26 8)" filter="url(#sh)">
+<path d="M180 60 {down} L180 560Z" fill="#F7F3EA"/>
+<text x="216" y="112" font-family="{sans}" font-size="13" letter-spacing="3" fill="#075950">EDITION 05 / FAILURE FIRST</text>
+<text x="216" y="166" font-family="{serif}" font-size="34" fill="#172C2A">Partnership agr</text>
+{lines_l}
+<line x1="220" y1="440" x2="380" y2="440" stroke="#172C2A" stroke-width="1.5"/>
+<text x="220" y="462" font-family="{sans}" font-size="12" letter-spacing="2" fill="#53584d">PARTNER A</text>
+</g>
+<g transform="rotate(4 600 300) translate(24 -6)" filter="url(#sh)">
+<path d="M720 60 L720 560 {up}Z" fill="#F7F3EA"/>
+<text x="466" y="166" font-family="{serif}" font-size="34" fill="#172C2A">eement</text>
+{lines_r}
+<line x1="500" y1="440" x2="660" y2="440" stroke="#172C2A" stroke-width="1.5"/>
+<text x="500" y="462" font-family="{sans}" font-size="12" letter-spacing="2" fill="#53584d">PARTNER B</text>
+</g>
+<g transform="rotate(-10 460 300)" opacity=".94">
+<rect x="290" y="258" width="340" height="88" rx="10" fill="none" stroke="#C97B60" stroke-width="7"/>
+<text x="460" y="317" text-anchor="middle" font-family="{sans}" font-size="40" font-weight="700" letter-spacing="6" fill="#C97B60">TERMINATED</text>
+</g>
+</g>
+</svg>'''
+
+
 def era(year):
     if year < 1990:
         return ERAS[0]
@@ -554,6 +591,22 @@ EDITIONS = [
             ('absolut-warhol', 'Absolut tells the story from Warhol’s first painting in 1985 to today.', 'bottle'),
             ('adidas-stella-mccartney', 'A campaign film from the partnership’s second decade. Notice whose name comes first.', 'gym'),
             ('coca-cola-olympics', 'Coca-Cola’s archivists on ninety years of the Olympic partnership.', 'rings'),
+        ),
+    },
+    {
+        'number': '05', 'name': 'Failure first', 'data': 'campaigns-05.json', 'template': 'page-template-05.html',
+        'output': 'edition-05/index.html', 'asset_prefix': '../', 'art': torn_art, 'test_heading': 'How the damage was recorded',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Modelled effect': 'Economists compared the sponsors’ share prices with the market and their rivals.',
+            'Sales trend': 'Revenue or share price moved, but other causes are not separated out.',
+            'Reach only': 'The record shows how many people it reached, not what it cost or earned.',
+            'Archival': 'The record shows how the partnership ended, not what it cost.',
+        },
+        'screening': (
+            ('pepsi-madonna', 'The advert Pepsi pulled in 1989, from Pepsi’s own channel. It finally ran again in 2023.', 'candle'),
+            ('apple-u2-songs-of-innocence', 'Apple’s 2014 launch event, from Apple’s channel. U2 appear near the end, just before the album landed in every library.', 'stage'),
+            ('lego-shell', 'Not a partner’s film, but the one that ended a partnership, from Greenpeace’s channel.', 'brick'),
         ),
     },
 ]

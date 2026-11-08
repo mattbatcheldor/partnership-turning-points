@@ -1,0 +1,746 @@
+[
+  {
+    "id": "adidas-kanye-west",
+    "brand": "Adidas × Kanye West",
+    "title": "Yeezy",
+    "year": 2022,
+    "place": "Global",
+    "sector": "Sportswear and music",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Ye’s designs, Adidas’ factories",
+    "stage": "Ended, with the cost reported",
+    "hook": "The partner was the product, so when he went, the product went with him.",
+    "situation": "Adidas and Kanye West, now known as Ye, launched Yeezy in 2015. By 2022 it was one of the most valuable collaborations in sportswear, and the shoes carried his name and design.",
+    "exchange": "Ye designed the shoes and lent his name. Adidas made, marketed and sold them around the world.",
+    "brought": [
+      [
+        "Adidas",
+        "Design teams, factories and global retail."
+      ],
+      [
+        "Kanye West",
+        "The designs, the name and a huge following."
+      ]
+    ],
+    "turning_point": "In October 2022, after a series of antisemitic statements by Ye, Adidas ended the partnership and stopped production. It was left holding a warehouse of shoes with his name on them.",
+    "metric": "€1.2bn",
+    "metric_label": "Yeezy revenue in 2022, the year Adidas ended the deal",
+    "measure": "Reported by Adidas. The company sold some of the remaining stock in 2023, which brought in about €750m",
+    "evidence": "Adidas published the figures in its results. It sold part of the inventory in 2023, gave part of the proceeds to organisations fighting hate, and decided not to write off most of the rest.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "If the product carries a person’s name, plan for the day you have to remove it. Own enough of the design to carry on without them.",
+    "take": "Adidas did the right thing, and it still cost a fortune. The lesson isn’t to avoid big partners. It’s to know what you own when it ends.",
+    "credit": "Adidas and Ye, 2015 to 2022",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read Adidas’ 2023 results · Börse München",
+      "https://boerse-muenchen.de/news/EQS212968/EQS-Adhoc_-adidas-full-year-results-exceed-latest-expectations_-company-decides-not-to-write-off-most-of-its-Yeezy-inventory"
+    ],
+    "impact_source": [
+      "Read about the remaining stock · Retail Dive",
+      "https://www.retaildive.com/news/adidas-sell-remaining-yeezy-merchandise/706298"
+    ],
+    "links": [
+      [
+        "Read about the donations · Hypebeast",
+        "https://hypebeast.com/2023/5/adidas-yeezy-proceeds-anti-defamation-league-george-floyd-foundation-donation-info"
+      ]
+    ]
+  },
+  {
+    "id": "pepsi-madonna",
+    "brand": "Pepsi × Madonna",
+    "title": "Like a Prayer",
+    "year": 1989,
+    "place": "United States",
+    "sector": "Soft drinks and pop music",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Pepsi’s money, Madonna’s new single",
+    "stage": "Launched and pulled",
+    "hook": "Pepsi paid for the song, then the music video arrived.",
+    "situation": "Pepsi had followed Michael Jackson with Madonna. Her new single, ‘Like a Prayer’, would premiere in a Pepsi advert before anyone heard it on the radio.",
+    "exchange": "Pepsi paid Madonna a reported $5m. Madonna gave Pepsi the first play of her new single, in a gentle advert about childhood memories.",
+    "brought": [
+      [
+        "Pepsi",
+        "A reported $5m and a global advertising slot."
+      ],
+      [
+        "Madonna",
+        "A new single and the attention of the world."
+      ]
+    ],
+    "turning_point": "The advert aired in early 1989. The next day Madonna released her own video for the song, with burning crosses and religious imagery. Religious groups threatened a boycott, and Pepsi pulled the advert.",
+    "metric": "34 years",
+    "metric_label": "Before Pepsi aired the advert again",
+    "measure": "Pepsi showed an edited version at the 2023 MTV Video Music Awards. A fact, not a result",
+    "evidence": "The advert, the video and the withdrawal are well documented. No figure shows what the episode cost Pepsi or gained Madonna.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "You can control your advert. You can’t control what your partner makes next. Agree in advance what happens when their work and yours collide.",
+    "take": "Madonna kept the money and the controversy. Pepsi kept neither, until it decided, decades later, that the story was worth telling.",
+    "credit": "Pepsi and Madonna, 1989",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Madonna | Like A Prayer, 1989’ on Pepsi’s channel",
+      "url": "https://www.youtube.com/watch?v=xFos2Xi5QoM"
+    },
+    "announcement": [
+      "Read the story · CBS News",
+      "https://www.cbsnews.com/news/madonna-pepsi-commercial-canceled-1989-like-a-prayer"
+    ],
+    "impact_source": [
+      "Read about the controversy · Time",
+      "https://newsfeed.time.com/2012/07/16/nazis-and-nudity-the-top-10-madonna-controversies/slide/madonna-sinks-pepsi-commercial-deal/"
+    ],
+    "links": [],
+    "deal_value": "Reported at $5m. Madonna reportedly kept the fee"
+  },
+  {
+    "id": "hertz-oj-simpson",
+    "brand": "Hertz × O.J. Simpson",
+    "title": "The Superstar in a Rent-a-Car",
+    "year": 1994,
+    "place": "United States",
+    "sector": "Car rental and sport",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Hertz’s money, Simpson’s fame",
+    "stage": "Ran for two decades and ended",
+    "hook": "For almost twenty years, a football star ran through airports for Hertz.",
+    "situation": "Hertz wanted business travellers to see renting a car as fast and easy. O.J. Simpson was one of the most popular athletes in America.",
+    "exchange": "Hertz paid Simpson to star in its adverts, sprinting through airport terminals to the Hertz counter. Simpson gained fame far beyond football.",
+    "brought": [
+      [
+        "Hertz",
+        "Money and national television campaigns."
+      ],
+      [
+        "O.J. Simpson",
+        "Speed, charm and celebrity."
+      ]
+    ],
+    "turning_point": "In June 1994, Simpson was arrested for the murders of Nicole Brown Simpson and Ron Goldman. Hertz cut its ties with him. He was acquitted in 1995 and later found liable in a civil case.",
+    "metric": "19 years",
+    "metric_label": "From the first airport advert in 1975 to 1994",
+    "measure": "The length of the partnership. A fact, not a result",
+    "evidence": "The campaign and its end are well documented. Hertz never published what the adverts or the end of the partnership did to its business.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "The longer a face represents you, the more completely you are tied to them. Long partnerships need a plan for the worst day.",
+    "take": "The most successful endorsement of its era became the hardest to watch. Nothing about the adverts changed, only what people knew.",
+    "credit": "Hertz and O.J. Simpson, 1975 to 1994",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · Yahoo News",
+      "https://www.yahoo.com/news/hertz-made-advertising-history-with-o-j--simpson-s-airport-runs-140015008.html"
+    ],
+    "impact_source": [
+      "Read about the campaign · MediaPost",
+      "https://www.mediapost.com/publications/article/395207/putting-oj-in-the-drivers-seat.html"
+    ],
+    "links": []
+  },
+  {
+    "id": "mastercard-fifa",
+    "brand": "Mastercard × FIFA",
+    "title": "The World Cup in Court",
+    "year": 2006,
+    "place": "New York and Zurich",
+    "sector": "Payments and football",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Mastercard’s money, FIFA’s World Cup",
+    "stage": "Taken to court and settled",
+    "hook": "After sixteen years, FIFA sold the sponsorship to the rival, and a judge found it had lied.",
+    "situation": "Mastercard had sponsored the World Cup for sixteen years and believed it had the first right to renew. FIFA was negotiating with Visa at the same time.",
+    "exchange": "Mastercard paid for its place as the World Cup’s card. FIFA gave it the association with the world’s most watched tournament.",
+    "brought": [
+      [
+        "Mastercard",
+        "Sponsorship money and sixteen years of loyalty."
+      ],
+      [
+        "FIFA",
+        "The World Cup."
+      ]
+    ],
+    "turning_point": "In 2006 FIFA signed Visa. Mastercard sued in New York, and a judge ruled that FIFA had broken its agreement and misled both companies. In 2007 FIFA settled, Visa kept the rights and Mastercard walked away with a payment.",
+    "metric": "$90m",
+    "metric_label": "Paid by FIFA to Mastercard to settle",
+    "measure": "The settlement value reported in 2007. A deal term, not a result",
+    "evidence": "The court’s findings and the settlement are on the public record, one of the most reliable sources in this edition. What the loss of the World Cup cost Mastercard was never published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Loyalty in a contract is only worth what the contract says. Get the right to renew in writing, and check that it binds.",
+    "take": "Mastercard won in court and lost the World Cup. Sometimes the best outcome of a broken partnership is a cheque and a clean exit.",
+    "credit": "Mastercard and FIFA, 1990 to 2006",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · Wikipedia",
+      "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_sponsorship"
+    ],
+    "impact_source": [
+      "Read about the settlement · WARC",
+      "https://www.warc.com/newsandopinion/news/mastercard-and-fifa-settle-world-cup-dispute/en-gb/21840"
+    ],
+    "links": [],
+    "deal_value": "FIFA paid Mastercard $90m, and Mastercard gave up future World Cup rights"
+  },
+  {
+    "id": "kelloggs-michael-phelps",
+    "brand": "Kellogg’s × Michael Phelps",
+    "title": "One Photo, Two Sponsors",
+    "year": 2009,
+    "place": "United States",
+    "sector": "Breakfast cereal and swimming",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Kellogg’s money, Phelps’ medals",
+    "stage": "Not renewed",
+    "hook": "Kellogg’s dropped the Olympic champion. Subway kept him.",
+    "situation": "After winning eight gold medals at the 2008 Beijing Olympics, Michael Phelps was on cereal boxes across America.",
+    "exchange": "Kellogg’s paid Phelps to appear on its packs and in its adverts. Phelps gave Kellogg’s the most celebrated athlete of the year.",
+    "brought": [
+      [
+        "Kellogg’s",
+        "Money and a place on the breakfast table."
+      ],
+      [
+        "Michael Phelps",
+        "Eight gold medals and a clean, wholesome image."
+      ]
+    ],
+    "turning_point": "In February 2009 a British newspaper published a photo of Phelps with a bong. Kellogg’s said his behaviour was not consistent with its image and let his contract lapse. The next day Subway said it would keep him.",
+    "metric": "1 day",
+    "metric_label": "Between Kellogg’s dropping Phelps and Subway keeping him",
+    "measure": "Two sponsors, one photo and opposite decisions. A fact, not a result",
+    "evidence": "Both decisions are well reported. Phelps went on to win more medals and more sponsors, and no figure shows what either company gained or lost.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Decide in advance what your partner could do that you would forgive. The same mistake can be fatal to one partnership and survivable for another.",
+    "take": "Kellogg’s acted on its image, Subway on its customers. History has been kinder to Subway’s call.",
+    "credit": "Kellogg’s and Michael Phelps, 2008 to 2009",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the report · MediaPost",
+      "https://www.mediapost.com/publications/article/99867/kellogg-dropping-michael-phelps-over-bong-photo.html"
+    ],
+    "impact_source": [
+      "Read about Subway’s decision · CNBC",
+      "https://www.cnbc.com/2009/02/06/subway-keeps-phelps.html"
+    ],
+    "links": []
+  },
+  {
+    "id": "tiger-woods-sponsors",
+    "brand": "Tiger Woods × his sponsors",
+    "title": "The Cost to Shareholders",
+    "year": 2009,
+    "place": "United States",
+    "sector": "Golf and consumer brands",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Sponsors’ money, Woods’ image",
+    "stage": "Dropped by several, kept by one",
+    "hook": "An economic study put a price on a scandal for the companies that sponsored it.",
+    "situation": "Tiger Woods was the richest athlete in the world, sponsored by Nike, Gatorade, Accenture, AT&T, Gillette and EA Sports, among others.",
+    "exchange": "The sponsors paid Woods for his image of discipline and success. Woods gave them the most dominant athlete in sport.",
+    "brought": [
+      [
+        "The sponsors",
+        "Hundreds of millions in endorsement fees."
+      ],
+      [
+        "Tiger Woods",
+        "Winning, and an image of control."
+      ]
+    ],
+    "turning_point": "After a car crash outside his home in November 2009, reports of infidelity followed. Accenture, AT&T and Gatorade ended their deals. Nike stayed.",
+    "metric": "$5bn to $12bn",
+    "metric_label": "Estimated loss to sponsors’ shareholders",
+    "measure": "A University of California, Davis study compared sponsors’ share prices with the market and rivals over 13 trading days",
+    "evidence": "This is the rare failure with a modelled estimate. The economists compared each sponsor with the market and its closest competitor, and warned that the margin of error was large because many sponsors were parts of bigger companies.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "The closer your brand is to the person, the more their scandal costs you. The study found the sports brands lost most.",
+    "take": "The only modelled effect in this edition measures damage, not gain. That tells you something about what gets studied.",
+    "credit": "Victor Stango and Christopher Knittel, UC Davis, 2009",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the study · UC Davis",
+      "https://www.ucdavis.edu/news/tiger-woods-scandal-cost-shareholders-12-billion"
+    ],
+    "impact_source": [
+      "Read the report · NPR",
+      "https://www.npr.org/sections/money/2009/12/new_study_says_tiger_woods_sca.html"
+    ],
+    "links": []
+  },
+  {
+    "id": "target-missoni",
+    "brand": "Target × Missoni",
+    "title": "The Crash",
+    "year": 2011,
+    "place": "United States",
+    "sector": "Retail and fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Missoni’s zigzags, Target’s stores",
+    "stage": "Launched and sold out",
+    "hook": "The collaboration was so popular it broke the website.",
+    "situation": "Target had made cheap designer collaborations its signature. Missoni, the Italian fashion house, was known for colourful zigzag knitwear.",
+    "exchange": "Missoni designed some 400 products, from clothes to bikes. Target made them affordable and sold them in its stores and online.",
+    "brought": [
+      [
+        "Target",
+        "Stores across America and low prices."
+      ],
+      [
+        "Missoni",
+        "A famous pattern and Italian fashion credibility."
+      ]
+    ],
+    "turning_point": "On launch day in September 2011, Target’s website crashed and stayed down for most of the day. Shelves emptied within minutes, and the products appeared on eBay at several times the price.",
+    "metric": "1,591",
+    "metric_label": "eBay listings by the afternoon of launch day",
+    "measure": "Listings reported on launch day, many above double the Target price. A sign of demand, not Target’s sales",
+    "evidence": "The crash and the resale frenzy were widely reported. Target didn’t publish the line’s sales, and the damage was frustrated customers rather than lost money.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Success can fail too. If a partnership could sell out in minutes, plan for the demand, or the story becomes the people who couldn’t buy it.",
+    "take": "The only failure here caused by too much love. Customers weren’t angry at Missoni. They were angry they couldn’t get it.",
+    "credit": "Target and Missoni, 2011",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the launch day report · Star Tribune",
+      "https://www.startribune.com/missoni-mania-crashes-target/129730993"
+    ],
+    "impact_source": [
+      "Read about the resale · RetailWire",
+      "https://retailwire.com/discussion/fashion-scalpers-hit-jackpot-reselling-missoni-for-target-on-ebay/"
+    ],
+    "links": []
+  },
+  {
+    "id": "lance-armstrong-sponsors",
+    "brand": "Lance Armstrong × his sponsors",
+    "title": "The Exodus",
+    "year": 2012,
+    "place": "United States",
+    "sector": "Cycling and consumer brands",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Sponsors’ money, Armstrong’s story",
+    "stage": "Dropped",
+    "hook": "The comeback story was the product, and it wasn’t true.",
+    "situation": "Lance Armstrong had survived cancer and won seven Tours de France. Nike, Trek, Anheuser-Busch and Oakley built campaigns on his story, and Livestrong sold millions of yellow wristbands.",
+    "exchange": "Sponsors paid Armstrong for his image of courage. Armstrong gave them the most inspiring story in sport.",
+    "brought": [
+      [
+        "The sponsors",
+        "Money, products and campaigns."
+      ],
+      [
+        "Lance Armstrong",
+        "Seven Tour titles and a survivor’s story."
+      ]
+    ],
+    "turning_point": "In October 2012 the US Anti-Doping Agency published its evidence of doping. On 17 October Nike ended its contract, saying it had been misled for more than a decade. Trek and Anheuser-Busch followed the same day, and Oakley days later.",
+    "metric": "$30m",
+    "metric_label": "Yearly income Armstrong could lose, as estimated at the time",
+    "measure": "A BusinessWeek estimate of what the sponsors leaving could cost Armstrong each year",
+    "evidence": "The exits are well documented. The figure is an estimate of Armstrong’s loss, not the sponsors’, and no sponsor published what the association had cost it.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When you buy a story, check it. A partnership built on a person’s character is only as true as their character.",
+    "take": "Nike said it had been misled. The harder question for every sponsor is how much they wanted to believe.",
+    "credit": "Nike, Trek, Anheuser-Busch, Oakley and Lance Armstrong",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about Nike’s decision · Sports Illustrated",
+      "https://www.si.com/more-sports/2012/10/17/lance-armstrong-loses-nike-sponsorship"
+    ],
+    "impact_source": [
+      "Read the report · Bangor Daily News",
+      "https://www.bangordailynews.com/2012/10/17/sports/lance-armstrong-out-as-livestrong-head-loses-sponsors/"
+    ],
+    "links": []
+  },
+  {
+    "id": "lego-shell",
+    "brand": "LEGO × Shell",
+    "title": "Everything Is Not Awesome",
+    "year": 2014,
+    "place": "Global",
+    "sector": "Toys and oil",
+    "mechanism": "Product for product",
+    "data_role": "Co-branded product",
+    "data_source": "Shell’s stations, LEGO’s bricks",
+    "stage": "Not renewed",
+    "hook": "A campaign film turned a toy partnership into a question about the Arctic.",
+    "situation": "LEGO had made Shell-branded sets since 1966, and in the 2010s they were sold at Shell petrol stations in 26 countries. Shell was planning to drill for oil in the Arctic.",
+    "exchange": "LEGO made Shell-branded toys. Shell sold them at its stations and put LEGO in front of millions of families.",
+    "brought": [
+      [
+        "LEGO",
+        "Its bricks and the trust of parents."
+      ],
+      [
+        "Shell",
+        "Petrol stations and a promotion budget."
+      ]
+    ],
+    "turning_point": "In July 2014 Greenpeace released a film showing a LEGO Arctic drowning in oil. In October, LEGO said it would not renew the deal, while saying the issue was between Greenpeace and Shell.",
+    "metric": "5.9m",
+    "metric_label": "Views of Greenpeace’s film by October 2014",
+    "measure": "Views reported at the time. A measure of the campaign against the deal, not of the deal itself",
+    "evidence": "The film’s reach and LEGO’s decision are documented, and Greenpeace said over a million people emailed LEGO. Neither company published what the partnership earned.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "A partner’s business becomes part of yours. If your customers are children and their parents, you inherit every argument about your partner.",
+    "take": "LEGO insisted the campaign wasn’t about it. It ended the deal anyway, because a brand built on trust can’t afford the argument.",
+    "credit": "LEGO and Shell, 1966 to 2014",
+    "creative": {
+      "medium": "Campaign film",
+      "label": "Watch Greenpeace’s film ‘LEGO: Everything is NOT awesome.’ on Greenpeace International’s channel",
+      "url": "https://www.youtube.com/watch?v=qhbliUq0_r4"
+    },
+    "announcement": [
+      "Read about the decision · Salon",
+      "https://www.salon.com/2014/10/09/awesome_lego_drops_shell_partnership_over_arctic_drilling_controversy"
+    ],
+    "impact_source": [
+      "Read about the campaign · PRWeek",
+      "https://www.prweek.com/article/1302633/greenpeace-viral-video-says-everything-not-awesome-lego-shell-partnership"
+    ],
+    "links": [],
+    "deal_value": "Reported at about $103m in Swedish media, unconfirmed"
+  },
+  {
+    "id": "apple-u2-songs-of-innocence",
+    "brand": "Apple × U2",
+    "title": "Songs of Innocence",
+    "year": 2014,
+    "place": "Global",
+    "sector": "Technology and rock music",
+    "mechanism": "Money for distribution",
+    "data_role": "Platform integration",
+    "data_source": "Apple’s iTunes, U2’s album",
+    "stage": "Launched and apologised for",
+    "hook": "A free album nobody asked for appeared in half a billion libraries.",
+    "situation": "Ten years after the U2 iPod, Apple was launching the iPhone 6. U2 had a new album and wanted it heard by as many people as possible.",
+    "exchange": "Apple paid for the album and put it, free, into the iTunes library of every customer. U2 got the widest release in history.",
+    "brought": [
+      [
+        "Apple",
+        "Over 500 million iTunes accounts and a launch event."
+      ],
+      [
+        "U2 and Universal Music",
+        "A new album."
+      ]
+    ],
+    "turning_point": "The album arrived automatically on 9 September 2014. Many customers saw it as an intrusion, and within days Apple released a tool to remove it. Bono later apologised.",
+    "metric": "500m",
+    "metric_label": "iTunes accounts the album was added to",
+    "measure": "Apple’s reach figure. Apple said 33 million people had accessed the album a week later",
+    "evidence": "The reach is Apple’s own number, and the backlash and removal tool are documented. No figure shows whether either side gained.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Reach without consent is not reach. A gift people didn’t choose can feel like an intrusion.",
+    "take": "The same partners as Edition 04, ten years on. In 2004 people chose the U2 iPod. In 2014 the album chose them.",
+    "credit": "Apple, U2 and Universal Music Group, 2014",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch Apple’s September 2014 event on Apple’s channel. U2 appear near the end",
+      "url": "https://www.youtube.com/watch?v=38IqQpwPe7s"
+    },
+    "announcement": [
+      "Read about the removal tool · Campaign",
+      "https://campaignlive.com/article/apple-creates-u2-album-removal-button-unhappy-itunes-users/1313234"
+    ],
+    "impact_source": [
+      "Read the report · CBC",
+      "https://www.cbc.ca/news/science/apple-s-one-click-tool-deletes-unwanted-u2-tracks-1.2767319"
+    ],
+    "links": []
+  },
+  {
+    "id": "subway-jared-fogle",
+    "brand": "Subway × Jared Fogle",
+    "title": "The Spokesman",
+    "year": 2015,
+    "place": "United States",
+    "sector": "Fast food",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Subway’s money, Fogle’s weight-loss story",
+    "stage": "Ended",
+    "hook": "For fifteen years, a customer’s story was the brand’s story.",
+    "situation": "Jared Fogle said he had lost more than half his body weight eating Subway sandwiches. From 2000 Subway built its healthy-eating message around him.",
+    "exchange": "Subway paid Fogle to be its spokesman. Fogle gave Subway a real customer’s story that made fast food seem healthy.",
+    "brought": [
+      [
+        "Subway",
+        "Money and national advertising."
+      ],
+      [
+        "Jared Fogle",
+        "A personal story customers believed."
+      ]
+    ],
+    "turning_point": "In July 2015 federal agents searched Fogle’s home, and Subway suspended the relationship. In August Subway ended it. Fogle pleaded guilty to child sex abuse and child pornography offences and was sentenced to 15 years and 8 months in prison.",
+    "metric": "15 years",
+    "metric_label": "As Subway’s spokesman, from 2000 to 2015",
+    "measure": "The length of the partnership. A fact, not a result",
+    "evidence": "The partnership, its end and the conviction are on the public record. Subway didn’t publish what the partnership earned or what its end cost.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When a person becomes your brand’s story, their private life becomes part of your risk. Check the people you make central to your brand.",
+    "take": "The hardest case in the archive to write. The partnership worked for years, which is exactly why its end was so damaging.",
+    "credit": "Subway and Jared Fogle, 2000 to 2015",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the suspension · The Drum",
+      "https://www.thedrum.com/news/2015/07/08/subway-suspends-relationship-spokesman-jared-fogle-following-fbi-search"
+    ],
+    "impact_source": [
+      "Read about the sentence · Nation’s Restaurant News",
+      "https://www.nrn.com/restaurant-segments/former-subway-spokesman-jared-fogle-sentenced-to-15-years"
+    ],
+    "links": []
+  },
+  {
+    "id": "bp-tate",
+    "brand": "BP × Tate",
+    "title": "Art Not Oil",
+    "year": 2016,
+    "place": "London",
+    "sector": "Oil and art",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "BP’s money, Tate’s galleries",
+    "stage": "Ended",
+    "hook": "Protesters performed in the galleries until the sponsor left.",
+    "situation": "BP had sponsored Tate since 1990, the longest-running sponsorship of a permanent art collection in Britain. Climate campaigners argued that oil money shouldn’t pay for art.",
+    "exchange": "BP paid to sponsor Tate’s collection displays. Tate gave BP a place in Britain’s cultural life.",
+    "brought": [
+      [
+        "BP",
+        "Sponsorship money for the collection."
+      ],
+      [
+        "Tate",
+        "Its galleries and cultural standing."
+      ]
+    ],
+    "turning_point": "Campaign groups such as Liberate Tate staged performances in the galleries for years. In March 2016 BP announced it would end the sponsorship in 2017, citing a challenging business environment rather than the protests.",
+    "metric": "26 years",
+    "metric_label": "From 1990 to the announcement in 2016",
+    "measure": "The length of the partnership. A fact, not a result",
+    "evidence": "The partnership’s length and end are documented. BP said the protests weren’t the reason, campaigners said they were, and the yearly sums were small compared with Tate’s total income.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A partnership can lose its licence to operate long before it loses money. Watch what the partner’s audience thinks of you.",
+    "take": "BP said it was about business. Maybe so. But the reason a sponsor gives for leaving is rarely the whole reason.",
+    "credit": "BP and Tate, 1990 to 2017",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the report · The Art Newspaper",
+      "https://theartnewspaper.com/2016/03/11/bp-ends-26-year-sponsorship-deal-with-tate"
+    ],
+    "impact_source": [
+      "Read the report · ArtReview",
+      "https://artreview.com/news-11-mar-2016-end-of-bp-tate-sponsorship/"
+    ],
+    "links": []
+  },
+  {
+    "id": "peloton-and-just-like-that",
+    "brand": "Peloton × And Just Like That",
+    "title": "Mr Big’s Last Ride",
+    "year": 2021,
+    "place": "United States",
+    "sector": "Fitness and television",
+    "mechanism": "Content for reach",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Peloton’s bike, HBO’s show",
+    "stage": "Placed, then answered",
+    "hook": "A brand agreed to appear in a show, and its bike was part of a character’s death.",
+    "situation": "HBO’s Sex and the City sequel, And Just Like That, featured a Peloton bike in its first episode. Peloton had agreed to the placement.",
+    "exchange": "Peloton provided the bike and its instructor. HBO gave Peloton a place in one of the year’s most anticipated shows.",
+    "brought": [
+      [
+        "Peloton",
+        "Its bike and an instructor."
+      ],
+      [
+        "HBO",
+        "A much-anticipated show and its audience."
+      ]
+    ],
+    "turning_point": "In the episode, broadcast on 9 December 2021, Mr Big dies of a heart attack after a Peloton class. Peloton’s shares fell. Within days it released its own advert, made with Ryan Reynolds’ agency, showing the character alive, then withdrew it after allegations were made against the actor.",
+    "metric": "−11%",
+    "metric_label": "Peloton’s share price, overnight after the episode",
+    "measure": "Reported share price fall. Peloton’s shares were already falling, so the episode was not the only cause",
+    "evidence": "The share price fall and the quick response are documented. Peloton was already struggling, and its own advert went viral but had little lasting effect on the price.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A placement in someone else’s story means they decide your role. Ask how your product will be used before you agree.",
+    "take": "Peloton’s answer was brilliant and fast, and then it had to delete it. It’s a reminder that you never control the people in a partnership, even your own advert.",
+    "credit": "Peloton and HBO, 2021",
+    "creative": {
+      "medium": "Original work",
+      "label": "Peloton removed its advert",
+      "url": ""
+    },
+    "announcement": [
+      "Read the analysis · Axios",
+      "https://www.axios.com/2021/12/14/peloton-spins-crisis-into-viral-moment"
+    ],
+    "impact_source": [
+      "Read the report · NBC News",
+      "https://www.nbcnews.com/news/us-news/pelotons-new-ad-hits-back-just-death-rcna8513"
+    ],
+    "links": []
+  },
+  {
+    "id": "ftx-sports",
+    "brand": "FTX × sport",
+    "title": "The Arena",
+    "year": 2022,
+    "place": "Miami and worldwide",
+    "sector": "Cryptocurrency and sport",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "FTX’s money, sport’s audiences",
+    "stage": "Signed and terminated in bankruptcy",
+    "hook": "A crypto exchange bought trust from sport, and the trust didn’t hold.",
+    "situation": "FTX wanted ordinary people to trust cryptocurrency. It signed deals with an arena in Miami, Major League Baseball, Formula 1’s Mercedes team and stars such as Tom Brady.",
+    "exchange": "FTX paid for names on arenas, umpires’ sleeves and adverts with athletes. Sport gave FTX the trust and attention of fans.",
+    "brought": [
+      [
+        "FTX",
+        "Very large sums for naming rights and endorsements."
+      ],
+      [
+        "Sport",
+        "Famous venues, leagues and athletes."
+      ]
+    ],
+    "turning_point": "In November 2022 FTX collapsed and filed for bankruptcy. Its founder was later convicted of fraud. A court ended the arena deal, and investors sued many of FTX’s sports partners and celebrity endorsers.",
+    "metric": "19 months",
+    "metric_label": "How long the 19-year arena deal lasted",
+    "measure": "From June 2021 to its termination in bankruptcy court in January 2023. A fact, not a result",
+    "evidence": "The deals, the collapse and the court decisions are on the public record. The lawsuits against partners show the reputational cost, but none has published a loss.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When a partner pays you to lend them trust, you are part of what they sell. Check where the money comes from.",
+    "take": "Sport rented its credibility to a company that didn’t deserve it. The money was real, and so was the damage.",
+    "credit": "FTX, Miami-Dade County and the Miami Heat, 2021 to 2023",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the arena ruling · CBS Sports",
+      "https://www.cbssports.com/nba/news/judge-terminates-ftx-naming-rights-agreement-for-miami-heats-arena"
+    ],
+    "impact_source": [
+      "Read about the collapse of the deals · Decrypt",
+      "https://decrypt.co/114975/crypto-sports-marketing-deals-crumbling-cancelled-failed-ftx"
+    ],
+    "links": [],
+    "deal_value": "$135m over 19 years for the Miami arena"
+  },
+  {
+    "id": "yeezy-gap",
+    "brand": "Gap × Kanye West",
+    "title": "Yeezy Gap",
+    "year": 2022,
+    "place": "United States",
+    "sector": "Fashion retail",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Ye’s designs, Gap’s stores",
+    "stage": "Ended early",
+    "hook": "A ten-year deal lasted two.",
+    "situation": "Gap was searching for relevance. In 2020 it signed a ten-year deal with Kanye West, now known as Ye, who had worked at a Gap store as a teenager.",
+    "exchange": "Ye designed collections for Gap. Gap manufactured and sold them, and expected the line to earn $1bn within five years.",
+    "brought": [
+      [
+        "Gap",
+        "Stores, manufacturing and a mass audience."
+      ],
+      [
+        "Kanye West",
+        "Designs and cultural pull."
+      ]
+    ],
+    "turning_point": "In September 2022 Ye’s lawyer told Gap he was ending the deal, saying Gap had broken its promises on stores. Gap said the partners were not aligned. Weeks later Gap pulled the remaining products from stores after Ye’s antisemitic statements.",
+    "metric": "2 years",
+    "metric_label": "Of a ten-year deal",
+    "measure": "The time the partnership lasted. A fact, not a result",
+    "evidence": "The deal, the expected $1bn and the early end are reported. Neither side published the sales the line achieved.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A long contract doesn’t make a long partnership. Agree how decisions get made before the first collection, not after.",
+    "take": "Gap wanted culture, Ye wanted control. Neither got what they signed for.",
+    "credit": "Gap and Ye, 2020 to 2022",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the report · Rolling Stone",
+      "https://www.rollingstone.com/music/music-news/kanye-west-terminates-gap-deal-1234593518/"
+    ],
+    "impact_source": [
+      "Read the report · Retail Gazette",
+      "https://www.retailgazette.co.uk/blog/2022/09/gap-and-kanye-west-end-partnership/"
+    ],
+    "links": []
+  }
+]

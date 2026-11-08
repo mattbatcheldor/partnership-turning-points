@@ -196,3 +196,9 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 .film-frame.bottle{background:linear-gradient(#DBE9E1,#DBE9E1) 50% 75%/22% 62% no-repeat,linear-gradient(#DBE9E1,#DBE9E1) 50% 20%/8% 30% no-repeat,#075950}
 .film-frame.gym{background:linear-gradient(90deg,transparent 0 20%,#172C2A 20% 22%,transparent 22% 78%,#172C2A 78% 80%,transparent 80%) 50% 50%/100% 20% no-repeat,linear-gradient(#172C2A,#172C2A) 50% 50%/62% 3% no-repeat,#F1DCD3}
 .film-frame.rings{background:radial-gradient(circle at 34% 45%,transparent 0 9%,#C97B60 9.5% 11.5%,transparent 12%),radial-gradient(circle at 50% 45%,transparent 0 9%,#172C2A 9.5% 11.5%,transparent 12%),radial-gradient(circle at 66% 45%,transparent 0 9%,#075950 9.5% 11.5%,transparent 12%),radial-gradient(circle at 42% 58%,transparent 0 9%,#ffcf5a 9.5% 11.5%,transparent 12%),radial-gradient(circle at 58% 58%,transparent 0 9%,#2F7D6F 9.5% 11.5%,transparent 12%),#F7F3EA}
+.screen-grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:850px){.screen-grid.three{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.screen-grid.three{grid-template-columns:1fr}}
+.film-frame.candle{background:radial-gradient(ellipse 4% 9% at 50% 30%,#ffcf5a 0 98%,transparent),linear-gradient(#F7F3EA,#F7F3EA) 50% 72%/10% 52% no-repeat,#C97B60}
+.film-frame.stage{background:radial-gradient(ellipse 30% 70% at 50% 0,#DBE9E1 0 40%,transparent 41%),linear-gradient(#0d1615,#0d1615) 50% 100%/100% 18% no-repeat,#172C2A}
+.film-frame.brick{background:radial-gradient(circle at 38% 38%,#e0c25a 0 7%,transparent 7.5%),radial-gradient(circle at 62% 38%,#e0c25a 0 7%,transparent 7.5%),linear-gradient(#e0c25a,#e0c25a) 50% 62%/40% 34% no-repeat,linear-gradient(#111,#111) 0 100%/100% 26% no-repeat,#DBE9E1}
