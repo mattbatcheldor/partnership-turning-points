@@ -34,9 +34,10 @@
     "take": "The benchmark every sponsorship pitch I have seen gets measured against. It worked because the customer got something real, not just a logo on a roof.",
     "credit": "IPA 2010 · Gold · VCCP for O2",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Interview with AEG",
+      "label": "Watch AEG’s Paul Samuels tell the story of The O2 naming rights",
+      "url": "https://www.youtube.com/watch?v=qcj1TR_07d4",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the venue’s history · Wikipedia",
@@ -51,7 +52,15 @@
         "Read the 2008 case summary · IPA",
         "https://ipa.co.uk/knowledge/case-studies/o2-stadium-a-blueprint-for-21st-century-sponsorship/"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-02/o2-the-o2.webp",
+      "alt": "The illuminated O2 entrance in Greenwich",
+      "width": 840,
+      "height": 560,
+      "source": "https://www.aeg-international.com/press-centre/aeg-and-o2-extend-landmark-the-o2-naming-rights-partnership-until-2038",
+      "credit": "The O2 entrance · Luke Dyson, via AEG International"
+    }
   },
   {
     "id": "star-alliance",
@@ -88,9 +97,10 @@
     "take": "The most unusual partnership in this edition: rivals agreeing to share a brand. It only works because travellers cared more about the network than the logo.",
     "credit": "Y&R London for Star Alliance",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Official retrospective",
+      "label": "Watch Star Alliance trace the network back to its 1997 founding",
+      "url": "https://www.youtube.com/watch?v=6-x9MXi2qyI",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the alliance’s history · Wikipedia",
@@ -100,7 +110,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/star-alliance-a-new-kind-of-airline/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/star-alliance.webp",
+      "alt": "Air India Boeing 787 in Star Alliance livery",
+      "width": 840,
+      "height": 473,
+      "source": "https://commons.wikimedia.org/wiki/File:VT-ANU_B788_Air_India_Star_Alliance_livery_DME_(2)_(33259690292)_(2).jpg",
+      "credit": "Air India in Star Alliance livery (2015) · Papas Dos, CC BY 2.0 via Wikimedia Commons · resized"
+    }
   },
   {
     "id": "bt-cellnet-big-brother",
@@ -137,9 +155,10 @@
     "take": "An early sign of where sponsorship was heading. The money came from participation, not the idents.",
     "credit": "IPA 2002 · Silver · PHD Media for BT Cellnet",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived broadcast",
+      "label": "Watch highlights from the 2001 Channel 4 final, including the telephone voting prompts",
+      "url": "https://www.youtube.com/watch?v=O7L2je4OweA",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the series · Wikipedia",
@@ -150,7 +169,15 @@
       "https://ipa.co.uk/knowledge/case-studies/bt-cellnet-how-broadcast-sponsorship-of-big-brother-2-became-a-busines-spartnership/"
     ],
     "links": [],
-    "deal_value": "£4m sponsorship fee, as stated in the IPA paper"
+    "deal_value": "£4m sponsorship fee, as stated in the IPA paper",
+    "image": {
+      "src": "assets/edition-02/bt-cellnet-big-brother.webp",
+      "alt": "Helen Adams on the 2001 Big Brother final with a telephone voting caption",
+      "width": 787,
+      "height": 590,
+      "source": "https://www.youtube.com/watch?v=O7L2je4OweA",
+      "credit": "Big Brother 2 final (2001) · Channel 4 broadcast still from an archive upload"
+    }
   },
   {
     "id": "pampers-unicef",
@@ -187,9 +214,10 @@
     "take": "The clearest proof in the edition is for the charity, not the brand. That’s the right way round, but it means Pampers’ own return stays private.",
     "credit": "Pampers and UNICEF",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Campaign advert",
+      "label": "Watch Amazing Babies, the Pampers and UNICEF advert featured on UNICEF’s partnership page",
+      "url": "https://www.youtube.com/watch?v=9Y3VGlArVt4",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the ten-year story · UNICEF Ireland",
@@ -204,7 +232,15 @@
         "Read about tetanus elimination · UNICEF",
         "https://www.unicef.org/blog/eliminating-silent-killer-maternal-neonatal-tetanus"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-02/pampers-unicef.webp",
+      "alt": "A baby in a blue knitted hat in the Pampers and UNICEF advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=9Y3VGlArVt4",
+      "credit": "Pampers and UNICEF, Amazing Babies · advert still from the film linked by UNICEF"
+    }
   },
   {
     "id": "iceland-im-a-celebrity",
@@ -241,9 +277,10 @@
     "take": "Not glamorous, and very effective. The sponsorship worked because the audience and the shoppers were the same people.",
     "credit": "MediaCom Manchester for Iceland",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later sponsorship ident",
+      "label": "Watch Karmarama’s 10-second Exotic Meat Fest ident from a later series",
+      "url": "https://vimeo.com/554223584",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the show · Wikipedia",
@@ -253,7 +290,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/iceland-frozen-foods-iceland-foods-i-m-a-celebrity-a-perfect-match/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/iceland-im-a-celebrity.webp",
+      "alt": "An Iceland I’m a Celebrity sponsorship ident with food and the Iceland wordmark",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/554223584",
+      "credit": "Iceland I’m a Celebrity sponsorship ident · Karmarama, via Carl Grinter’s archive"
+    }
   },
   {
     "id": "elephant-chakki-gold",
@@ -290,9 +335,10 @@
     "take": "The smallest budget in the archive so far, and one of the biggest growth rates. Proof that partnership is a tool for challengers, not just giants.",
     "credit": "Mediareach Advertising for Elephant Chakki Gold",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Brand advert from a production archive",
+      "label": "Watch Nodachi’s archived Elephant Chakki Gold Atta advert",
+      "url": "https://vimeo.com/531928948",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the case summary · IPA",
@@ -302,7 +348,16 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/elephant-chakki-gold-ecg-go-for-gold/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/elephant-chakki-gold.webp",
+      "alt": "Elephant Atta Chakki Gold flour packaging",
+      "width": 502,
+      "height": 590,
+      "source": "https://elephantatta.com/products/chakki-gold/",
+      "credit": "Chakki Gold pack as shown on Elephant Atta’s product page",
+      "contain": true
+    }
   },
   {
     "id": "bq-4homes",
@@ -339,9 +394,10 @@
     "take": "The partnership that kept people dreaming about their homes when they couldn’t afford to act. Patience paid.",
     "credit": "Addiction for B&Q",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Agency case film",
+      "label": "Watch Bray Leino’s Changing Dreams Into Reality case film",
+      "url": "https://www.brayleino.co.uk/news/changing-dreams-into-reality",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the case summary · IPA",
@@ -351,7 +407,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/bq-sponsorship-of-4homes-inspiring-home-improvements/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/bq-4homes.webp",
+      "alt": "George Clarke standing in front of a house in Bray Leino’s B&Q film",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.brayleino.co.uk/news/changing-dreams-into-reality",
+      "credit": "Changing Dreams Into Reality · still from Bray Leino’s B&Q case film"
+    }
   },
   {
     "id": "mcdonalds-london-2012",
@@ -388,9 +452,11 @@
     "take": "The hardest brief in the edition: a sponsorship people didn’t want. The answer was to step back and let the public be the hero.",
     "credit": "IPA 2014 · Leo Burnett for McDonald’s",
     "creative": {
-      "medium": "Agency film",
-      "label": "Watch ‘We All Made the Games’ on Leo Burnett UK’s channel",
-      "url": "https://www.youtube.com/watch?v=pevEWZq8X34"
+      "medium": "Agency case film",
+      "label": "Watch We All Made the Games on Leo Burnett UK’s channel",
+      "url": "https://www.youtube.com/watch?v=pevEWZq8X34",
+      "heading": "Partnership media",
+      "screening_title": "We All Made the Games"
     },
     "announcement": [
       "Read about the Games · Wikipedia",
@@ -400,7 +466,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/mcdonald-s-sponsorship-of-2012-we-all-make-the-games/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/mcdonalds-london-2012.webp",
+      "alt": "A spectator in a red shirt watches the London 2012 Games in the campaign film",
+      "width": 480,
+      "height": 270,
+      "source": "https://www.youtube.com/watch?v=pevEWZq8X34",
+      "credit": "We All Made the Games (2012) · Leo Burnett UK case-film still"
+    }
   },
   {
     "id": "gillette-movember",
@@ -437,9 +511,11 @@
     "take": "Clever and honest: Gillette admitted men weren’t shaving, and sold them the tool to look after the moustache instead.",
     "credit": "Abbott Mead Vickers BBDO for Gillette",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch a later Gillette UK Movember film on its channel",
-      "url": "https://www.youtube.com/watch?v=iK8UyBRn48Y"
+      "medium": "Later campaign film",
+      "label": "Watch Gillette UK’s Who’s Your Mo Mate? with Ian Wright and Aaron Ramsdale",
+      "url": "https://www.youtube.com/watch?v=iK8UyBRn48Y",
+      "heading": "Partnership media",
+      "screening_title": "Who’s Your Mo Mate?"
     },
     "announcement": [
       "Read about Movember · Wikipedia",
@@ -449,7 +525,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/gillette-movember-helping-men-look-good-and-do-good/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/gillette-movember.webp",
+      "alt": "Ian Wright in a Gillette top in the Who’s Your Mo Mate? film",
+      "width": 480,
+      "height": 270,
+      "source": "https://www.youtube.com/watch?v=iK8UyBRn48Y",
+      "credit": "Who’s Your Mo Mate? · still from Gillette UK’s later Movember film"
+    }
   },
   {
     "id": "sainsburys-royal-british-legion",
@@ -486,9 +570,10 @@
     "take": "The partnership did what no supermarket could do alone: make a Christmas advert about history and be trusted for it.",
     "credit": "IPA 2016 · Silver · Abbott Mead Vickers BBDO for Sainsbury’s",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original Christmas advert",
+      "label": "Watch 1914, Sainsbury’s Christmas advert made with the Royal British Legion",
+      "url": "https://www.youtube.com/watch?v=NWF2JBb1bvM",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the charity · Wikipedia",
@@ -498,7 +583,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/sainsbury-s-christmas-is-for-sharing/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/sainsburys-royal-british-legion.webp",
+      "alt": "British and German soldiers meet in the Sainsbury’s Christmas truce advert",
+      "width": 840,
+      "height": 525,
+      "source": "https://www.youtube.com/watch?v=NWF2JBb1bvM",
+      "credit": "1914 (2014) · still from Sainsbury’s Christmas advert"
+    }
   },
   {
     "id": "tennents-t-in-the-park",
@@ -535,9 +628,10 @@
     "take": "The partnership is so old the festival carries the beer’s initial. That is the dream outcome for any sponsor, and the risk too.",
     "credit": "Material for Tennent’s",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Festival footage",
+      "label": "Watch Friday highlights from the Tennent’s T Break stage at T in the Park 2015",
+      "url": "https://www.youtube.com/watch?v=NjS6hRs5kFg",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the festival · Wikipedia",
@@ -547,7 +641,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/tennent-s-lager-tennent-s-at-the-heart-of-t-in-the-park/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/tennents-t-in-the-park.webp",
+      "alt": "A crowd and blue stage lights at the 2015 T Break showcase",
+      "width": 840,
+      "height": 556,
+      "source": "https://www.tenementtv.com/features/watch-t-break-performances-t-in-the-park-2015/",
+      "credit": "Tennent’s Lager T Break stage at T in the Park (2015) · Tenement TV"
+    }
   },
   {
     "id": "mastercard-rugby-world-cup",
@@ -584,9 +686,10 @@
     "take": "A sponsorship judged on transactions, not tickets. Mastercard knew what it wanted from the rugby, and counted it.",
     "credit": "IPA 2016 · McCann London for Mastercard",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Campaign case film",
+      "label": "Watch the 44 Days of Crazy case film on Vimeo",
+      "url": "https://vimeo.com/204369893",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the tournament · Wikipedia",
@@ -596,7 +699,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/mastercard-44-days-of-crazy-converting-fan-passion-at-rugby-world-cup-2015-into-increased-card-spend/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/mastercard-rugby-world-cup.webp",
+      "alt": "Fans gather behind the title Mastercard’s 44 Days of Crazy",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/204369893",
+      "credit": "44 Days of Crazy · Rugby World Cup 2015 case-film thumbnail"
+    }
   },
   {
     "id": "heineken-champions-league",
@@ -633,9 +744,11 @@
     "take": "The second Heineken case in this archive, and the opposite of its Bond deal. Here the partnership had a job, and a measure.",
     "credit": "IPA 2018 · Silver · Publicis Italy for Heineken",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘#ShareTheSofa for the UEFA Champions League’ on Heineken’s channel",
-      "url": "https://www.youtube.com/watch?v=C7ZdH1isg6E"
+      "medium": "Official campaign film",
+      "label": "Watch #ShareTheSofa for the UEFA Champions League on Heineken’s channel",
+      "url": "https://www.youtube.com/watch?v=C7ZdH1isg6E",
+      "heading": "Partnership media",
+      "screening_title": "#ShareTheSofa"
     },
     "announcement": [
       "Read about the competition · Wikipedia",
@@ -645,7 +758,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/a-game-changer-how-heineken-reinvented-it-s-champions-league-communications/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/heineken-champions-league.webp",
+      "alt": "Heineken and UEFA Champions League branding above a stadium crowd",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=C7ZdH1isg6E",
+      "credit": "#ShareTheSofa · Heineken’s official Champions League film thumbnail"
+    }
   },
   {
     "id": "dfs-team-gb",
@@ -682,9 +803,10 @@
     "take": "Partnerships as one ingredient in a recipe, not the whole meal. That is how most of them work in real life.",
     "credit": "IPA 2018 · Gold · krow Communications and MediaCom for DFS",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Team GB campaign film",
+      "label": "Watch Great Brits, krow’s DFS and Team GB advert for Rio 2016",
+      "url": "https://vimeo.com/176613678",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the retailer · Wikipedia",
@@ -694,7 +816,15 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/turning-dfs-from-a-value-brand-into-a-brand-that-people-value/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/dfs-team-gb.webp",
+      "alt": "A Team GB athlete training in the DFS Great Brits advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/176613678",
+      "credit": "Great Brits (2016) · still from krow’s DFS and Team GB film"
+    }
   },
   {
     "id": "tourism-ireland-game-of-thrones",
@@ -731,9 +861,11 @@
     "take": "A partnership built around a limitation. The tapestry exists because the rights didn’t, and it became a tourist attraction itself.",
     "credit": "IPA 2024 · Publicis London and OMD UK for Tourism Ireland",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The Stunning Game of Thrones Legacy Woven in Ireland’ on Discover Ireland’s channel",
-      "url": "https://www.youtube.com/watch?v=aZV4PclhHeA"
+      "medium": "Official tourism film",
+      "label": "Watch The Stunning Game of Thrones Legacy Woven in Ireland on Discover Ireland’s channel",
+      "url": "https://www.youtube.com/watch?v=aZV4PclhHeA",
+      "heading": "Partnership media",
+      "screening_title": "The Game of Thrones Tapestry"
     },
     "announcement": [
       "Read about the tapestry · Wikipedia",
@@ -743,6 +875,14 @@
       "Read the case summary · IPA",
       "https://ipa.co.uk/knowledge/case-studies/tourism-ireland-lights-cameras-collaboration-multiplying-the-effect-of-screen-tourism/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-02/tourism-ireland-game-of-thrones.webp",
+      "alt": "An illustration of Daenerys from the Game of Thrones tapestry campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.thisisjelly.com/uk/project/game-of-thrones-glass-and-tapestry",
+      "credit": "Game of Thrones Tapestry campaign artwork · Publicis London and Jelly"
+    }
   }
 ]

@@ -315,16 +315,17 @@ def render_screenings(campaigns, screening, prefix=''):
     for case_id, note, drawn in screening:
         c = next(entry for entry in campaigns if entry['id'] == case_id)
         creative = c['creative']
+        title = creative.get('screening_title', c['title'])
         url = creative.get('screening_url', creative['url'])
         video = url.partition('https://www.youtube.com/watch?v=')[2]
         player = ''
         if video:
-            player = f'<button class="play-film small" type="button" data-video="{e(video)}" data-title="{e(c["title"])}" hidden>Play here</button>'
+            player = f'<button class="play-film small" type="button" data-video="{e(video)}" data-title="{e(title)}" hidden>Play here</button>'
         frame = campaign_image(c, 'film-frame', prefix) or f'<span class="film-frame drawn {drawn}" aria-hidden="true"></span>'
         screenings.append(f'''<article class="screening">
 {frame}
 <div class="film-body">
-<div class="film-heading"><p class="small">{e(c['brand'])} / {c['year']}</p><h3>{e(c['title'])}</h3></div>
+<div class="film-heading"><p class="small">{e(c['brand'])} / {c['year']}</p><h3>{e(title)}</h3></div>
 <p>{e(note)}</p>
 <div class="film-actions">
 {player}<a href="{e(url)}">{'Watch on YouTube' if video else 'Watch at HAT'}</a>
@@ -478,10 +479,10 @@ EDITIONS = [
             'Survey': 'Tracking or research showed people’s views or interest changed.',
         },
         'screening': (
-            ('heineken-champions-league', 'Heineken invites fans to watch with a legend. The strategy in one line: don’t watch alone.', 'sofa'),
-            ('mcdonalds-london-2012', 'Leo Burnett’s own record of the campaign. Notice who is on screen: the public, not the athletes.', 'torch'),
-            ('tourism-ireland-game-of-thrones', 'Tourism Ireland’s film of the tapestry it made because it couldn’t use the show’s footage freely.', 'tapestry'),
-            ('gillette-movember', 'A later Gillette UK film for Movember. The partnership outlived its first campaign.', 'mo'),
+            ('heineken-champions-league', 'Heineken turns watching a Champions League match into a chance to share the sofa with a football legend.', 'sofa'),
+            ('mcdonalds-london-2012', 'Leo Burnett’s campaign film puts the spectators, volunteers and families of London 2012 centre stage.', 'torch'),
+            ('tourism-ireland-game-of-thrones', 'Discover Ireland shows how scenes from the series became a tapestry that fans could see in person.', 'tapestry'),
+            ('gillette-movember', 'In a later Gillette UK film for Movember, Aaron Ramsdale and Ian Wright talk about having a mate to lean on.', 'mo'),
         ),
     },
     {
