@@ -38,5 +38,6 @@ The site is built from the files in `src/`, using the same engine as Brand Turni
 - Edition settings, including the screening-room films, live in `EDITIONS` in `src/build.py`.
 - Run `python3 src/build.py` to rebuild every page, then commit the source and the output together.
 - Edition 01 is the home page (`index.html`), and `edition-01/` forwards to it.
+- The Index (`the-index/`) is built from every edition's case file, using `src/page-template-index.html`. Its lessons and partner notes live in `LESSONS` and `PARTY_NOTES` in `src/build.py`, and the build stops if a partner who appears in two editions has no note.
 
 `main` is the only source of truth, and GitHub Pages publishes from it. Start new work from the latest `main`, and never force-push to it.

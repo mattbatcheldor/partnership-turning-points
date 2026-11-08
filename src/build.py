@@ -490,13 +490,13 @@ def write_forwarding_page(edition):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Brand Turning Points | Edition {edition["number"]}{", " + edition["name"] if edition.get("name") else ""}</title>
+<title>Partnership Turning Points | Edition {edition["number"]}{", " + edition["name"] if edition.get("name") else ""}</title>
 <link rel="canonical" href="{target}">
 <meta http-equiv="refresh" content="0; url={target}">
 <meta name="robots" content="noindex">
 </head>
 <body>
-<p><a href="{target}">Open Brand Turning Points, Edition {edition["number"]}</a></p>
+<p><a href="{target}">Open Partnership Turning Points, Edition {edition["number"]}</a></p>
 <script>location.replace({json.dumps(target)} + location.hash);</script>
 </body>
 </html>
@@ -552,9 +552,9 @@ def build(edition):
 # Add an entry below and run `python3 src/build.py`. The editions switcher in the menu updates itself.
 
 
-# The Index joins the series once enough editions exist. Until then the menu shows editions only.
+# The Index joins the series once all the editions exist. It reads every case file and is built after them.
 INDEX_OUTPUT = 'the-index/index.html'
-INDEX_READY = False
+INDEX_READY = True
 
 # The series convention: number every edition with two digits and give it three things.
 #   src/campaigns-NN.json      the cases
@@ -693,6 +693,233 @@ EDITIONS = [
     },
 ]
 
+# The Index: one page that reads the whole series, built from the same case files as the editions.
+REGIONS = [
+    ('UK and Ireland', ('United Kingdom', 'England', 'Northern Ireland', 'Scotland', 'London', 'Manchester', 'Birmingham')),
+    ('North America', ('United States', 'New York', 'Vermont', 'Idaho', 'Miami')),
+    ('Europe', ('Europe', 'Paris', 'Barcelona', 'Amsterdam', 'Netherlands', 'Zurich', 'Champions League')),
+    ('Asia', ('Japan', 'Tokyo', 'China', 'South Korea', 'Taiwan', 'Pakistan')),
+    ('Latin America', ('Brazil', 'Mexico')),
+    ('Africa', ('Kenya',)),
+]
+INDUSTRIES = [
+    ('Sport', ('sport', 'football', 'basketball', 'golf', 'cycling', 'swimming', 'rugby', 'olympic', 'skateboarding', 'formula', 'fitness', 'sportswear')),
+    ('Music', ('music', 'hip-hop', 'rock', 'pop', 'k-pop', 'festivals')),
+    ('Fashion', ('fashion', 'sportswear', 'footwear', 'luxury', 'watches', 'beauty', 'streetwear', 'clothing')),
+    ('Food and drink', ('food', 'drinks', 'coffee', 'beer', 'spirits', 'ice cream', 'chocolate', 'juice', 'smoothies', 'cereal', 'water', 'snacks', 'supermarkets')),
+    ('Technology', ('technology', 'smartphones', 'mobile', 'payments', 'streaming', 'artificial intelligence', 'software', 'cloud', 'search', 'networks', 'money', 'cryptocurrency', 'cameras', 'ride-hailing')),
+    ('Gaming', ('gaming',)),
+    ('Media', ('film', 'television', 'publishing', 'youtube', 'tiktok', 'broadcasting', 'podcasts', 'entertainment', 'animation')),
+    ('Art', ('art', 'toys', 'character licensing')),
+    ('Retail', ('retail', 'diy', 'furniture')),
+    ('Travel', ('airlines', 'car rental', 'tourism')),
+    ('Causes', ('charity', 'conservation', 'health')),
+    ('Energy', ('oil',)),
+]
+EVIDENCE_COLOURS = {'Modelled effect': '#557400', 'Sales trend': '#7c9a1e', 'Survey': '#a5c31c', 'Reach only': '#d3d1c5', 'Archival': '#a8aa9d'}
+LESSONS = [
+    ('Back what’s already there.',
+     'The partnerships people loved most often began before the contract. The partner already wore, drank or played the product, so nobody had to pretend.',
+     [('04', 'run-dmc-adidas'), ('04', 'ben-jerrys-phish'), ('04', 'swatch-keith-haring'), ('06', 'dunkin-charli-damelio'), ('06', 'ocean-spray-nathan-apodaca')]),
+    ('Bring something the other side can’t make.',
+     'Talent for scale is the second most common exchange, in {talent} of the {total} cases. The strongest pair a capability with a reach that neither side could build alone.',
+     [('01', 'hm-karl-lagerfeld'), ('01', 'lego-star-wars'), ('03', 'disney-pixar'), ('04', 'louis-vuitton-murakami'), ('07', 'm-pesa')]),
+    ('Sponsorship can be proved, and it can break.',
+     'Money for association is the most common exchange, in {money} cases. It holds {money_mod} of the {modelled} modelled effects, and nine of the fifteen failures in Edition 05. Paying to stand next to someone is the easiest deal to measure and the hardest to undo.',
+     [('02', 'o2-the-o2'), ('02', 'heineken-champions-league'), ('04', 'coca-cola-olympics'), ('05', 'hertz-oj-simpson'), ('05', 'tiger-woods-sponsors')]),
+    ('A price is not a result.',
+     '{deals} cases carry a deal value, flagged so it isn’t read as an outcome. The biggest sums, from Google’s payments to Apple to Microsoft’s bet on OpenAI, came with the least public evidence of what they bought.',
+     [('03', 'google-apple'), ('03', 'microsoft-openai'), ('03', 'spotify-joe-rogan'), ('05', 'ftx-sports'), ('06', 'ninja-mixer')]),
+    ('Go where the audience already is.',
+     'From Big Brother to Roblox, the partnerships that reached people met them somewhere they already spent their time. The ones that tried to move an audience, like Mixer, struggled.',
+     [('02', 'bt-cellnet-big-brother'), ('01', 'fortnite-travis-scott'), ('06', 'pokemon-go-mcdonalds-japan'), ('06', 'lil-nas-x-roblox'), ('07', 'mcdonalds-bts')]),
+    ('Decide how it ends before you start.',
+     'The deals that ended in court or in a warehouse rarely agreed in advance how decisions were made, or what would happen if a partner fell. Fred Perry shows the other way: it let the partner’s family decide.',
+     [('05', 'mastercard-fifa'), ('05', 'yeezy-gap'), ('05', 'adidas-kanye-west'), ('06', 'mrbeast-burger'), ('04', 'fred-perry-amy-winehouse')]),
+]
+PARTY_GROUPS = {'Apple Music': 'Apple', 'McDonald’s Japan': 'McDonald’s'}
+PARTY_SKIP = {'his sponsors', 'sport', 'its first creators'}
+PARTY_NOTES = {
+    'Apple': 'A running sensor with Nike, a search deal worth billions, two U2 releases and an open letter from Taylor Swift. Partner, payer and the one being told what to do.',
+    'Nike': 'Jordan and Ronaldo, a sensor with Apple, Virgil Abloh’s Ten and a filmmaker who spent the budget. Nike keeps backing people over products.',
+    'McDonald’s': 'An Olympic sponsor, a Pokémon gym and two famous orders. The menu became the partnership.',
+    'Coca-Cola': 'Nearly a century at the Olympics, its own mistake revived by Netflix, and Pakistan’s biggest music show.',
+    'Adidas': 'The fans who signed Run-DMC, twenty years with Stella McCartney, and the cost of Yeezy.',
+    'Pepsi': 'Michael Jackson set the price of fame. Madonna showed what it could cost.',
+    'U2': 'The same partners ten years apart. People chose the U2 iPod and resented the free album.',
+    'Michael Jordan': 'A brand built with Nike, and an advert people remember better than its sales.',
+    'Mastercard': 'A measured Rugby World Cup, and a football World Cup lost to a rival.',
+    'FIFA': 'One sponsorship, two card companies and a court case. Visa kept it, Mastercard was paid to go.',
+    'Heineken': 'A Bond film placement, and a Champions League deal with a published return.',
+    'Louis Vuitton': 'Murakami’s colours in 2003 and Supreme’s logo in 2017. A house that keeps letting outsiders in.',
+    'Spotify': 'A playlist in an Uber, a stadium name and a podcast host.',
+    'LEGO': 'Star Wars helped save it. Shell became a partner it had to end.',
+    'Uniqlo': 'Jil Sander’s minimalism and KAWS’ crowds. Designer names at a mass price.',
+    'Fortnite': 'Travis Scott’s concert and Thanos’ gauntlet. A game that became a stage.',
+    'Gucci': 'The North Face in shops, a garden in Roblox.',
+    'Ben & Jerry’s': 'A Vermont band’s flavour, and a Dutch chocolate maker’s rules.',
+}
+NUMBER_WORDS = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Seven', 8: 'Eight', 9: 'Nine', 10: 'Ten', 100: 'A hundred'}
+
+
+def region_of(place):
+    head = place.split(',')[0]
+    if head.strip().lower().startswith(('global', 'online')) and 'United States' not in place:
+        return 'Global'
+    hits = [(place.find(k), name) for name, keys in REGIONS for k in keys if k in place]
+    return min(hits)[1] if hits else 'Global'
+
+
+def industries_of(sector):
+    s = sector.lower()
+    words = set(re.findall(r"[a-z\-]+", s))
+    return [name for name, keys in INDUSTRIES if any((k in s) if ' ' in k else (k in words) for k in keys)] or ['Other']
+
+
+def decade_of(year):
+    return f'{year // 10 * 10}s'
+
+
+def load_series():
+    series = []
+    for edition in EDITIONS:
+        if not (root / edition['data']).exists():
+            continue
+        campaigns = json.loads((root / edition['data']).read_text(encoding='utf-8'))
+        template = (root / edition['template']).read_text(encoding='utf-8')
+        finding = re.search(r'<h2 id="finding-title">(.*?)</h2>', template)
+        series.append({'edition': edition, 'campaigns': campaigns, 'finding': finding.group(1) if finding else ''})
+    return series
+
+
+def case_href(edition, case_id):
+    return f'{relative_dir(INDEX_OUTPUT, edition["output"]) or "./"}#{case_id}'
+
+
+def build_index():
+    series = load_series()
+    by_number = {s['edition']['number']: s for s in series}
+    everything = [(s['edition'], c) for s in series for c in s['campaigns']]
+    total = len(everything)
+    modelled = sum(1 for _, c in everything if c['evidence_level'] == 'Modelled effect')
+    years = [c['year'] for _, c in everything]
+    regions = collections.Counter(region_of(c['place']) for _, c in everything)
+    decades = collections.Counter(decade_of(c['year']) for _, c in everything)
+    levels = collections.Counter(c['evidence_level'] for _, c in everything)
+    mechs = collections.Counter(c['mechanism'] for _, c in everything)
+    roles = collections.Counter(c['data_role'] for _, c in everything)
+    inds = collections.Counter(i for _, c in everything for i in industries_of(c['sector']))
+    deals = sum(1 for _, c in everything if c.get('deal_value'))
+    money_mod = sum(1 for _, c in everything if c['mechanism'] == 'Money for association' and c['evidence_level'] == 'Modelled effect')
+    e02_mod = sum(1 for c in by_number['02']['campaigns'] if c['evidence_level'] == 'Modelled effect') if '02' in by_number else 0
+
+    cards = []
+    for s in series:
+        ed, cs = s['edition'], s['campaigns']
+        n_mod = sum(1 for c in cs if c['evidence_level'] == 'Modelled effect')
+        href = relative_dir(INDEX_OUTPUT, ed['output']) or './'
+        cards.append(f'<a class="ed-card" href="{href}"><span class="ed-num">{ed["number"]}</span><span class="ed-name">{e(ed["name"])}</span>'
+                     f'<span class="ed-finding">{e(s["finding"])}</span><span class="ed-meta small">{len(cs)} cases · {min(c["year"] for c in cs)} to {max(c["year"] for c in cs)} · {n_mod or "no"} modelled</span></a>')
+
+    rows = []
+    for s in series:
+        ed, cs = s['edition'], s['campaigns']
+        segs = []
+        for level in LEVELS:
+            n = sum(1 for c in cs if c['evidence_level'] == level)
+            if n:
+                dark = level in ('Modelled effect', 'Sales trend')
+                segs.append(f'<span class="ev-seg{" dark" if dark else ""}" style="--n:{n};background:{EVIDENCE_COLOURS[level]}" title="{e(level)}: {n}">{n}<span class="sr"> {e(level)}</span></span>')
+        rows.append(f'<div class="ev-row"><span class="ev-label"><a href="{relative_dir(INDEX_OUTPUT, ed["output"]) or "./"}">Edition {ed["number"]}</a> <span>{e(ed["name"])}</span></span><span class="ev-bar">{"".join(segs)}</span></div>')
+    legend = ''.join(f'<span><i style="background:{EVIDENCE_COLOURS[l]}"></i>{e(l)} <b>{levels[l]}</b></span>' for l in LEVELS)
+
+    lessons = []
+    for i, (title, text, refs) in enumerate(LESSONS, 1):
+        chip_html = []
+        for num, cid in refs:
+            s = by_number[num]
+            c = next(c for c in s['campaigns'] if c['id'] == cid)
+            chip_html.append(f'<a class="lesson-chip" href="{case_href(s["edition"], cid)}"><span class="small">{num}</span> {e(c["brand"])}</a>')
+        text = text.format(total=total, talent=mechs['Talent for scale'], money=mechs['Money for association'],
+                           money_mod=money_mod, modelled=modelled, deals=NUMBER_WORDS.get(deals, str(deals)) if deals <= 10 else deals)
+        lessons.append(f'<article class="lesson"><p class="lesson-num small">{i:02d}</p><h3>{e(title)}</h3><p>{e(text)}</p><div class="lesson-chips">{"".join(chip_html)}</div></article>')
+
+    groups = collections.defaultdict(list)
+    for ed, c in everything:
+        for party in c['brand'].split(' × '):
+            party = PARTY_GROUPS.get(party.strip(), party.strip())
+            if party not in PARTY_SKIP:
+                groups[party].append((ed, c))
+    recurring = sorted(((p, v) for p, v in groups.items() if len({ed['number'] for ed, _ in v}) > 1),
+                       key=lambda pv: (-len({ed['number'] for ed, _ in pv[1]}), -len(pv[1]), pv[0]))
+    missing = [p for p, _ in recurring if p not in PARTY_NOTES]
+    assert not missing, f'Add a note for these partners: {missing}'
+    partners = []
+    for p, v in recurring:
+        items = ''.join(f'<li><a href="{case_href(ed, c["id"])}"><span class="small">Edition {ed["number"]}</span> {e(c["brand"])} <span class="yr">{c["year"]}</span></a></li>'
+                        for ed, c in sorted(v, key=lambda x: x[1]['year']))
+        partners.append(f'<article class="brand-row"><div><h3>{e(p)}</h3><p>{e(PARTY_NOTES[p])}</p></div><ol>{items}</ol></article>')
+
+    region_order = [r for r, _ in REGIONS] + ['Global']
+    filt = {
+        'edition': ('Edition', [s['edition']['number'] for s in series]),
+        'role': ('Type', [r for r in ROLES if roles[r]]),
+        'industry': ('Industry', [i for i, _ in INDUSTRIES if inds[i]] + (['Other'] if inds['Other'] else [])),
+        'region': ('Where', [r for r in region_order if regions[r]]),
+        'evidence': ('Evidence', [l for l in LEVELS if levels[l]]),
+    }
+    filters = ''.join(f'<div class="filter-row" role="group" aria-label="{label}"><span class="small">{label}</span>{chips(g, vals)}</div>' for g, (label, vals) in filt.items())
+    lines = []
+    for ed, c in sorted(everything, key=lambda x: (x[1]['year'], x[1]['brand'])):
+        lines.append(f'<li class="ix-case" data-edition="{ed["number"]}" data-role="{e(c["data_role"])}" data-industry="{e("|".join(industries_of(c["sector"])))}" data-region="{e(region_of(c["place"]))}" data-evidence="{e(c["evidence_level"])}">'
+                     f'<a href="{case_href(ed, c["id"])}"><span class="ix-year">{c["year"]}</span><span class="ix-main"><span class="ix-brand small">{e(c["brand"])} · {e(c["mechanism"])}</span>'
+                     f'<span class="ix-title">{e(c["title"])}</span><span class="ix-place">{e(c["place"])} · {e(c["data_role"])}</span></span>'
+                     f'<span class="ix-side"><span class="ix-ed">Edition {ed["number"]}, {e(ed["name"])}</span>{meter(c["evidence_level"])}</span></a></li>')
+
+    share = lambda n: f'{round(n / total * 100)}%'
+    uk, na = regions['UK and Ireland'], regions['North America']
+    recent = sum(n for d, n in decades.items() if int(d[:4]) >= 2010)
+    early = sum(n for d, n in decades.items() if int(d[:4]) < 1990)
+    early_text = f'Only {NUMBER_WORDS.get(early, early).lower()} {"comes" if early == 1 else "come"} from before 1990'
+    gaps = [
+        ('Where the deals were made', f'{uk} cases, {share(uk)}, started in the UK or Ireland, {na}, {share(na)}, in North America and {regions["Global"]} were global from the start. '
+                                     f'Europe has {regions["Europe"]}, Asia {regions["Asia"]}, Latin America {regions["Latin America"]} and Africa {regions["Africa"]}.'),
+        ('When', f'{recent} of the {total} cases, {share(recent)}, date from 2010 or later. {early_text}, because older deals rarely left a public record of what each side gained.'),
+        ('What the proof looks like', f'{modelled} of {total} cases have a modelled effect, and {e02_mod} of those are in Edition 02. {levels["Sales trend"]} show a sales trend, {levels["Archival"]} are archival only, and survey evidence is the rarest, with {levels["Survey"]}.'),
+        ('Whose side the evidence is on', 'Most outcome figures describe one partner, usually the bigger brand. Few cases show what both sides gained, and the smaller partner’s result is the hardest to find.'),
+    ]
+    gap_html = ''.join(f'<div><h3>{e(t)}</h3><p>{e(x)}</p></div>' for t, x in gaps)
+    reads = ', '.join(f'<a href="{relative_dir(INDEX_OUTPUT, s["edition"]["output"]) or "./"}">Edition {s["edition"]["number"]}, {e(s["edition"]["name"])}</a>' for s in series)
+
+    template = (root / 'page-template-index.html').read_text(encoding='utf-8')
+    css = (root / 'site.css').read_text(encoding='utf-8')
+    output = (template.replace('@@CSS@@\n', css)
+              .replace('@@EDITION_NAV@@', render_edition_nav(None))
+              .replace('@@EDITION_COUNT@@', str(len(series)))
+              .replace('@@EDITION_WORD@@', NUMBER_WORDS.get(len(series), str(len(series))))
+              .replace('@@TOTAL_WORD@@', NUMBER_WORDS.get(total, str(total)))
+              .replace('@@TOTAL@@', str(total))
+              .replace('@@MODELLED@@', str(modelled))
+              .replace('@@E02_MODELLED_WORD@@', NUMBER_WORDS.get(e02_mod, str(e02_mod)))
+              .replace('@@DEALS@@', str(deals))
+              .replace('@@FIRST_YEAR@@', str(min(years)))
+              .replace('@@LAST_YEAR@@', str(max(years)))
+              .replace('@@EDITION_CARDS@@', '\n'.join(cards))
+              .replace('@@EVIDENCE_ROWS@@', '\n'.join(rows))
+              .replace('@@EVIDENCE_LEGEND@@', legend)
+              .replace('@@LESSONS@@', '\n'.join(lessons))
+              .replace('@@PARTNER_COUNT@@', str(len(recurring)))
+              .replace('@@PARTNERS@@', '\n'.join(partners))
+              .replace('@@FILTERS@@', filters)
+              .replace('@@CASES@@', '\n'.join(lines))
+              .replace('@@GAPS@@', gap_html)
+              .replace('@@READS@@', reads))
+    assert '@@' not in output, re.findall(r'@@\w+@@', output)
+    out = root.parent / INDEX_OUTPUT
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(output, encoding='utf-8')
+    return out
+
 if __name__ == '__main__':
     import sys
     wanted = sys.argv[1:]
@@ -705,3 +932,5 @@ if __name__ == '__main__':
         forwarding = write_forwarding_page(edition)
         if forwarding:
             print('Built', forwarding.relative_to(root.parent), '(forwards to', edition['output'] + ')')
+    if not wanted or INDEX_OUTPUT in wanted:
+        print('Built', build_index().relative_to(root.parent))
