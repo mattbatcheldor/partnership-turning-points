@@ -1,0 +1,497 @@
+[
+  {
+    "id": "m-pesa",
+    "brand": "Safaricom × Vodafone × UK aid",
+    "title": "M-Pesa",
+    "year": 2007,
+    "place": "Kenya",
+    "sector": "Mobile money",
+    "mechanism": "Capital for capability",
+    "data_role": "Alliance",
+    "data_source": "A grant, a technology and a mobile network",
+    "stage": "Launched and independently studied",
+    "hook": "A phone network became a bank for millions of people who had never had one.",
+    "situation": "In the early 2000s most Kenyans had no bank account, but more and more had a mobile phone. Sending money home meant carrying cash or paying high fees.",
+    "exchange": "The UK government’s Financial Deepening Challenge Fund backed the project, matched by Vodafone. Vodafone built the service, and Safaricom, Kenya’s largest network, ran it through its agents and customers.",
+    "brought": [
+      [
+        "UK aid and Vodafone",
+        "A grant, matched funding and the technology."
+      ],
+      [
+        "Safaricom",
+        "Kenya’s biggest mobile network and thousands of agents."
+      ]
+    ],
+    "turning_point": "After a pilot, M-Pesa launched in March 2007, letting people send and store money by text message. Within a few years it was used by most Kenyan households.",
+    "metric": "194,000",
+    "metric_label": "Kenyan households lifted out of poverty, about 2%",
+    "measure": "Estimated by Tavneet Suri and William Jack in a study published in Science in 2016, comparing households by their access to M-Pesa agents",
+    "evidence": "This is peer-reviewed, modelled evidence, the strongest in the edition. Some researchers argue the gains for typical users were modest and concentrated in certain groups, especially households headed by women.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "The edge is where new partnerships get invented. Each partner brought something the others couldn’t: patient money, technology and a network people trusted.",
+    "take": "The only modelled effect in the finale measures something bigger than sales. A partnership made a market where there wasn’t one.",
+    "credit": "Safaricom, Vodafone and the UK Department for International Development",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · Wikipedia",
+      "https://en.wikipedia.org/wiki/M-Pesa"
+    ],
+    "impact_source": [
+      "Read the study · Science",
+      "https://www.science.org/doi/10.1126/science.aah5309"
+    ],
+    "links": [
+      [
+        "Read a critical case study · Development Informatics",
+        "https://developmentinformatics.org/case-studies/m-pesa-kenya-case-study/"
+      ]
+    ]
+  },
+  {
+    "id": "havaianas-jean-paul-gaultier",
+    "brand": "Havaianas × Jean Paul Gaultier",
+    "title": "Flip-Flops on the Catwalk",
+    "year": 1999,
+    "place": "Brazil and Paris",
+    "sector": "Footwear and fashion",
+    "mechanism": "Credibility for reach",
+    "data_role": "Designer collaboration",
+    "data_source": "Brazil’s rubber sandals, Paris fashion",
+    "stage": "Shown on the runway",
+    "hook": "A cheap Brazilian sandal walked a Paris runway.",
+    "situation": "Havaianas had been Brazil’s everyday rubber flip-flop since 1962, worn by everyone and valued by few. The brand wanted to be seen as stylish, at home and abroad.",
+    "exchange": "Jean Paul Gaultier put Havaianas on models in his show. Havaianas got the credibility of Paris fashion, and later made limited editions with designers.",
+    "brought": [
+      [
+        "Havaianas",
+        "A colourful, affordable Brazilian icon."
+      ],
+      [
+        "Jean Paul Gaultier",
+        "A Paris runway and fashion credibility."
+      ]
+    ],
+    "turning_point": "Havaianas dates its fashion debut to Gaultier’s 1999 show, though some accounts give 1998. Designer collaborations and international stores followed.",
+    "metric": "1999",
+    "metric_label": "The runway debut, as Havaianas dates it",
+    "measure": "The year in Havaianas’ own history. Other sources give 1998 or later",
+    "evidence": "The runway moment is in the brand’s history, but the date varies and its effect on sales was never published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A partner from a different world can change how people see an everyday product. Borrow their stage, keep your price.",
+    "take": "The smallest gesture in the edition: a designer chose a sandal. Havaianas built a global brand on it.",
+    "credit": "Havaianas and Jean Paul Gaultier",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read Havaianas’ story · Havaianas",
+      "https://www.havaianas.com/pages/our-story"
+    ],
+    "impact_source": [
+      "Read about the brand · Lonely Planet",
+      "https://www.lonelyplanet.com/news/you-see-this-everywhere-havaianas-brazil"
+    ],
+    "links": []
+  },
+  {
+    "id": "innocent-age-uk",
+    "brand": "innocent × Age UK",
+    "title": "The Big Knit",
+    "year": 2003,
+    "place": "United Kingdom",
+    "sector": "Smoothies and charity",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "Knitted hats, smoothie bottles",
+    "stage": "Running every winter since 2003",
+    "hook": "Knitters made tiny woolly hats for smoothie bottles, and each one raised money for older people.",
+    "situation": "innocent was a young smoothie brand with a playful voice. Age UK, then Age Concern, wanted to help older people keep warm in winter.",
+    "exchange": "The public knitted little hats. innocent put them on its bottles and gave Age UK a donation for each one sold.",
+    "brought": [
+      [
+        "innocent",
+        "Its bottles, its shelf space and a donation per hat."
+      ],
+      [
+        "Age UK",
+        "A cause, and a network of knitters across the country."
+      ]
+    ],
+    "turning_point": "The Big Knit began in 2003 and became an annual tradition, with millions of hats knitted by schools, care homes and families.",
+    "metric": "£3.6m",
+    "metric_label": "Raised for Age UK since 2003, per Age UK",
+    "measure": "The total reported by Age UK. The donation was 25p a hat in early years and later 30p",
+    "evidence": "The donations are reported by the charity, and totals vary by date. No figure shows what the campaign did for innocent’s own sales.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Give people something to do, not just something to buy. A partnership that invites participation can run for decades.",
+    "take": "The smallest object in the archive, and one of the longest-running partnerships. Every hat was made by someone who cared.",
+    "credit": "innocent and Age UK, from 2003",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The innocent Big Knit’ on innocent drinks’ channel",
+      "url": "https://www.youtube.com/watch?v=T1b854BDX7w"
+    },
+    "announcement": [
+      "Read about the Big Knit · Age UK",
+      "https://www.ageuk.org.uk/get-involved/fundraise/events-challenges/the-big-knit/"
+    ],
+    "impact_source": [
+      "Read about the partnership · Age UK",
+      "https://ageuk.org.uk/get-involved/corporate-partnerships/our-partners/innocent"
+    ],
+    "links": []
+  },
+  {
+    "id": "eva-air-hello-kitty",
+    "brand": "EVA Air × Hello Kitty",
+    "title": "The Hello Kitty Jet",
+    "year": 2005,
+    "place": "Taiwan and Japan",
+    "sector": "Airlines and character licensing",
+    "mechanism": "Licence",
+    "data_role": "Licence",
+    "data_source": "Sanrio’s character, EVA’s aircraft",
+    "stage": "Launched, paused and revived",
+    "hook": "An airline painted a cartoon cat on its planes, and people flew just to be on them.",
+    "situation": "EVA Air, a Taiwanese airline, competed with larger carriers on routes to Japan. Hello Kitty, created by Sanrio, was loved across Asia.",
+    "exchange": "Sanrio licensed Hello Kitty to EVA Air. EVA painted its aircraft and themed everything inside, from boarding passes to meals.",
+    "brought": [
+      [
+        "EVA Air",
+        "Aircraft, routes and a willingness to go all the way."
+      ],
+      [
+        "Sanrio",
+        "Hello Kitty and her devoted fans."
+      ]
+    ],
+    "turning_point": "The first Hello Kitty Jet flew between Taipei and Japan from October 2005. The jets were retired in 2009, returned in 2011 for EVA’s 20th anniversary, and came back again after the pandemic in 2023.",
+    "metric": "2005",
+    "metric_label": "First flight, and still flying in new versions",
+    "measure": "The year the first jet entered service. A fact, not a result",
+    "evidence": "The jets and their revivals are well documented. EVA hasn’t published what they do for bookings, but it has brought them back twice.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Commit fully to a licence. A character on the tail is a novelty, a character in every detail is a destination.",
+    "take": "The most joyful case in the archive. EVA turned a flight into the reason to travel.",
+    "credit": "EVA Air and Sanrio, from 2005",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the story · CNN",
+      "https://edition.cnn.com/travel/article/eva-air-kitty-jet"
+    ],
+    "impact_source": [
+      "Read about the 2023 return · AirlineGeeks",
+      "https://airlinegeeks.com/2023/04/03/eva-air-brings-back-hello-kitty-jet-service/"
+    ],
+    "links": []
+  },
+  {
+    "id": "coke-studio-pakistan",
+    "brand": "Coca-Cola × Pakistan’s musicians",
+    "title": "Coke Studio",
+    "year": 2008,
+    "place": "Pakistan, then the world",
+    "sector": "Soft drinks and music",
+    "mechanism": "Content for reach",
+    "data_role": "Content partnership",
+    "data_source": "Coca-Cola’s funding, Pakistan’s music",
+    "stage": "Running and growing",
+    "hook": "A drinks brand paid for a music show, and it became Pakistan’s biggest cultural export.",
+    "situation": "In the late 2000s Pakistan’s music industry was struggling, with few venues and little money. The musician and producer Rohail Hyatt wanted to bring folk, classical and pop artists together.",
+    "exchange": "Coca-Cola funded and produced the show. Hyatt and the musicians made new recordings that mixed traditions, released on television and online.",
+    "brought": [
+      [
+        "Coca-Cola",
+        "Money, production and a brand name on the stage."
+      ],
+      [
+        "Pakistan’s musicians",
+        "Folk, classical and pop music from across the country."
+      ]
+    ],
+    "turning_point": "The first season aired in 2008. In 2022 ‘Pasoori’, by Ali Sethi and Shae Gill, became a global hit and later the first Pakistani music video to pass a billion views on YouTube.",
+    "metric": "1bn",
+    "metric_label": "YouTube views of ‘Pasoori’",
+    "measure": "Views reported by Coca-Cola Pakistan, which says 90% came from outside Pakistan. Views measure reach, not drink sales",
+    "evidence": "The reach is huge and well documented. Coca-Cola hasn’t published what the show does for its sales, and some musicians have debated the role of a brand in the country’s music.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "A brand can fund culture without controlling it. Give the artists the stage and stay in the credits.",
+    "take": "The best content partnership in the archive. Coca-Cola made something people would seek out, then mostly got out of the way.",
+    "credit": "Coca-Cola Pakistan and Rohail Hyatt, from 2008",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Pasoori’ on Coke Studio Pakistan’s channel",
+      "url": "https://www.youtube.com/watch?v=5Eqb_-j3FDA"
+    },
+    "announcement": [
+      "Read the history · Wikipedia",
+      "https://en.wikipedia.org/wiki/Coke_Studio_Pakistan"
+    ],
+    "impact_source": [
+      "Read about the billion views · Coca-Cola Pakistan",
+      "https://www.coca-cola.com/pk/en/media-center/pasoori-makes-history-1-billion-youtube-views"
+    ],
+    "links": []
+  },
+  {
+    "id": "corona-parley",
+    "brand": "Corona × Parley for the Oceans",
+    "title": "100 Islands",
+    "year": 2017,
+    "place": "Mexico and worldwide",
+    "sector": "Beer and ocean conservation",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "Corona’s beach image, Parley’s ocean mission",
+    "stage": "Launched and reported",
+    "hook": "A beer sold on images of beaches promised to help clean them.",
+    "situation": "Corona, from Mexico, had built its brand on beaches. Parley for the Oceans was an organisation campaigning against plastic in the sea.",
+    "exchange": "Corona funded clean-ups and adopted Parley’s approach of avoiding, intercepting and redesigning plastic. Parley gave Corona a credible partner and a plan.",
+    "brought": [
+      [
+        "Corona",
+        "Funding, reach and beaches in its brand story."
+      ],
+      [
+        "Parley for the Oceans",
+        "Expertise and credibility on ocean plastic."
+      ]
+    ],
+    "turning_point": "In 2017 the partners promised to protect 100 islands from plastic by 2020. In 2018 Corona trialled plant-based six-pack rings in Tulum, Mexico.",
+    "metric": "300+",
+    "metric_label": "Clean-ups in over 15 countries, by 2018",
+    "measure": "Activity reported by the partners at the time. Whether the 100-island goal was met was not clearly reported",
+    "evidence": "The clean-ups and the ring trial are reported by the partners. No figure shows the effect on plastic in the sea or on Corona’s sales.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "If your brand depends on a place, protect it. Pick a partner who can hold you to the promise.",
+    "take": "The fit is obvious, which is the point. The test is whether the commitments outlast the campaign.",
+    "credit": "Corona and Parley for the Oceans, from 2017",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Corona x Parley: 100 Islands Protected by 2020’ on Corona’s channel",
+      "url": "https://www.youtube.com/watch?v=fF245CmNvCk"
+    },
+    "announcement": [
+      "Read about the rings · Parley",
+      "https://parley.tv/journal/2018/11/27/corona-x-parley-plastic-free-six-pack-rings"
+    ],
+    "impact_source": [
+      "Read the report · Packaging Strategies",
+      "https://packagingstrategies.com/articles/90878-corona-tries-out-plastic-free-six-pack-ring"
+    ],
+    "links": []
+  },
+  {
+    "id": "uniqlo-kaws",
+    "brand": "Uniqlo × KAWS",
+    "title": "KAWS:Summer",
+    "year": 2019,
+    "place": "Japan, China and worldwide",
+    "sector": "Fashion retail and art",
+    "mechanism": "Talent for scale",
+    "data_role": "Artist collaboration",
+    "data_source": "KAWS’ characters, Uniqlo’s T-shirts",
+    "stage": "Launched and sold out",
+    "hook": "Shoppers fought over T-shirts in China.",
+    "situation": "Uniqlo, from Japan, had built its UT line on collaborations with artists and characters. KAWS, an American artist, had become one of the most collected names in the world.",
+    "exchange": "KAWS designed a collection of T-shirts. Uniqlo made them in huge numbers and sold them for about 99 yuan in China.",
+    "brought": [
+      [
+        "Uniqlo",
+        "Low prices and thousands of stores across Asia."
+      ],
+      [
+        "KAWS",
+        "Characters collectors would queue for."
+      ]
+    ],
+    "turning_point": "On 3 June 2019 the collection went on sale. In China shoppers rushed stores, fights broke out, and it sold out online in minutes, with some reports saying seconds.",
+    "metric": "99 yuan",
+    "metric_label": "Price of a T-shirt in China, about $14",
+    "measure": "The retail price. A fact, not a result. Reported sell-out times vary widely",
+    "evidence": "The scenes were widely filmed and reported. Uniqlo didn’t publish sales for the collection, though it kept working with KAWS in later years.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "An artist’s collectors will follow them to any price point. Plan for scarcity, or it plans for you.",
+    "take": "Like Target and Missoni in Edition 05, demand overwhelmed the shop. This time the crowd was in China.",
+    "credit": "Uniqlo and KAWS, 2019",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the report · Asia Times",
+      "https://asiatimes.com/2019/06/chinese-shoppers-crazy-over-uniqlo-kaws-collection/"
+    ],
+    "impact_source": [
+      "Read the report · Artsy",
+      "https://www.artsy.net/article/artsy-editorial-kaws-dropped-new-clothes-uniqlo-chaos-ensued"
+    ],
+    "links": []
+  },
+  {
+    "id": "mcdonalds-bts",
+    "brand": "McDonald’s × BTS",
+    "title": "The BTS Meal",
+    "year": 2021,
+    "place": "South Korea, then 50 markets",
+    "sector": "Fast food and K-pop",
+    "mechanism": "Credibility for reach",
+    "data_role": "Co-branded product",
+    "data_source": "BTS’ order, McDonald’s menu",
+    "stage": "Launched and reported",
+    "hook": "A Korean band’s favourite order went on sale in 50 countries.",
+    "situation": "McDonald’s had begun selling celebrities’ ‘famous orders’ in the US. BTS, from South Korea, had one of the most organised fan bases in the world.",
+    "exchange": "BTS gave McDonald’s their order: McNuggets, fries, a Coke and two new sauces inspired by Korean recipes. McDonald’s sold it in purple packaging around the world.",
+    "brought": [
+      [
+        "McDonald’s",
+        "Restaurants in 50 markets and a global marketing machine."
+      ],
+      [
+        "BTS",
+        "A worldwide fan base, the ARMY."
+      ]
+    ],
+    "turning_point": "The BTS Meal launched in May 2021. McDonald’s credited it, along with a new chicken sandwich, for its second-quarter growth.",
+    "metric": "+40.5%",
+    "metric_label": "McDonald’s global comparable sales, Q2 2021",
+    "measure": "Reported by McDonald’s against a quarter hit by lockdowns. On a two-year basis growth was 6.9%",
+    "evidence": "McDonald’s named the BTS Meal as a driver but didn’t separate its effect, and the comparison with 2020 flatters the number.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Global fans can carry a local partnership worldwide. Give them something to collect and share.",
+    "take": "A band from Seoul set the menu in 50 countries. The edge isn’t the edge any more.",
+    "credit": "McDonald’s and BTS, 2021",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The BTS Meal is here!’ on McDonald’s Australia’s channel",
+      "url": "https://www.youtube.com/watch?v=f0S4BG2PLr4"
+    },
+    "announcement": [
+      "Read the results · Fox Business",
+      "https://www.foxbusiness.com/markets/mcdonalds-sales-bts-crispy-chicken-open-dining-rooms"
+    ],
+    "impact_source": [
+      "Read the report · Soompi",
+      "https://www.soompi.com/article/1481325wpp/bts-meal-helps-boost-mcdonalds-worldwide-sales-by-41-percent-in-2nd-quarter-of-2021"
+    ],
+    "links": []
+  },
+  {
+    "id": "liquid-death-tony-hawk",
+    "brand": "Liquid Death × Tony Hawk",
+    "title": "Signed in Blood",
+    "year": 2021,
+    "place": "United States",
+    "sector": "Canned water and skateboarding",
+    "mechanism": "Credibility for reach",
+    "data_role": "Co-branded product",
+    "data_source": "A water brand’s nerve, a skater’s blood",
+    "stage": "Launched and sold out",
+    "hook": "A small water brand sold skateboards painted with Tony Hawk’s blood.",
+    "situation": "Liquid Death sold canned water with a heavy metal attitude, mocking normal marketing. Tony Hawk was the most famous skateboarder in the world.",
+    "exchange": "Hawk gave blood, which was sterilised and mixed into the paint. Liquid Death made 100 skateboard decks and sold them, with part of the profits going to charity.",
+    "brought": [
+      [
+        "Liquid Death",
+        "A strange idea and a brand built on jokes."
+      ],
+      [
+        "Tony Hawk",
+        "Fame, credibility with skaters and a sense of humour."
+      ]
+    ],
+    "turning_point": "In August 2021, 100 decks went on sale at $500 each and sold out quickly, reportedly in around 20 minutes.",
+    "metric": "100",
+    "metric_label": "Decks made and sold, at $500 each",
+    "measure": "The size of the run. A fact rather than a result, since the point was attention, not revenue",
+    "evidence": "The sell-out is reported. The value was in the publicity, and Liquid Death didn’t publish what the stunt did for its water sales.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A small brand can borrow a legend’s credibility with an idea big brands wouldn’t dare. Make the partner part of the joke.",
+    "take": "The strangest exchange in the archive: a partner literally gave blood. It only works because both sides were in on it.",
+    "credit": "Liquid Death and Tony Hawk, 2021",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Liquid Death Puts Tony Hawk’s Blood In Limited Edition Skateboards’ on Liquid Death’s channel",
+      "url": "https://www.youtube.com/watch?v=gl7MRPWSw_M"
+    },
+    "announcement": [
+      "Read the report · NBC San Diego",
+      "https://nbcsandiego.com/in-your-neighborhood/blood-sport-skateboard-decks-sold-with-tony-hawks-dna-mixed-into-paint/2701993"
+    ],
+    "impact_source": [
+      "Read about the sell-out · 10News",
+      "https://www.10news.com/news/national/skateboards-infused-with-tony-hawks-blood-sold-out"
+    ],
+    "links": []
+  },
+  {
+    "id": "tonys-ben-jerrys",
+    "brand": "Tony’s Chocolonely × Ben & Jerry’s",
+    "title": "Chocolatey Love A-Fair",
+    "year": 2022,
+    "place": "Netherlands, then worldwide",
+    "sector": "Chocolate and ice cream",
+    "mechanism": "Network for network",
+    "data_role": "Co-branded product",
+    "data_source": "Tony’s sourcing, Ben & Jerry’s scale",
+    "stage": "Launched",
+    "hook": "A small Dutch chocolate maker taught a giant ice cream brand how to buy cocoa.",
+    "situation": "Tony’s Chocolonely, from the Netherlands, was founded to end slavery and child labour in cocoa. It had created Tony’s Open Chain, a set of sourcing rules other companies could join.",
+    "exchange": "Ben & Jerry’s joined Tony’s Open Chain and made an ice cream from Tony’s caramel sea salt chocolate. Tony’s made two bars inspired by Ben & Jerry’s flavours.",
+    "brought": [
+      [
+        "Tony’s Chocolonely",
+        "Traceable cocoa and a mission."
+      ],
+      [
+        "Ben & Jerry’s",
+        "Global scale and a history of activism."
+      ]
+    ],
+    "turning_point": "Announced in 2022, the ice cream went on sale that September. Ben & Jerry’s also began moving cocoa across its range to the Open Chain principles.",
+    "metric": "100%",
+    "metric_label": "Traceable cocoa in the flavour, via Tony’s Open Chain",
+    "measure": "The sourcing standard the partners committed to. A commitment, not a measured result",
+    "evidence": "The commitment and the products are documented. The effect on farmers will take years to show, and no sales figures were published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A small brand’s method can be its most valuable asset. Share it, and a bigger partner can spread it.",
+    "take": "The edition’s most hopeful case. The small partner set the terms, and the big one agreed to follow them.",
+    "credit": "Tony’s Chocolonely and Ben & Jerry’s, 2022",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the announcement · Fairtrade Foundation",
+      "https://www.fairtrade.org.uk/?p=33089"
+    ],
+    "impact_source": [
+      "Read the report · Food Dive",
+      "https://www.fooddive.com/news/unilever-ben-jerrys-chocolonely-chocolate-slavery/629918/"
+    ],
+    "links": []
+  }
+]

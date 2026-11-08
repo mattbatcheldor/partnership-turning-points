@@ -199,6 +199,26 @@ def screen_art():
 {hearts}
 </svg>'''
 
+def edge_art():
+    # Editorial illustration: a large faded circle for the centre of the market, with ten bright points on its edge.
+    import math
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    cx, cy, r = 470, 290, 200
+    colours = ['#C97B60', '#DBE9E1', '#ffcf5a', '#F7F3EA', '#C97B60', '#DBE9E1', '#ffcf5a', '#F7F3EA', '#C97B60', '#DBE9E1']
+    dots = ''.join(f'<circle cx="{cx + r * math.cos(math.radians(i * 36 - 90)):.1f}" cy="{cy + r * math.sin(math.radians(i * 36 - 90)):.1f}" r="15" fill="{colours[i]}"/>' for i in range(10))
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a large faded circle standing for the centre of the market, with ten bright points spaced around its edge and the number 100 in the middle.</title>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<circle cx="{cx}" cy="{cy}" r="{r}" fill="#075950" opacity=".35"/>
+<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#DBE9E1" stroke-width="2" stroke-dasharray="3 9"/>
+<circle cx="{cx}" cy="{cy}" r="{r - 70}" fill="none" stroke="#DBE9E1" stroke-width="1" opacity=".3"/>
+{dots}
+<text x="{cx}" y="{cy - 46}" text-anchor="middle" font-family="{sans}" font-size="13" letter-spacing="3" fill="#DBE9E1">EDITION 07 / EDGE FIRST</text>
+<text x="{cx}" y="{cy + 40}" text-anchor="middle" font-family="{serif}" font-size="104" fill="#F7F3EA">100</text>
+<text x="{cx}" y="{cy + 76}" text-anchor="middle" font-family="{serif}" font-size="20" font-style="italic" fill="#DBE9E1">Ten from the edge.</text>
+</svg>'''
+
 def era(year):
     if year < 1990:
         return ERAS[0]
@@ -652,6 +672,23 @@ EDITIONS = [
             ('fortnite-avengers', 'Epic’s trailer for the Thanos mode, from Fortnite’s channel. The film is advertised by being played.', 'gauntlet'),
             ('lil-nas-x-roblox', 'The whole concert, from Lil Nas X’s channel. Notice the audience is never shown, because it was inside the game.', 'concert'),
             ('ocean-spray-nathan-apodaca', 'Ocean Spray’s thank you, from its own channel. The brand arrives after the culture, not before.', 'truck'),
+        ),
+    },
+    {
+        'number': '07', 'name': 'Edge first', 'data': 'campaigns-07.json', 'template': 'page-template-07.html',
+        'output': 'edition-07/index.html', 'asset_prefix': '../', 'art': edge_art, 'test_heading': 'How the outcome was recorded',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Modelled effect': 'Economists compared households by how close they were to the service.',
+            'Sales trend': 'Sales or donations moved, but other causes are not separated out.',
+            'Reach only': 'Views show attention, not what it did for the brand.',
+            'Archival': 'The record shows the partnership happened, not what it earned.',
+        },
+        'screening': (
+            ('coke-studio-pakistan', 'The song that went round the world, from Coke Studio Pakistan’s channel. Notice how little of it is about the drink.', 'mic'),
+            ('innocent-age-uk', 'innocent on its Big Knit, from its own channel. Watch who does the work.', 'hat'),
+            ('liquid-death-tony-hawk', 'Liquid Death’s film, from its own channel. A small brand making fun of how big brands do celebrity deals.', 'deck'),
+            ('corona-parley', 'Corona and Parley on their island promise, from Corona’s channel.', 'wave'),
         ),
     },
 ]
