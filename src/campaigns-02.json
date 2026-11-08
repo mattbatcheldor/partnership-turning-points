@@ -1,0 +1,748 @@
+[
+  {
+    "id": "o2-the-o2",
+    "brand": "O2 × AEG",
+    "title": "The O2",
+    "year": 2007,
+    "place": "London",
+    "sector": "Mobile networks and live entertainment",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "O2’s name and customers, AEG’s arena",
+    "stage": "Signed, launched and measured",
+    "hook": "A phone network turned a national joke into the world’s most popular music venue.",
+    "situation": "The Millennium Dome had become a national embarrassment. AEG was reopening it as an entertainment venue and needed a partner, and O2 wanted something that would keep its customers loyal.",
+    "exchange": "O2 put its name on the venue and built its customer offer around it. Customers got Priority Tickets before anyone else, and the venue got a famous name from day one.",
+    "brought": [
+      [
+        "O2",
+        "Its name, millions of customers and the money to market the venue."
+      ],
+      [
+        "AEG",
+        "A reopened arena and a programme of the biggest acts in music."
+      ]
+    ],
+    "turning_point": "The O2 opened in 2007. In its first seven months it drew 3.4 million visitors, generated £61m worth of PR, and a million O2 customers signed up for Priority Tickets.",
+    "metric": "14.5:1",
+    "metric_label": "Return on marketing investment",
+    "measure": "Return on marketing investment in the 2010 IPA paper, based on £639m of projected profit from new customers",
+    "evidence": "Two IPA papers track the sponsorship. The first, in 2008, reported a 26:1 return a year after launch. The second, a Gold in 2010, projected a £639m contribution to profit from new customers over the communications’ lifetime. Both are O2’s own models, written up for an effectiveness award.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "Don’t badge a venue, build your customer offer into it. The 2010 paper calls this breathing rather than badging.",
+    "take": "The benchmark every sponsorship pitch I have seen gets measured against. It worked because the customer got something real, not just a logo on a roof.",
+    "credit": "IPA 2010 · Gold · VCCP for O2",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the venue’s history · Wikipedia",
+      "https://en.wikipedia.org/wiki/The_O2_Arena"
+    ],
+    "impact_source": [
+      "Read the 2010 case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/o2-o2-stadium-a-new-blueprint-for-sponsorship/"
+    ],
+    "links": [
+      [
+        "Read the 2008 case summary · IPA",
+        "https://ipa.co.uk/knowledge/case-studies/o2-stadium-a-blueprint-for-21st-century-sponsorship/"
+      ]
+    ]
+  },
+  {
+    "id": "star-alliance",
+    "brand": "Star Alliance airlines",
+    "title": "A New Kind of Airline",
+    "year": 1997,
+    "place": "Global",
+    "sector": "Airlines",
+    "mechanism": "Network for network",
+    "data_role": "Alliance",
+    "data_source": "Rival airlines, one network",
+    "stage": "Signed, launched and measured",
+    "hook": "Rival airlines agreed to sell themselves as one network.",
+    "situation": "Frequent business travellers wanted to fly anywhere on one ticket and one loyalty scheme. No single airline could cover the world.",
+    "exchange": "Each airline brought its routes, lounges and loyalty members. Together they offered a network none could offer alone.",
+    "brought": [
+      [
+        "The member airlines",
+        "Routes, lounges, loyalty schemes and planes."
+      ],
+      [
+        "The alliance",
+        "One brand and one promise to travellers across all of them."
+      ]
+    ],
+    "turning_point": "Star Alliance launched in 1997. Advertising ran in airports and business titles, and some planes were repainted to match.",
+    "metric": "15",
+    "metric_label": "Partner airlines by the time of the IPA paper",
+    "measure": "The number of member airlines described in the 2000 IPA paper",
+    "evidence": "The IPA paper reports that the advertising built awareness and a preference for flying within the network among frequent international travellers. That is tracking evidence, not a sales model.",
+    "evidence_level": "Survey",
+    "stat_type": "result",
+    "lesson": "Competitors can be partners when the customer’s problem is bigger than any one of them.",
+    "take": "The most unusual partnership in this edition: rivals agreeing to share a brand. It only works because travellers cared more about the network than the logo.",
+    "credit": "Y&R London for Star Alliance",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the alliance’s history · Wikipedia",
+      "https://en.wikipedia.org/wiki/Star_Alliance"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/star-alliance-a-new-kind-of-airline/"
+    ],
+    "links": []
+  },
+  {
+    "id": "bt-cellnet-big-brother",
+    "brand": "BT Cellnet × Big Brother",
+    "title": "Big Brother 2",
+    "year": 2001,
+    "place": "United Kingdom",
+    "sector": "Mobile networks and television",
+    "mechanism": "Platform for audience",
+    "data_role": "Sponsorship and placement",
+    "data_source": "BT Cellnet’s phones, Big Brother’s viewers",
+    "stage": "Signed, launched and measured",
+    "hook": "A TV sponsorship that turned into a mobile business.",
+    "situation": "BT Cellnet wanted to be familiar and relevant to 16 to 24 year olds. Big Brother was the show they were all watching.",
+    "exchange": "BT Cellnet paid £4m to sponsor the second series. It also made the show something viewers could follow and take part in on their phones, around the clock.",
+    "brought": [
+      [
+        "BT Cellnet",
+        "Sponsorship money and a mobile network for updates and votes."
+      ],
+      [
+        "Big Brother",
+        "The biggest young audience on British television."
+      ]
+    ],
+    "turning_point": "In 2001 the sponsorship went beyond the idents. Viewers could follow the house by mobile, and BT Cellnet earned money from the traffic.",
+    "metric": "£880k",
+    "metric_label": "Incremental revenue for BT Cellnet",
+    "measure": "Incremental revenue reported in the 2002 IPA paper, alongside over £10m in media value",
+    "evidence": "The IPA paper reports £880,000 in incremental revenue and more than £10m of media value. The revenue alone didn’t cover the fee, so the case rests on the brand benefits too.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "A sponsorship can pay for part of itself if you give the audience something to do through your product.",
+    "take": "An early sign of where sponsorship was heading. The money came from participation, not the idents.",
+    "credit": "IPA 2002 · Silver · PHD Media for BT Cellnet",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the series · Wikipedia",
+      "https://en.wikipedia.org/wiki/Big_Brother_(British_TV_series)_series_2"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/bt-cellnet-how-broadcast-sponsorship-of-big-brother-2-became-a-busines-spartnership/"
+    ],
+    "links": [],
+    "deal_value": "£4m sponsorship fee, as stated in the IPA paper"
+  },
+  {
+    "id": "pampers-unicef",
+    "brand": "Pampers × UNICEF",
+    "title": "1 Pack = 1 Vaccine",
+    "year": 2006,
+    "place": "United Kingdom, then many markets",
+    "sector": "Nappies and child health",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "Pampers’ packs, UNICEF’s vaccines",
+    "stage": "Launched and measured for the cause",
+    "hook": "Every pack of nappies paid for a vaccine.",
+    "situation": "Maternal and newborn tetanus was killing babies in dozens of countries. Pampers wanted parents to see it as more than a nappy.",
+    "exchange": "For each specially marked pack sold, Pampers funded a tetanus vaccine through UNICEF. In Ireland, for example, that meant €0.078 a pack.",
+    "brought": [
+      [
+        "Pampers",
+        "Packs in millions of homes, and money per pack."
+      ],
+      [
+        "UNICEF",
+        "Vaccination programmes, and trust with parents."
+      ]
+    ],
+    "turning_point": "The campaign began in 2006 and ran for years across many markets. By 2014 it had helped provide 300 million doses of tetanus vaccine.",
+    "metric": "300m",
+    "metric_label": "Vaccine doses by 2014, as reported",
+    "measure": "Doses of tetanus vaccine the partnership helped fund, per a 2014 announcement. By 2021 UNICEF credited it with nearly a million newborn lives saved",
+    "evidence": "The outcome for UNICEF’s side is well documented in partner releases and UNICEF’s own material. No public figure shows what the partnership did for Pampers’ sales or share.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A cause partnership is easiest to trust when the exchange is simple enough to fit on the pack.",
+    "take": "The clearest proof in the edition is for the charity, not the brand. That’s the right way round, but it means Pampers’ own return stays private.",
+    "credit": "Pampers and UNICEF",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the ten-year story · UNICEF Ireland",
+      "https://www.unicef.ie/story/pampers-and-unicef-celebrate-a-decade-of-lifesaving-partnership/"
+    ],
+    "impact_source": [
+      "Read the 2014 announcement · Business Wire",
+      "https://www.businesswire.com/news/home/20140605006463/en/Pampers-and-UNICEF-Unveil-Ground-Breaking-Achievements-in-the-Fight-Against-Maternal-and-Newborn-Tetanus-MNT"
+    ],
+    "links": [
+      [
+        "Read about tetanus elimination · UNICEF",
+        "https://www.unicef.org/blog/eliminating-silent-killer-maternal-neonatal-tetanus"
+      ]
+    ]
+  },
+  {
+    "id": "iceland-im-a-celebrity",
+    "brand": "Iceland × I’m a Celebrity",
+    "title": "Party Like a Celeb",
+    "year": 2007,
+    "place": "United Kingdom",
+    "sector": "Supermarkets and television",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Iceland’s party food, ITV’s jungle",
+    "stage": "Signed, launched and measured",
+    "hook": "A frozen food chain sponsored the jungle, and sold Christmas party food.",
+    "situation": "Iceland needed better sales over Christmas in a tough market. Its customers, many of them mums, loved I’m a Celebrity.",
+    "exchange": "Iceland sponsored the show and hired ‘Queen of the Jungle’ Kerry Katona as its ambassador. The show got a sponsor whose campaign ran in step with it.",
+    "brought": [
+      [
+        "Iceland",
+        "Sponsorship money and a party food range."
+      ],
+      [
+        "I’m a Celebrity",
+        "A huge winter audience and a celebrity it had made famous."
+      ]
+    ],
+    "turning_point": "The ‘Party Like a Celeb’ campaign tied Iceland’s party food to the show through the Christmas season.",
+    "metric": "+26%",
+    "metric_label": "Sales of the party food range",
+    "measure": "Growth in party food sales reported in the IPA paper, with payback of over £1.20 for every £1",
+    "evidence": "The IPA paper reports a 26% rise in party food sales and a payback of more than £1.20 per £1 spent. That is a modelled return on the campaign.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "Sponsor what your customers already love, and sell them the product that fits the moment.",
+    "take": "Not glamorous, and very effective. The sponsorship worked because the audience and the shoppers were the same people.",
+    "credit": "MediaCom Manchester for Iceland",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the show · Wikipedia",
+      "https://en.wikipedia.org/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(British_TV_series)"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/iceland-frozen-foods-iceland-foods-i-m-a-celebrity-a-perfect-match/"
+    ],
+    "links": []
+  },
+  {
+    "id": "elephant-chakki-gold",
+    "brand": "Elephant Chakki Gold × South Asian TV",
+    "title": "Go for Gold",
+    "year": 2008,
+    "place": "United Kingdom",
+    "sector": "Food and broadcasting",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "A flour brand, primetime shows on ethnic channels",
+    "stage": "Signed, launched and measured",
+    "hook": "A flour brand sponsored the shows its customers watched, on a £28,000 budget.",
+    "situation": "South Asian families in the UK wanted to eat more healthily, but saw healthy flour as less tasty. Elephant Chakki Gold, a wholegrain flour that looks like white flour, had very little money to spend.",
+    "exchange": "The brand sponsored popular primetime programmes on key South Asian channels, alongside one TV advert. The channels got a sponsor that spoke to their audience.",
+    "brought": [
+      [
+        "Elephant Chakki Gold",
+        "A healthier flour and a tiny budget."
+      ],
+      [
+        "The channels",
+        "Primetime shows trusted by the communities the brand wanted to reach."
+      ]
+    ],
+    "turning_point": "In 2008 the sponsorships put the brand in front of the families it wanted, show after show.",
+    "metric": "206%",
+    "metric_label": "Growth rate achieved, per the IPA paper",
+    "measure": "The brand’s growth rate reported in the IPA paper, on a campaign budget of £28,000",
+    "evidence": "The IPA paper reports 206% growth on a very small budget. It doesn’t publish a model separating the sponsorship from other factors in the summary, so it counts as a sales trend.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Small brands can partner precisely. Choose the channel your customers trust, not the biggest one you can afford.",
+    "take": "The smallest budget in the archive so far, and one of the biggest growth rates. Proof that partnership is a tool for challengers, not just giants.",
+    "credit": "Mediareach Advertising for Elephant Chakki Gold",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/elephant-chakki-gold-ecg-go-for-gold/"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/elephant-chakki-gold-ecg-go-for-gold/"
+    ],
+    "links": []
+  },
+  {
+    "id": "bq-4homes",
+    "brand": "B&Q × Channel 4",
+    "title": "4Homes",
+    "year": 2009,
+    "place": "United Kingdom",
+    "sector": "DIY retail and television",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "B&Q’s stores, Channel 4’s home shows",
+    "stage": "Signed, launched and measured",
+    "hook": "When DIY sales collapsed, B&Q sponsored the nation’s home makeover shows.",
+    "situation": "DIY sales fell sharply in 2008. B&Q needed to inspire people to improve their homes when money was tight.",
+    "exchange": "B&Q took a long-term sponsorship of Channel 4’s home programming, 4Homes. Channel 4 got a committed partner for its property and home shows.",
+    "brought": [
+      [
+        "B&Q",
+        "Stores, products and a long-term sponsorship commitment."
+      ],
+      [
+        "Channel 4",
+        "The home and property shows that inspired people to start projects."
+      ]
+    ],
+    "turning_point": "Over three years the sponsorship repositioned B&Q with the customers it most needed, built on how people think about improving their homes.",
+    "metric": "£233m",
+    "metric_label": "Incremental sales over three years",
+    "measure": "Incremental sales the IPA paper attributes to the campaign, as B&Q held its share in tough trading",
+    "evidence": "The IPA paper credits the sponsorship with £233m of incremental sales over three years while B&Q maintained its share. That is a modelled estimate.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "In a downturn, a long-term sponsorship can keep a brand in people’s plans until they are ready to spend.",
+    "take": "The partnership that kept people dreaming about their homes when they couldn’t afford to act. Patience paid.",
+    "credit": "Addiction for B&Q",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/bq-sponsorship-of-4homes-inspiring-home-improvements/"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/bq-sponsorship-of-4homes-inspiring-home-improvements/"
+    ],
+    "links": []
+  },
+  {
+    "id": "mcdonalds-london-2012",
+    "brand": "McDonald’s × London 2012",
+    "title": "We All Make the Games",
+    "year": 2012,
+    "place": "London",
+    "sector": "Fast food and the Olympic Games",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "McDonald’s restaurants, the Olympic Games",
+    "stage": "Signed, launched and measured",
+    "hook": "A sponsor under fire made the Games about the public.",
+    "situation": "McDonald’s sponsorship of the 2012 Olympic and Paralympic Games drew a storm of criticism. People questioned whether a fast food brand belonged at a sporting event.",
+    "exchange": "McDonald’s paid to be an official partner of the Games. Instead of celebrating athletes, its campaign celebrated everyone who made the Games happen.",
+    "brought": [
+      [
+        "McDonald’s",
+        "Sponsorship money, restaurants and a nationwide campaign."
+      ],
+      [
+        "London 2012",
+        "The biggest event in Britain for a generation."
+      ]
+    ],
+    "turning_point": "Leo Burnett’s ‘We all make the Games’ ran across many platforms and responded to the Games as they unfolded.",
+    "metric": "Credible",
+    "metric_label": "Link with the Games, per the IPA paper",
+    "measure": "The IPA paper reports the campaign persuaded people of a credible link between McDonald’s and the Games. Brand tracking, not sales",
+    "evidence": "The IPA paper’s evidence is brand tracking that shows people came to accept the link. The summary doesn’t give a sales figure.",
+    "evidence_level": "Survey",
+    "stat_type": "result",
+    "lesson": "When people question why you are in a partnership, make it about them, not you.",
+    "take": "The hardest brief in the edition: a sponsorship people didn’t want. The answer was to step back and let the public be the hero.",
+    "credit": "IPA 2014 · Leo Burnett for McDonald’s",
+    "creative": {
+      "medium": "Agency film",
+      "label": "Watch ‘We All Made the Games’ on Leo Burnett UK’s channel",
+      "url": "https://www.youtube.com/watch?v=pevEWZq8X34"
+    },
+    "announcement": [
+      "Read about the Games · Wikipedia",
+      "https://en.wikipedia.org/wiki/2012_Summer_Olympics"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/mcdonald-s-sponsorship-of-2012-we-all-make-the-games/"
+    ],
+    "links": []
+  },
+  {
+    "id": "gillette-movember",
+    "brand": "Gillette × Movember",
+    "title": "Helping Men Look Good and Do Good",
+    "year": 2013,
+    "place": "United Kingdom",
+    "sector": "Grooming and men’s health",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "Gillette’s razors, Movember’s moustaches",
+    "stage": "Launched and measured",
+    "hook": "A razor brand partnered with the charity that asks men to grow a moustache.",
+    "situation": "Facial hair was in fashion, a problem for a brand built on the clean shave. Gillette was launching the ProGlide Styler, a trimmer made for moustaches.",
+    "exchange": "Gillette backed Movember’s month of moustaches. Movember got a big partner, and Gillette got a reason for young men to buy a styler.",
+    "brought": [
+      [
+        "Gillette",
+        "A new trimmer, money and a national campaign."
+      ],
+      [
+        "Movember",
+        "A charity with a young, style-conscious following."
+      ]
+    ],
+    "turning_point": "Through Movember 2013 a campaign in press, outdoor, radio and events used a 1950s Gillette tone with modern slang.",
+    "metric": "No. 1",
+    "metric_label": "Top-selling razor during Movember",
+    "measure": "The ProGlide Styler’s ranking during the campaign, per the IPA paper, which also notes over £20m raised for men’s health",
+    "evidence": "The IPA paper reports the styler became the top-selling razor across Movember. The £20m raised is Movember’s total for the period, not money from Gillette alone.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "If a trend threatens your brand, partner with the people driving it rather than fighting it.",
+    "take": "Clever and honest: Gillette admitted men weren’t shaving, and sold them the tool to look after the moustache instead.",
+    "credit": "Abbott Mead Vickers BBDO for Gillette",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch a later Gillette UK Movember film on its channel",
+      "url": "https://www.youtube.com/watch?v=iK8UyBRn48Y"
+    },
+    "announcement": [
+      "Read about Movember · Wikipedia",
+      "https://en.wikipedia.org/wiki/Movember"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/gillette-movember-helping-men-look-good-and-do-good/"
+    ],
+    "links": []
+  },
+  {
+    "id": "sainsburys-royal-british-legion",
+    "brand": "Sainsbury’s × Royal British Legion",
+    "title": "Christmas Is for Sharing",
+    "year": 2014,
+    "place": "United Kingdom",
+    "sector": "Supermarkets and charity",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "Sainsbury’s Christmas, the Legion’s history",
+    "stage": "Launched and measured",
+    "hook": "A supermarket’s Christmas advert marked a hundred years since the First World War truce.",
+    "situation": "Supermarkets compete hard at Christmas, and 2014 was a tough year. It was also the centenary of the 1914 Christmas truce.",
+    "exchange": "Sainsbury’s made its Christmas film with the Royal British Legion, and sold products that raised money for the charity.",
+    "brought": [
+      [
+        "Sainsbury’s",
+        "Its Christmas advertising slot, stores and products."
+      ],
+      [
+        "Royal British Legion",
+        "Authority on the history, and a cause people trusted."
+      ]
+    ],
+    "turning_point": "The ‘Christmas Truce’ film ran in 2014, followed in 2015 by ‘Mog’s Christmas Calamity’ with Save the Children.",
+    "metric": "24.34:1",
+    "metric_label": "Estimated profit return, 2014",
+    "measure": "Profit return on investment estimated in the IPA paper for the 2014 campaign",
+    "evidence": "The IPA paper estimates a profit return of 24.34 for every 1 invested in 2014, and says the 2015 campaign paid back at least as much. Sainsbury’s outperformed its big four rivals in value and volume share.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "A cause partner can give a brand permission to tell a story it couldn’t tell alone.",
+    "take": "The partnership did what no supermarket could do alone: make a Christmas advert about history and be trusted for it.",
+    "credit": "IPA 2016 · Silver · Abbott Mead Vickers BBDO for Sainsbury’s",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the charity · Wikipedia",
+      "https://en.wikipedia.org/wiki/Royal_British_Legion"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/sainsbury-s-christmas-is-for-sharing/"
+    ],
+    "links": []
+  },
+  {
+    "id": "tennents-t-in-the-park",
+    "brand": "Tennent’s × T in the Park",
+    "title": "At the Heart of T in the Park",
+    "year": 2015,
+    "place": "Perthshire, Scotland",
+    "sector": "Beer and music festivals",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Tennent’s lager, Scotland’s biggest festival",
+    "stage": "Signed, launched and measured",
+    "hook": "Possibly the world’s longest-running music sponsorship.",
+    "situation": "Tennent’s is Scotland’s best-known beer brand. When a brand is everywhere, it risks being taken for granted.",
+    "exchange": "Tennent’s sponsored the T in the Park festival, its initial in the name. In 2015 it refreshed the partnership with a new identity, brand experiences and apps.",
+    "brought": [
+      [
+        "Tennent’s",
+        "Long-term sponsorship and beer for every festival-goer."
+      ],
+      [
+        "T in the Park",
+        "Scotland’s biggest music festival and its crowds."
+      ]
+    ],
+    "turning_point": "The 2015 festival activity was designed to keep drinkers loyal and get non-drinkers of the brand to try it.",
+    "metric": "Above target",
+    "metric_label": "Sampling and sales, 2015",
+    "measure": "The IPA paper reports sampling and sales above target for the 2015 activity. No figure is given in the summary",
+    "evidence": "The IPA paper reports above-target sampling and sales, and more awareness of the sponsorship. The summary gives no number, so it counts as a sales trend.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Even a long sponsorship needs refreshing. Familiar can become invisible.",
+    "take": "The partnership is so old the festival carries the beer’s initial. That is the dream outcome for any sponsor, and the risk too.",
+    "credit": "Material for Tennent’s",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the festival · Wikipedia",
+      "https://en.wikipedia.org/wiki/T_in_the_Park"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/tennent-s-lager-tennent-s-at-the-heart-of-t-in-the-park/"
+    ],
+    "links": []
+  },
+  {
+    "id": "mastercard-rugby-world-cup",
+    "brand": "Mastercard × Rugby World Cup",
+    "title": "44 Days of Crazy",
+    "year": 2015,
+    "place": "England and Wales",
+    "sector": "Payments and sport",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Mastercard’s cards, the Rugby World Cup",
+    "stage": "Signed, launched and measured",
+    "hook": "A payments company with no link to rugby turned fans’ passion into card spending.",
+    "situation": "Mastercard sponsored the 2015 Rugby World Cup, but had little association with the sport. It wanted more card use during the tournament.",
+    "exchange": "Mastercard paid to sponsor the tournament and ran its ‘Rugby-ification’ idea across search, social, transport hubs and media partnerships.",
+    "brought": [
+      [
+        "Mastercard",
+        "Sponsorship money, cards and merchants."
+      ],
+      [
+        "Rugby World Cup",
+        "Six weeks of fans, many of them visitors from abroad."
+      ]
+    ],
+    "turning_point": "Over the 44 days of the tournament, card use rose near venues and among overseas visitors, and more outlets started accepting Mastercard.",
+    "metric": "$45m",
+    "metric_label": "Extra purchasing, as estimated",
+    "measure": "Additional spending on Mastercard estimated in the IPA paper, with $700m of long-term incremental spending forecast",
+    "evidence": "The IPA paper estimates $45m of extra purchasing and forecasts $700m over the long term. The forecast is a projection, not a measured result.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "Measure a sponsorship on the behaviour it changes during the event, not just on awareness.",
+    "take": "A sponsorship judged on transactions, not tickets. Mastercard knew what it wanted from the rugby, and counted it.",
+    "credit": "IPA 2016 · McCann London for Mastercard",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the tournament · Wikipedia",
+      "https://en.wikipedia.org/wiki/2015_Rugby_World_Cup"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/mastercard-44-days-of-crazy-converting-fan-passion-at-rugby-world-cup-2015-into-increased-card-spend/"
+    ],
+    "links": []
+  },
+  {
+    "id": "heineken-champions-league",
+    "brand": "Heineken × UEFA Champions League",
+    "title": "Don’t Watch Alone",
+    "year": 2016,
+    "place": "Champions League markets",
+    "sector": "Beer and football",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Heineken’s beer, Europe’s biggest club competition",
+    "stage": "Signed, launched and measured",
+    "hook": "A sponsor noticed fans drank more when they watched together, and built a campaign on it.",
+    "situation": "Heineken’s Champions League sponsorship was well known, but sales growth was slowing. Fans were more likely to drink Heineken when they watched with others.",
+    "exchange": "Heineken used its sponsorship to encourage social viewing, with José Mourinho as spokesman, high-impact TV and video, and personalised reminders.",
+    "brought": [
+      [
+        "Heineken",
+        "Sponsorship money and a global campaign."
+      ],
+      [
+        "UEFA Champions League",
+        "Europe’s biggest club football, watched in pubs and homes."
+      ]
+    ],
+    "turning_point": "After the campaign, fans watched 20% fewer games alone, and Heineken’s sales rose in the markets where it ran.",
+    "metric": "+13.7%",
+    "metric_label": "Year-on-year volume growth in campaign markets",
+    "measure": "Volume growth in Champions League markets, against declines in countries without the campaign, per the IPA paper",
+    "evidence": "The IPA paper compares markets with the campaign against those without, which works like a control group. It also reports a 5% rise in global brand penetration.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "Use a sponsorship to change a behaviour that sells your product, not just to be seen next to the sport.",
+    "take": "The second Heineken case in this archive, and the opposite of its Bond deal. Here the partnership had a job, and a measure.",
+    "credit": "IPA 2018 · Silver · Publicis Italy for Heineken",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘#ShareTheSofa for the UEFA Champions League’ on Heineken’s channel",
+      "url": "https://www.youtube.com/watch?v=C7ZdH1isg6E"
+    },
+    "announcement": [
+      "Read about the competition · Wikipedia",
+      "https://en.wikipedia.org/wiki/UEFA_Champions_League"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/a-game-changer-how-heineken-reinvented-it-s-champions-league-communications/"
+    ],
+    "links": []
+  },
+  {
+    "id": "dfs-team-gb",
+    "brand": "DFS × Team GB and British Heart Foundation",
+    "title": "A Brand People Value",
+    "year": 2018,
+    "place": "United Kingdom",
+    "sector": "Furniture, sport and charity",
+    "mechanism": "Purpose for preference",
+    "data_role": "Cause partnership",
+    "data_source": "DFS’s sofas, Team GB and the BHF",
+    "stage": "Launched and measured",
+    "hook": "A sofa retailer known for sales used partnerships to be liked, not just bought.",
+    "situation": "DFS needed more affluent sofa shoppers to hit its growth targets. It was famous for price offers, but not for being loved.",
+    "exchange": "Alongside its advertising, DFS partnered with the British Heart Foundation and Team GB to build affection for the brand.",
+    "brought": [
+      [
+        "DFS",
+        "Stores, sofas and a multi-year marketing budget."
+      ],
+      [
+        "Team GB and the BHF",
+        "National pride and a trusted cause."
+      ]
+    ],
+    "turning_point": "Over a multi-year strategy, the partnerships helped DFS appeal to the shoppers it had struggled to reach.",
+    "metric": "£109m",
+    "metric_label": "Estimated incremental sales over six years",
+    "measure": "Incremental sales estimated in the IPA paper, with a 64% rise in profit return",
+    "evidence": "The IPA paper estimates £109m of incremental sales and a 64% increase in profit return, with consideration up 28% among more affluent shoppers. The partnerships were one part of a wider campaign, so their share can’t be separated out.",
+    "evidence_level": "Modelled effect",
+    "stat_type": "result",
+    "lesson": "Partnerships can build the affection that price promotions can’t. Measure them as part of the whole plan.",
+    "take": "Partnerships as one ingredient in a recipe, not the whole meal. That is how most of them work in real life.",
+    "credit": "IPA 2018 · Gold · krow Communications and MediaCom for DFS",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the retailer · Wikipedia",
+      "https://en.wikipedia.org/wiki/DFS_(furniture_retailer)"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/turning-dfs-from-a-value-brand-into-a-brand-that-people-value/"
+    ],
+    "links": []
+  },
+  {
+    "id": "tourism-ireland-game-of-thrones",
+    "brand": "Tourism Ireland × Game of Thrones and Derry Girls",
+    "title": "Lights, Cameras, Collaboration",
+    "year": 2022,
+    "place": "Northern Ireland",
+    "sector": "Tourism and television",
+    "mechanism": "Content for reach",
+    "data_role": "Content partnership",
+    "data_source": "Tourism agencies, two hit TV shows",
+    "stage": "Launched and measured",
+    "hook": "Tourism agencies borrowed the magic of two TV shows without the rights to use them fully.",
+    "situation": "Game of Thrones and Derry Girls were filmed in Northern Ireland and had made people want to visit. The tourism agencies didn’t have full rights to use the shows’ footage.",
+    "exchange": "The agencies worked with the programme makers to create their own experiences, such as a Game of Thrones tapestry and TV sponsorship in the style of Derry Girls characters.",
+    "brought": [
+      [
+        "Tourism Ireland",
+        "Marketing budgets and the places themselves."
+      ],
+      [
+        "The programme makers",
+        "Stories, characters and fans around the world."
+      ]
+    ],
+    "turning_point": "The work ran as visitors returned after the pandemic, and aimed to turn viewers into visitors.",
+    "metric": "Ahead",
+    "metric_label": "Of Croatia in search interest, per the IPA paper",
+    "measure": "Search volumes for Northern Ireland compared with Croatia, another Game of Thrones location, with improved consideration of Northern Ireland",
+    "evidence": "The IPA paper compares search interest with Croatia and tracks consideration. That is a useful comparison, but it measures interest, not visits caused.",
+    "evidence_level": "Survey",
+    "stat_type": "result",
+    "lesson": "When you can’t license the content, partner with its makers to create something new around it.",
+    "take": "A partnership built around a limitation. The tapestry exists because the rights didn’t, and it became a tourist attraction itself.",
+    "credit": "IPA 2024 · Publicis London and OMD UK for Tourism Ireland",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The Stunning Game of Thrones Legacy Woven in Ireland’ on Discover Ireland’s channel",
+      "url": "https://www.youtube.com/watch?v=aZV4PclhHeA"
+    },
+    "announcement": [
+      "Read about the tapestry · Wikipedia",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_Tapestry"
+    ],
+    "impact_source": [
+      "Read the case summary · IPA",
+      "https://ipa.co.uk/knowledge/case-studies/tourism-ireland-lights-cameras-collaboration-multiplying-the-effect-of-screen-tourism/"
+    ],
+    "links": []
+  }
+]
