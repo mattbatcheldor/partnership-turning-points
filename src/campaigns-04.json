@@ -34,10 +34,12 @@
     "take": "Adidas didn’t create the moment. It saw it in a crowd at Madison Square Garden and had the sense to back it.",
     "credit": "Adidas and Run-DMC, 1986",
     "creative": {
-      "medium": "Official audio",
-      "label": "Listen to ‘My Adidas’ on Run-DMC’s channel",
-      "url": "https://www.youtube.com/watch?v=Qx0huz6TiLo",
-      "heading": "Media"
+      "medium": "Archived Adidas promo",
+      "label": "Watch the 1986 Adidas USA promo preserved by The Hip Hop Museum",
+      "url": "https://vimeo.com/765521888",
+      "heading": "Partnership media",
+      "screening_title": "My Adidas (official audio)",
+      "screening_url": "https://www.youtube.com/watch?v=Qx0huz6TiLo"
     },
     "announcement": [
       "See the record · Guinness World Records",
@@ -48,7 +50,15 @@
       "https://www.mrporter.com/journal/lifestyle/how-run-dmc-earned-their-adidas-stripes-826882"
     ],
     "links": [],
-    "deal_value": "$1.6m according to Guinness World Records, $1m in other accounts"
+    "deal_value": "$1.6m according to Guinness World Records, $1m in other accounts",
+    "image": {
+      "src": "assets/edition-04/run-dmc-adidas.webp",
+      "alt": "Run-DMC in Hollis, Queens, in 1986",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.mrporter.com/en-se/journal/lifestyle/how-run-dmc-earned-their-adidas-stripes-826882",
+      "credit": "Ebet Roberts, via MR PORTER"
+    }
   },
   {
     "id": "coca-cola-olympics",
@@ -85,9 +95,11 @@
     "take": "Nearly a hundred years in, nobody asks what the Olympics does for Coca-Cola any more. That’s the most valuable thing a partnership can earn, and the most dangerous.",
     "credit": "Coca-Cola and the IOC",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Coca-Cola Archives Celebrates 90 Years of Olympic Games’ on The Coca-Cola Co.’s channel",
-      "url": "https://www.youtube.com/watch?v=haHRgD16WYs"
+      "medium": "Official retrospective",
+      "label": "Watch Coca-Cola’s archivists look back on 90 years of Olympic sponsorship",
+      "url": "https://www.youtube.com/watch?v=haHRgD16WYs",
+      "heading": "Partnership media",
+      "screening_title": "90 Years of Olympic Games"
     },
     "announcement": [
       "Read about the IOC partnership · Olympics.com",
@@ -98,7 +110,15 @@
       "https://business-standard.com/article/pti-stories/coca-cola-extends-as-olympic-sponsor-in-china-deal-to-2032-119062400483_1.html"
     ],
     "links": [],
-    "deal_value": "The 2019 joint deal with Mengniu was reported at up to $3bn, unconfirmed"
+    "deal_value": "The 2019 joint deal with Mengniu was reported at up to $3bn, unconfirmed",
+    "image": {
+      "src": "assets/edition-04/coca-cola-olympics.webp",
+      "alt": "A Coca-Cola installation at the Olympic Games",
+      "width": 840,
+      "height": 441,
+      "source": "https://olympics.com/ioc/news/-the-olympic-games-is-the-one-thing-that-talks-to-everyone-coca-cola-s-ricardo-fort-on-the-enduring-appeal-of-an-olympic-partnership",
+      "credit": "Coca-Cola Olympic activation · International Olympic Committee"
+    }
   },
   {
     "id": "pepsi-michael-jackson",
@@ -135,9 +155,10 @@
     "take": "The deal that set the price of celebrity in advertising for a generation. It made the endorsement fee a headline in itself.",
     "credit": "Pepsi and Michael Jackson, 1984",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original television advert",
+      "label": "Watch Michael Jackson and the Jacksons in Bob Giraldi’s Pepsi Generation advert",
+      "url": "https://www.youtube.com/watch?v=po0jY4WvCIc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · IBTimes",
@@ -148,7 +169,15 @@
       "https://www.exchange4media.com/advertising-news/before-algorithms-there-was-michael-ads-that-made-the-king-of-pop-a-brand-unto-himself-154505.html"
     ],
     "links": [],
-    "deal_value": "Reported at about $5m, a record for a celebrity endorsement at the time"
+    "deal_value": "Reported at about $5m, a record for a celebrity endorsement at the time",
+    "image": {
+      "src": "assets/edition-04/pepsi-michael-jackson.webp",
+      "alt": "A young Alfonso Ribeiro drinks Pepsi in the 1984 advert",
+      "width": 480,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=po0jY4WvCIc",
+      "credit": "Pepsi Generation (1984) · still from director Bob Giraldi’s archive"
+    }
   },
   {
     "id": "absolut-warhol",
@@ -185,9 +214,11 @@
     "take": "Warhol painted a bottle, and Absolut spent twenty years turning that into its whole identity. The partnership outlived the man.",
     "credit": "Absolut and Andy Warhol, 1985",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Absolut Warhol: From 1985 to Today’ on Absolut’s channel",
-      "url": "https://www.youtube.com/watch?v=JpgrohtyIgA"
+      "medium": "Official retrospective",
+      "label": "Watch Absolut Warhol: From 1985 to Today on Absolut’s channel",
+      "url": "https://www.youtube.com/watch?v=JpgrohtyIgA",
+      "heading": "Partnership media",
+      "screening_title": "Absolut Warhol: From 1985 to Today"
     },
     "announcement": [
       "Read about the partnership · Campaign",
@@ -197,7 +228,16 @@
       "See the painting · National Galleries of Scotland",
       "https://www.nationalgalleries.org/art-and-artists/93233"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/absolut-warhol.webp",
+      "alt": "Andy Warhol’s blue painting of an Absolut bottle",
+      "width": 501,
+      "height": 590,
+      "source": "https://theabsolutcompany.com/media-room/press-release/absolut-launches-limited-edition-andy-warhol-bottle-celebrating-rediscovered-blue-painting/",
+      "credit": "Blue Absolut Warhol artwork · The Absolut Company press archive",
+      "contain": true
+    }
   },
   {
     "id": "swatch-keith-haring",
@@ -234,9 +274,10 @@
     "take": "The most natural fit in this edition. Neither side had to pretend. Haring sold cheap art, and Swatch made the cheap watch desirable.",
     "credit": "Swatch and Keith Haring",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Collector’s retrospective",
+      "label": "Watch the Haas collection’s film about artist-designed Swatches, including Keith Haring",
+      "url": "https://vimeo.com/143593569",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read Swatch’s art history · Swatch",
@@ -246,7 +287,16 @@
       "See a Haring watch at auction · Christie’s",
       "https://www.christies.com.cn/lot/lot-558964"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/swatch-keith-haring.webp",
+      "alt": "Four Swatch watches designed by Keith Haring",
+      "width": 764,
+      "height": 590,
+      "source": "https://onlineonly.christies.com/s/christies-watches-online-time-summer/group-four-keith-haring-limited-edition-watches-one-book-68/29784",
+      "credit": "Keith Haring Swatch watches · Christie’s catalogue photography",
+      "contain": true
+    }
   },
   {
     "id": "gatorade-michael-jordan",
@@ -283,9 +333,10 @@
     "take": "The song is famous, the sales effect is not. It’s a reminder that the most loved adverts aren’t always the ones that moved the numbers.",
     "credit": "Gatorade and Michael Jordan, 1991",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original advert, remastered",
+      "label": "Watch the remastered 1991 Be Like Mike television advert",
+      "url": "https://www.youtube.com/watch?v=qs2BRSWzrJE",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -296,7 +347,15 @@
       "https://africa.espn.com/nba/story/_/id/17246999/michael-jordan-famous-mike-gatorade-commercial-debuted-25-years-ago-monday"
     ],
     "links": [],
-    "deal_value": "Reported at $13.5m over ten years"
+    "deal_value": "Reported at $13.5m over ten years",
+    "image": {
+      "src": "assets/edition-04/gatorade-michael-jordan.webp",
+      "alt": "Michael Jordan smiles as he drinks from a Gatorade bottle",
+      "width": 640,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=qs2BRSWzrJE",
+      "credit": "Be Like Mike (1991) · still from the remastered advert"
+    }
   },
   {
     "id": "ben-jerrys-phish",
@@ -333,9 +392,10 @@
     "take": "The partnership works because it feels like neighbours, not a deal. That is hard to fake.",
     "credit": "Ben & Jerry’s and Phish, 1997",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived launch concert",
+      "label": "Watch Phish’s footage from the 1997 Flynn Theatre benefit that launched Phish Food",
+      "url": "https://www.youtube.com/watch?v=AAPX7f2j9aw",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the origin story · Tasting Table",
@@ -345,7 +405,16 @@
       "Read about pop culture flavours · Mental Floss",
       "https://www.mentalfloss.com/article/53390/11-ben-jerry%E2%80%99s-flavors-inspired-pop-culture"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/ben-jerrys-phish.webp",
+      "alt": "An open tub of Ben & Jerry’s Phish Food ice cream",
+      "width": 590,
+      "height": 590,
+      "source": "https://www.benjerry.com/flavors/phish-food-ice-cream",
+      "credit": "Phish Food packaging · Ben & Jerry’s product photography",
+      "contain": true
+    }
   },
   {
     "id": "louis-vuitton-murakami",
@@ -382,9 +451,10 @@
     "take": "Vuitton let an artist touch its crown jewel. The risk was enormous, and the monogram came out younger.",
     "credit": "Louis Vuitton and Takashi Murakami, 2003",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original animation, remastered",
+      "label": "Watch Takashi Murakami’s Superflat Monogram on Louis Vuitton’s channel",
+      "url": "https://www.youtube.com/watch?v=025RgOGsxJ4",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Sotheby’s",
@@ -394,7 +464,15 @@
       "Read about the sales · NSS Magazine",
       "https://www.nssmag.com/en/fashion/39082/louis-vuitton-takashi-murakami-collaboration-2025"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/louis-vuitton-murakami.webp",
+      "alt": "An animated girl against a purple Louis Vuitton monogram",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=025RgOGsxJ4",
+      "credit": "Superflat Monogram (2003) · Louis Vuitton’s remastered film"
+    }
   },
   {
     "id": "apple-u2",
@@ -431,9 +509,10 @@
     "take": "The iPod advert that felt like a music video. Ten years later the same partners pushed an album onto everyone’s phones, and that’s in Failure first.",
     "credit": "Apple, U2 and Universal Music Group, 2004",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original television advert",
+      "label": "Watch Apple’s 2004 Vertigo iPod advert featuring U2",
+      "url": "https://www.youtube.com/watch?v=B9b5WlqOAIA",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · Apple Newsroom",
@@ -443,7 +522,15 @@
       "Read the product history · Apple History",
       "https://www.apple-history.com/ipod_u2"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/apple-u2.webp",
+      "alt": "A black silhouette of a U2 performer against a yellow background",
+      "width": 480,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=B9b5WlqOAIA",
+      "credit": "Vertigo (2004) · Apple television advert still from an archive upload"
+    }
   },
   {
     "id": "adidas-stella-mccartney",
@@ -480,9 +567,11 @@
     "take": "Most designer collaborations last a season. This one lasted twenty years because it filled a gap, not just a headline.",
     "credit": "Adidas and Stella McCartney, 2004",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch the ‘adidas by Stella McCartney SS20’ film on Stella McCartney’s channel",
-      "url": "https://www.youtube.com/watch?v=mI9--onH4Qw"
+      "medium": "Later collection film",
+      "label": "Watch Stella McCartney’s Adidas spring and summer 2020 campaign film",
+      "url": "https://www.youtube.com/watch?v=mI9--onH4Qw",
+      "heading": "Partnership media",
+      "screening_title": "Adidas by Stella McCartney SS20"
     },
     "announcement": [
       "Read about the designer · Wikipedia",
@@ -492,7 +581,15 @@
       "Read about the first store · RetailDetail",
       "https://www.retaildetail.eu/news/food/first-adidas-stella-mccartney-store-opens-time-olympics"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/adidas-stella-mccartney.webp",
+      "alt": "Models in blue sportswear in the Adidas by Stella McCartney campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=mI9--onH4Qw",
+      "credit": "Adidas by Stella McCartney SS20 · still from Stella McCartney’s campaign film"
+    }
   },
   {
     "id": "converse-comme-des-garcons",
@@ -529,9 +626,10 @@
     "take": "The smallest intervention in this edition, and one of the longest-lasting. Sometimes a partner only needs to add a heart.",
     "credit": "Converse and Comme des Garçons PLAY",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later collection film",
+      "label": "Watch Sean Lew’s Chuck 70 campaign film on the Comme des Garçons channel",
+      "url": "https://www.youtube.com/watch?v=dNfenWAyRGY",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the story · Kith",
@@ -541,7 +639,15 @@
       "Read about the 15th anniversary · Hypebeast",
       "https://hypebeast.com/2024/7/play-comme-des-garcons-converse-single-heart-chuck-70-15-anniversary-release-info"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/converse-comme-des-garcons.webp",
+      "alt": "Cream and black Converse shoes with the red Comme des Garçons PLAY heart",
+      "width": 620,
+      "height": 400,
+      "source": "https://hypebeast.com/2009/4/comme-des-garcons-play-x-converse-chuck-taylor-all-star",
+      "credit": "2009 Chuck Taylor collaboration · product photography via Hypebeast"
+    }
   },
   {
     "id": "fred-perry-amy-winehouse",
@@ -578,9 +684,10 @@
     "take": "The most moving case in the archive. Fred Perry found a way to carry on that honoured her rather than profited from her.",
     "credit": "Fred Perry and Amy Winehouse, 2010",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Launch interview",
+      "label": "Watch Amy Winehouse discuss her Fred Perry collection in an archive upload",
+      "url": "https://www.youtube.com/watch?v=MQj9q5oXqaw",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the decision to continue · Rolling Stone",
@@ -590,7 +697,16 @@
       "Read about the donations · Brands Untapped",
       "https://www.brandsuntapped.com/fred-perrys-amy-winehouse-collection-has-raised-over-2m-for-amy-winehouse-foundation-to-date/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/fred-perry-amy-winehouse.webp",
+      "alt": "Amy Winehouse models a black jacket from her Fred Perry collection",
+      "width": 400,
+      "height": 533,
+      "source": "https://www.designscene.net/2010/11/amy-winehouse-fred-perry-fall-winter-2010-11.html",
+      "credit": "Amy Winehouse for Fred Perry, autumn and winter 2010 · campaign photography via DSCENE",
+      "contain": true
+    }
   },
   {
     "id": "samsung-jay-z",
@@ -627,9 +743,10 @@
     "take": "Jay-Z was paid before anyone heard a note. It was a brilliant deal for the artist, and a harder one to prove for the phone.",
     "credit": "Samsung and Jay-Z, 2013",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original campaign short",
+      "label": "Watch Oceans, a short from Samsung’s Magna Carta Holy Grail campaign",
+      "url": "https://vimeo.com/71165272",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · Rolling Stone",
@@ -645,7 +762,15 @@
         "https://qz.com/100094/with-or-without-a-platinum-selling-album-the-samsung-deal-is-a-win-for-jay-z"
       ]
     ],
-    "deal_value": "Reported at $5m, though other reports gave different figures"
+    "deal_value": "Reported at $5m, though other reports gave different figures",
+    "image": {
+      "src": "assets/edition-04/samsung-jay-z.webp",
+      "alt": "Pharrell Williams in a Samsung campaign film for Jay-Z’s album",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/71165272",
+      "credit": "Oceans · Samsung and Jay-Z campaign film still from Allison Hayes’s archive"
+    }
   },
   {
     "id": "puma-rihanna",
@@ -682,9 +807,10 @@
     "take": "Rihanna didn’t just wear Puma, she made it. That’s the difference between an endorsement and a partnership.",
     "credit": "Puma and Rihanna, 2014",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Behind the scenes",
+      "label": "Watch Puma go behind the scenes of Rihanna’s Fenty Creeper campaign",
+      "url": "https://www.youtube.com/watch?v=BTlvhClsTvE",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about Puma’s growth · Hypebeast",
@@ -694,7 +820,15 @@
       "Read about Rihanna and Puma · Quartz",
       "https://qz.com/619337/rihanna-is-leading-puma-into-a-female-future"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/puma-rihanna.webp",
+      "alt": "Rihanna and a model pose in Puma’s Fenty Creeper campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=BTlvhClsTvE",
+      "credit": "Fenty Puma Creeper · still from Puma’s behind-the-scenes film"
+    }
   },
   {
     "id": "nike-off-white",
@@ -731,9 +865,10 @@
     "take": "Abloh appeared in Edition 01 with IKEA. Here he did the same trick for Nike: he made the familiar feel rare.",
     "credit": "Nike and Virgil Abloh, 2017",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Launch interview",
+      "label": "Watch Virgil Abloh discuss The Ten at Nike’s 2017 Off Campus event",
+      "url": "https://www.youtube.com/watch?v=5De1Vp6FcVs",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the resale analysis · Highsnobiety",
@@ -743,6 +878,14 @@
       "Read the resale guide · Complex",
       "https://www.complex.com/sneakers/a/sole-collector/virgil-abloh-off-white-nike-jordan-resale-price-guide"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-04/nike-off-white.webp",
+      "alt": "A red and white Nike Air Jordan 1 reworked by Virgil Abloh",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=5De1Vp6FcVs",
+      "credit": "The Ten (2017) · Hypebeast’s Off Campus interview thumbnail"
+    }
   }
 ]
