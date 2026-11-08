@@ -34,9 +34,10 @@
     "take": "The only modelled effect in the finale measures something bigger than sales. A partnership made a market where there wasn’t one.",
     "credit": "Safaricom, Vodafone and the UK Department for International Development",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later Safaricom campaign",
+      "label": "Watch Kenya Runs on M-PESA on Safaricom’s channel",
+      "url": "https://www.youtube.com/watch?v=_HHHfV4J5hU",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -51,7 +52,15 @@
         "Read a critical case study · Development Informatics",
         "https://developmentinformatics.org/case-studies/m-pesa-kenya-case-study/"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-07/m-pesa.webp",
+      "alt": "An M-PESA screen on a phone in Safaricom’s campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=_HHHfV4J5hU",
+      "credit": "Kenya Runs on M-PESA · Safaricom campaign still"
+    }
   },
   {
     "id": "havaianas-jean-paul-gaultier",
@@ -88,9 +97,10 @@
     "take": "The smallest gesture in the edition: a designer chose a sandal. Havaianas built a global brand on it.",
     "credit": "Havaianas and Jean Paul Gaultier",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Brand retrospective",
+      "label": "Watch A Grande Virada, Havaianas’ anniversary film about the brand’s transformation",
+      "url": "https://vimeo.com/44491018",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read Havaianas’ story · Havaianas",
@@ -100,7 +110,15 @@
       "Read about the brand · Lonely Planet",
       "https://www.lonelyplanet.com/news/you-see-this-everywhere-havaianas-brazil"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/havaianas-jean-paul-gaultier.webp",
+      "alt": "Runway photograph in Havaianas’ account of its 1999 fashion debut",
+      "width": 487,
+      "height": 494,
+      "source": "https://www.havaianas-store.com/es/en/our-history.html",
+      "credit": "1999 runway debut · Havaianas brand archive"
+    }
   },
   {
     "id": "innocent-age-uk",
@@ -137,9 +155,11 @@
     "take": "The smallest object in the archive, and one of the longest-running partnerships. Every hat was made by someone who cared.",
     "credit": "innocent and Age UK, from 2003",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The innocent Big Knit’ on innocent drinks’ channel",
-      "url": "https://www.youtube.com/watch?v=T1b854BDX7w"
+      "medium": "Official campaign film",
+      "label": "Watch innocent’s film about The Big Knit",
+      "url": "https://www.youtube.com/watch?v=T1b854BDX7w",
+      "heading": "Partnership media",
+      "screening_title": "The innocent Big Knit"
     },
     "announcement": [
       "Read about the Big Knit · Age UK",
@@ -149,7 +169,15 @@
       "Read about the partnership · Age UK",
       "https://ageuk.org.uk/get-involved/corporate-partnerships/our-partners/innocent"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/innocent-age-uk.webp",
+      "alt": "A woman featured in innocent’s film about The Big Knit",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=T1b854BDX7w",
+      "credit": "The Big Knit · still from innocent’s campaign film"
+    }
   },
   {
     "id": "eva-air-hello-kitty",
@@ -186,9 +214,10 @@
     "take": "The most joyful case in the archive. EVA turned a flight into the reason to travel.",
     "credit": "EVA Air and Sanrio, from 2005",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later aircraft launch film",
+      "label": "Watch EVA Air go behind the scenes of the Hello Kitty Besties Jet",
+      "url": "https://www.youtube.com/watch?v=rA3a5Kbectc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the story · CNN",
@@ -198,7 +227,15 @@
       "Read about the 2023 return · AirlineGeeks",
       "https://airlinegeeks.com/2023/04/03/eva-air-brings-back-hello-kitty-jet-service/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/eva-air-hello-kitty.webp",
+      "alt": "EVA Air’s Hello Kitty Besties Jet on the tarmac",
+      "width": 840,
+      "height": 440,
+      "source": "https://www.prnewswire.com/news-releases/eva-air-unveils-hello-kitty-besties-jet-302233768.html",
+      "credit": "Hello Kitty Besties Jet (2024) · EVA Air press photography"
+    }
   },
   {
     "id": "coke-studio-pakistan",
@@ -235,9 +272,11 @@
     "take": "The best content partnership in the archive. Coca-Cola made something people would seek out, then mostly got out of the way.",
     "credit": "Coca-Cola Pakistan and Rohail Hyatt, from 2008",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Pasoori’ on Coke Studio Pakistan’s channel",
-      "url": "https://www.youtube.com/watch?v=5Eqb_-j3FDA"
+      "medium": "Official music video",
+      "label": "Watch Ali Sethi and Shae Gill perform Pasoori for Coke Studio Pakistan",
+      "url": "https://www.youtube.com/watch?v=5Eqb_-j3FDA",
+      "heading": "Partnership media",
+      "screening_title": "Pasoori"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -247,7 +286,15 @@
       "Read about the billion views · Coca-Cola Pakistan",
       "https://www.coca-cola.com/pk/en/media-center/pasoori-makes-history-1-billion-youtube-views"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/coke-studio-pakistan.webp",
+      "alt": "Ali Sethi and Shae Gill in Coke Studio Pakistan’s Pasoori video artwork",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=5Eqb_-j3FDA",
+      "credit": "Pasoori (2022) · Coke Studio Pakistan’s official video thumbnail"
+    }
   },
   {
     "id": "corona-parley",
@@ -284,9 +331,11 @@
     "take": "The fit is obvious, which is the point. The test is whether the commitments outlast the campaign.",
     "credit": "Corona and Parley for the Oceans, from 2017",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Corona x Parley: 100 Islands Protected by 2020’ on Corona’s channel",
-      "url": "https://www.youtube.com/watch?v=fF245CmNvCk"
+      "medium": "Official partnership film",
+      "label": "Watch Corona and Parley introduce their 100 Islands campaign",
+      "url": "https://www.youtube.com/watch?v=fF245CmNvCk",
+      "heading": "Partnership media",
+      "screening_title": "100 Islands Protected by 2020"
     },
     "announcement": [
       "Read about the rings · Parley",
@@ -296,7 +345,15 @@
       "Read the report · Packaging Strategies",
       "https://packagingstrategies.com/articles/90878-corona-tries-out-plastic-free-six-pack-ring"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/corona-parley.webp",
+      "alt": "A swimmer seen from above in the Corona and Parley film",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=fF245CmNvCk",
+      "credit": "100 Islands Protected by 2020 (2017) · Corona and Parley campaign still"
+    }
   },
   {
     "id": "uniqlo-kaws",
@@ -333,9 +390,10 @@
     "take": "Like Target and Missoni in Edition 05, demand overwhelmed the shop. This time the crowd was in China.",
     "credit": "Uniqlo and KAWS, 2019",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later collection film",
+      "label": "Watch a later Uniqlo and KAWS winter campaign from Hey, Honcho!’s archive",
+      "url": "https://vimeo.com/1143511179",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · Asia Times",
@@ -345,7 +403,15 @@
       "Read the report · Artsy",
       "https://www.artsy.net/article/artsy-editorial-kaws-dropped-new-clothes-uniqlo-chaos-ensued"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/uniqlo-kaws.webp",
+      "alt": "KAWS artwork for Uniqlo’s 2019 summer collection",
+      "width": 840,
+      "height": 441,
+      "source": "https://mastered.jp/news/ut-kawssummer-20190607/",
+      "credit": "KAWS:SUMMER (2019) · collection imagery via Mastered"
+    }
   },
   {
     "id": "mcdonalds-bts",
@@ -382,9 +448,10 @@
     "take": "A band from Seoul set the menu in 50 countries. The edge isn’t the edge any more.",
     "credit": "McDonald’s and BTS, 2021",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The BTS Meal is here!’ on McDonald’s Australia’s channel",
-      "url": "https://www.youtube.com/watch?v=f0S4BG2PLr4"
+      "medium": "Original campaign advert",
+      "label": "Watch The BTS Meal is Here on McDonald’s Australia’s channel",
+      "url": "https://www.youtube.com/watch?v=f0S4BG2PLr4",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the results · Fox Business",
@@ -394,7 +461,15 @@
       "Read the report · Soompi",
       "https://www.soompi.com/article/1481325wpp/bts-meal-helps-boost-mcdonalds-worldwide-sales-by-41-percent-in-2nd-quarter-of-2021"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/mcdonalds-bts.webp",
+      "alt": "BTS gather around a table in the BTS Meal campaign film",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=f0S4BG2PLr4",
+      "credit": "The BTS Meal (2021) · McDonald’s Australia campaign still"
+    }
   },
   {
     "id": "liquid-death-tony-hawk",
@@ -431,9 +506,11 @@
     "take": "The strangest exchange in the archive: a partner literally gave blood. It only works because both sides were in on it.",
     "credit": "Liquid Death and Tony Hawk, 2021",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Liquid Death Puts Tony Hawk’s Blood In Limited Edition Skateboards’ on Liquid Death’s channel",
-      "url": "https://www.youtube.com/watch?v=gl7MRPWSw_M"
+      "medium": "Original launch film",
+      "label": "Watch Liquid Death and Tony Hawk announce the limited-edition boards",
+      "url": "https://www.youtube.com/watch?v=gl7MRPWSw_M",
+      "heading": "Partnership media",
+      "screening_title": "Tony Hawk’s Limited-Edition Skateboards"
     },
     "announcement": [
       "Read the report · NBC San Diego",
@@ -443,7 +520,15 @@
       "Read about the sell-out · 10News",
       "https://www.10news.com/news/national/skateboards-infused-with-tony-hawks-blood-sold-out"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/liquid-death-tony-hawk.webp",
+      "alt": "Tony Hawk holds a sheet of paper and a sample vial in the campaign film",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=gl7MRPWSw_M",
+      "credit": "Tony Hawk’s limited-edition skateboards (2021) · Liquid Death film still"
+    }
   },
   {
     "id": "tonys-ben-jerrys",
@@ -480,9 +565,10 @@
     "take": "The edition’s most hopeful case. The small partner set the terms, and the big one agreed to follow them.",
     "credit": "Tony’s Chocolonely and Ben & Jerry’s, 2022",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Official partnership film",
+      "label": "Watch Ben & Jerry’s introduce A Chocolatey Love A-Fair",
+      "url": "https://www.youtube.com/watch?v=9OCly2XDPNo",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · Fairtrade Foundation",
@@ -492,6 +578,14 @@
       "Read the report · Food Dive",
       "https://www.fooddive.com/news/unilever-ben-jerrys-chocolonely-chocolate-slavery/629918/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-07/tonys-ben-jerrys.webp",
+      "alt": "A title card announces that Ben & Jerry’s joins Tony’s mission",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=9OCly2XDPNo",
+      "credit": "A Chocolatey Love A-Fair · Ben & Jerry’s campaign film thumbnail"
+    }
   }
 ]

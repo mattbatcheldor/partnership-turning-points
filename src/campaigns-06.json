@@ -34,9 +34,10 @@
     "take": "Nobody had to pretend. Charli already ordered it, so the partnership just put a name on her cup.",
     "credit": "Dunkin’ and Charli D’Amelio, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Campaign film",
+      "label": "Watch The Charli at Dunkin’ from Kristin Clark’s portfolio",
+      "url": "https://vimeo.com/518262403",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the launch story · Marketing Dive",
@@ -46,7 +47,15 @@
       "Read about the results · Tubefilter",
       "https://www.tubefilter.com/2020/09/23/charli-damelio-dunkin-donuts-sales-app-downloads/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/dunkin-charli-damelio.webp",
+      "alt": "Charli D’Amelio in Dunkin’s campaign for The Charli",
+      "width": 840,
+      "height": 565,
+      "source": "https://www.adsoftheworld.com/campaigns/the-charli",
+      "credit": "The Charli · Dunkin’ campaign artwork via Ads of the World"
+    }
   },
   {
     "id": "nike-casey-neistat",
@@ -83,9 +92,11 @@
     "take": "The moment brands learned that the creator might know the audience better than the agency. Nike’s best decision was saying yes to something it hadn’t asked for.",
     "credit": "Nike and Casey Neistat, 2012",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Make It Count’ on Casey Neistat’s channel",
-      "url": "https://www.youtube.com/watch?v=WxfZkMm3wcg"
+      "medium": "Original campaign film",
+      "label": "Watch Casey Neistat’s Make It Count for Nike",
+      "url": "https://www.youtube.com/watch?v=WxfZkMm3wcg",
+      "heading": "Partnership media",
+      "screening_title": "Make It Count"
     },
     "announcement": [
       "Read the story · The Daily Meal",
@@ -95,7 +106,15 @@
       "Read about Neistat’s adverts · Fortune",
       "https://fortune.com/2015/08/12/casey-neistat-ads-youtube-dropout"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/nike-casey-neistat.webp",
+      "alt": "Casey Neistat films people on a beach in Make It Count",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=WxfZkMm3wcg",
+      "credit": "Make It Count (2012) · Casey Neistat’s film thumbnail"
+    }
   },
   {
     "id": "gymshark-creators",
@@ -132,9 +151,10 @@
     "take": "Gymshark didn’t buy influence. It was part of a community and grew up with it.",
     "credit": "Gymshark and its early creators, from 2012",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Founder retrospective",
+      "label": "Watch Ben Francis explain how he started Gymshark",
+      "url": "https://www.youtube.com/watch?v=MpftE7RwQnM",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -144,7 +164,15 @@
       "Read about the valuation · BBC News",
       "https://bbc.in/3gSeDSh"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/gymshark-creators.webp",
+      "alt": "Gymshark founder Ben Francis in a gym",
+      "width": 800,
+      "height": 500,
+      "source": "https://www.gymshark.com/blog/article/the-official-gymshark-story",
+      "credit": "The Gymshark story · Gymshark editorial photography"
+    }
   },
   {
     "id": "zoella-penguin",
@@ -181,9 +209,10 @@
     "take": "The sales proved the audience was real. The backlash proved it cared about authenticity more than publishers expected.",
     "credit": "Penguin and Zoe Sugg, 2014",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Creator background",
+      "label": "Watch Zoella show some of the home videos she made before becoming a vlogger",
+      "url": "https://www.youtube.com/watch?v=xZvRxVbxOKo",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · Time",
@@ -193,7 +222,15 @@
       "Read the history · Wikipedia",
       "https://en.wikipedia.org/wiki/Girl_Online"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/zoella-penguin.webp",
+      "alt": "Zoe Sugg holds a copy of Girl Online",
+      "width": 840,
+      "height": 471,
+      "source": "https://www.itv.com/news/2014-12-03/youtube-star-zoella-has-fastest-selling-debut-book-ever",
+      "credit": "Girl Online launch coverage · ITV News"
+    }
   },
   {
     "id": "taylor-swift-apple-music",
@@ -230,9 +267,10 @@
     "take": "The fastest negotiation in the archive, done in public. Swift showed that a creator can set the terms for a platform.",
     "credit": "Apple and Taylor Swift, 2015",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later campaign advert",
+      "label": "Watch the 2016 Apple Music advert Taylor vs. Treadmill",
+      "url": "https://vimeo.com/315024018",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the letter · MacRumors",
@@ -242,7 +280,15 @@
       "Read about the reversal · Digiday",
       "https://digiday.com/marketing/taylor-swift-changed-apples-mind-music-royalties/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/taylor-swift-apple-music.webp",
+      "alt": "Taylor Swift puts in earphones before using a treadmill",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/315024018",
+      "credit": "Taylor vs. Treadmill (2016) · Apple Music campaign still from Kieran Walsh’s archive"
+    }
   },
   {
     "id": "pokemon-go-mcdonalds-japan",
@@ -279,9 +325,10 @@
     "take": "The first sponsored location in a game, and the purest version of the idea: the game sent people through the door.",
     "credit": "Niantic, The Pokémon Company and McDonald’s Japan, 2016",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Official developer message",
+      "label": "Watch Pokémon Go’s developers introduce the Japanese launch",
+      "url": "https://www.youtube.com/watch?v=hdpYBEJMfy0",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the launch · AppleInsider",
@@ -296,7 +343,15 @@
         "Read about the share price · NBC News",
         "https://www.nbcnews.com/tech/tech-news/mcdonald-s-japan-scores-first-pokemon-go-sponsorship-report-n613071"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-06/pokemon-go-mcdonalds-japan.webp",
+      "alt": "Pokémon Go appears on a smartphone in Japanese launch coverage",
+      "width": 800,
+      "height": 478,
+      "source": "https://www.travelvoice.jp/20160722-71087",
+      "credit": "Pokémon Go Japan launch (2016) · Travel Voice"
+    }
   },
   {
     "id": "fortnite-avengers",
@@ -333,9 +388,11 @@
     "take": "This is where games became media. A film didn’t just advertise in a game, it became part of it.",
     "credit": "Epic Games and Marvel Studios, 2018",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Infinity Gauntlet Limited Time Mashup’ on Fortnite’s channel",
-      "url": "https://www.youtube.com/watch?v=aN6XlG0XUPM"
+      "medium": "Original game trailer",
+      "label": "Watch Fortnite’s Infinity Gauntlet crossover trailer",
+      "url": "https://www.youtube.com/watch?v=aN6XlG0XUPM",
+      "heading": "Partnership media",
+      "screening_title": "Infinity Gauntlet Limited Time Mashup"
     },
     "announcement": [
       "Read Epic’s announcement · Fortnite",
@@ -345,7 +402,15 @@
       "Read the report · The Next Web",
       "https://thenextweb.com/news/worlds-collide-as-thanos-arrives-in-fortnite"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/fortnite-avengers.webp",
+      "alt": "Thanos and Fortnite characters in Infinity Gauntlet promotional artwork",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=aN6XlG0XUPM",
+      "credit": "Infinity Gauntlet Limited Time Mashup (2018) · Fortnite’s official trailer thumbnail"
+    }
   },
   {
     "id": "coca-cola-stranger-things",
@@ -382,9 +447,10 @@
     "take": "Brand Turning Points told how New Coke failed in 1985. Thirty-four years later, a streaming show turned it into nostalgia.",
     "credit": "Coca-Cola and Netflix, 2019",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original campaign short",
+      "label": "Watch Portal, a short made for the Coca-Cola and Stranger Things campaign",
+      "url": "https://vimeo.com/352280079",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · Fortune",
@@ -399,7 +465,15 @@
         "Read New Coke in Brand Turning Points",
         "https://mattbatcheldor.github.io/brand-turning-points/edition-05/#new-coke"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-06/coca-cola-stranger-things.webp",
+      "alt": "A Stranger Things portal and Coca-Cola campaign lettering",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/352280079",
+      "credit": "Portal (2019) · Coca-Cola and Stranger Things campaign artwork from Sailor Studio"
+    }
   },
   {
     "id": "ninja-mixer",
@@ -436,9 +510,10 @@
     "take": "The creator did well and the platform didn’t. Audiences are loyal to people, but they live on platforms.",
     "credit": "Microsoft and Tyler Blevins, 2019 to 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Contemporary video reporting",
+      "label": "Watch GameSpot report on Ninja’s move to Mixer",
+      "url": "https://www.gamespot.com/videos/ninja-leaves-twitch-to-stream-on-mixer-gs-news-upd/2300-6450574/",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the deal · GameSpot",
@@ -449,7 +524,15 @@
       "https://videogameschronicle.com/news/ninja-and-shroud-reportedly-received-tens-of-millions-ahead-of-mixer-closure"
     ],
     "links": [],
-    "deal_value": "Reported at $20m to $30m, from a talent agency’s account"
+    "deal_value": "Reported at $20m to $30m, from a talent agency’s account",
+    "image": {
+      "src": "assets/edition-06/ninja-mixer.webp",
+      "alt": "Streamer Ninja with blue hair",
+      "width": 780,
+      "height": 520,
+      "source": "https://www.engadget.com/2019-08-01-ninja-twitch-mixer-fortnite.html",
+      "credit": "Ninja’s move to Mixer · photograph via Engadget"
+    }
   },
   {
     "id": "ocean-spray-nathan-apodaca",
@@ -486,9 +569,11 @@
     "take": "Ocean Spray didn’t write the brief, cast the star or pick the song. Its only job was to say thank you, and it did that well.",
     "credit": "Ocean Spray and Nathan Apodaca, 2020",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Nathan Apodaca Truck Surprise’ on Ocean Spray’s channel",
-      "url": "https://www.youtube.com/watch?v=e_DbHnk_xXI"
+      "medium": "Official follow-up film",
+      "label": "Watch Ocean Spray surprise Nathan Apodaca with a truck",
+      "url": "https://www.youtube.com/watch?v=e_DbHnk_xXI",
+      "heading": "Partnership media",
+      "screening_title": "Nathan Apodaca Truck Surprise"
     },
     "announcement": [
       "Read about the truck · ABC7",
@@ -498,7 +583,15 @@
       "Read about the streams · Billboard",
       "https://www.billboard.com/articles/columns/rock/9461477/viral-fleetwood-mac-skateboarder-cranberry-red-truck-gift"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/ocean-spray-nathan-apodaca.webp",
+      "alt": "Nathan Apodaca sits on the tailgate of a red truck filled with Ocean Spray juice",
+      "width": 840,
+      "height": 441,
+      "source": "https://www.cbsnews.com/news/ocean-spray-truck-nathan-apodaca-tiktok-fleetwood-mac-2020-10-07/",
+      "credit": "Nathan Apodaca and his new truck (2020) · photograph via CBS News"
+    }
   },
   {
     "id": "lil-nas-x-roblox",
@@ -535,9 +628,11 @@
     "take": "A musician met fans in their own playground. The audience didn’t have to come to him.",
     "credit": "Roblox, Lil Nas X and Columbia Records, 2020",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The Lil Nas X Full Roblox Concert’ on Lil Nas X’s channel",
-      "url": "https://www.youtube.com/watch?v=f12ukZuUwWI"
+      "medium": "Official concert recording",
+      "label": "Watch the full Roblox concert on Lil Nas X’s channel",
+      "url": "https://www.youtube.com/watch?v=f12ukZuUwWI",
+      "heading": "Partnership media",
+      "screening_title": "The Lil Nas X Roblox Concert"
     },
     "announcement": [
       "Read the announcement · Business Wire",
@@ -547,7 +642,15 @@
       "Read about the views · MobileSyrup",
       "https://mobilesyrup.com/2020/11/16/lil-nas-xs-roblox-concert-attracted-33-million-views/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/lil-nas-x-roblox.webp",
+      "alt": "A close-up of Lil Nas X’s Roblox avatar",
+      "width": 640,
+      "height": 480,
+      "source": "https://www.youtube.com/watch?v=f12ukZuUwWI",
+      "credit": "The Lil Nas X Roblox Concert (2020) · official video thumbnail"
+    }
   },
   {
     "id": "mrbeast-burger",
@@ -584,9 +687,10 @@
     "take": "The audience turned up. The burgers didn’t always live up to the name, and that hurt the creator more than the kitchen.",
     "credit": "MrBeast and Virtual Dining Concepts, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original launch video",
+      "label": "Watch MrBeast’s pop-up that launched MrBeast Burger",
+      "url": "https://www.youtube.com/watch?v=dg2Ag3e8W-Q",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the lawsuit · Restaurant Business",
@@ -596,7 +700,15 @@
       "Read about the countersuit · NBC News",
       "https://www.nbcnews.com/business/mrbeast-burger-food-delivery-service-partner-denies-allegations-rcna129383"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/mrbeast-burger.webp",
+      "alt": "MrBeast stands in front of his burger launch pop-up",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=dg2Ag3e8W-Q",
+      "credit": "MrBeast Burger launch (2020) · MrBeast’s video thumbnail"
+    }
   },
   {
     "id": "animal-crossing-fashion",
@@ -633,9 +745,10 @@
     "take": "The most charming case here. Nobody paid, nobody sold anything, and it still felt like a turning point for fashion in games.",
     "credit": "Valentino, Marc Jacobs and the Animal Crossing Fashion Archive, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Contemporary virtual runway film",
+      "label": "Watch Reference Festival’s Animal Crossing runway show, a related example from 2020",
+      "url": "https://www.youtube.com/watch?v=P0xr2zRpBZU",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the looks · Engadget",
@@ -645,7 +758,15 @@
       "Read the report · The Industry",
       "https://www.theindustry.fashion/marc-jacobs-and-valentino-enter-gaming-with-animal-crossing-outfits/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/animal-crossing-fashion.webp",
+      "alt": "An Animal Crossing avatar walks along a virtual runway",
+      "width": 840,
+      "height": 441,
+      "source": "https://www.nylon.com/fashion/animal-crossing-fashion-shows-are-here",
+      "credit": "Animal Crossing runway show (2020) · Reference Festival imagery via Nylon"
+    }
   },
   {
     "id": "gucci-roblox",
@@ -682,9 +803,10 @@
     "take": "A child could own Gucci for the price of a sandwich. That might be the most important customer Gucci met all year.",
     "credit": "Gucci and Roblox, 2021",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Archetypes | Gucci Garden Virtual Exhibition’ on Roblox’s channel",
-      "url": "https://www.youtube.com/watch?v=_mdGlzK5Wz8"
+      "medium": "Original exhibition film",
+      "label": "Watch Roblox present the Gucci Garden virtual exhibition",
+      "url": "https://www.youtube.com/watch?v=_mdGlzK5Wz8",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · NBC Washington",
@@ -694,7 +816,15 @@
       "Read about the resale · Hypebeast",
       "https://hypebeast.com/2021/5/virtual-gucci-bag-roblox-resale"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/gucci-roblox.webp",
+      "alt": "A digital garden in the Gucci Garden exhibition",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=_mdGlzK5Wz8",
+      "credit": "Gucci Garden Virtual Exhibition (2021) · Roblox film thumbnail"
+    }
   },
   {
     "id": "prime-logan-paul-ksi",
@@ -731,9 +861,10 @@
     "take": "The most dramatic sales curve in the archive. Hype brought people in once, the drink had to bring them back, and it struggled.",
     "credit": "Logan Paul, KSI and Congo Brands, 2022",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Founder promotion",
+      "label": "Watch Logan Paul and KSI promote Prime undercover at Walmart in 2022",
+      "url": "https://www.youtube.com/watch?v=gHJaXRZElXs",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the sales fall · Business Insider",
@@ -743,6 +874,14 @@
       "Read about the lawsuit · Bloomberg Law",
       "https://news.bloomberglaw.com/ip-law/logan-pauls-prime-sports-drink-sued-by-bottler-for-68-million"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-06/prime-logan-paul-ksi.webp",
+      "alt": "KSI and Logan Paul promote Prime in a Walmart store",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.dexerto.com/entertainment/logan-paul-ksi-go-undercover-at-walmart-to-sell-their-new-prime-hydration-drink-1744944/",
+      "credit": "Prime launch promotion (2022) · Logan Paul video imagery via Dexerto"
+    }
   }
 ]

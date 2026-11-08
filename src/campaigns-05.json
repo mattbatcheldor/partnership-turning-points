@@ -34,9 +34,10 @@
     "take": "Adidas did the right thing, and it still cost a fortune. The lesson isn’t to avoid big partners. It’s to know what you own when it ends.",
     "credit": "Adidas and Ye, 2015 to 2022",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original presentation footage",
+      "label": "Watch the Adidas Originals and Kanye West Yeezy Season 1 presentation",
+      "url": "https://www.youtube.com/watch?v=4QX1Y1eVp7Q",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read Adidas’ 2023 results · Börse München",
@@ -51,7 +52,15 @@
         "Read about the donations · Hypebeast",
         "https://hypebeast.com/2023/5/adidas-yeezy-proceeds-anti-defamation-league-george-floyd-foundation-donation-info"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-05/adidas-kanye-west.webp",
+      "alt": "Models on stage at the first Adidas Yeezy presentation",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=4QX1Y1eVp7Q",
+      "credit": "Yeezy Season 1 (2015) · launch footage via Highsnobiety"
+    }
   },
   {
     "id": "pepsi-madonna",
@@ -88,9 +97,11 @@
     "take": "Madonna kept the money and the controversy. Pepsi kept neither, until it decided, decades later, that the story was worth telling.",
     "credit": "Pepsi and Madonna, 1989",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Madonna | Like A Prayer, 1989’ on Pepsi’s channel",
-      "url": "https://www.youtube.com/watch?v=xFos2Xi5QoM"
+      "medium": "Original television advert",
+      "label": "Watch the 1989 Madonna advert that Pepsi pulled",
+      "url": "https://www.youtube.com/watch?v=xFos2Xi5QoM",
+      "heading": "Partnership media",
+      "screening_title": "Like a Prayer"
     },
     "announcement": [
       "Read the story · CBS News",
@@ -101,7 +112,15 @@
       "https://newsfeed.time.com/2012/07/16/nazis-and-nudity-the-top-10-madonna-controversies/slide/madonna-sinks-pepsi-commercial-deal/"
     ],
     "links": [],
-    "deal_value": "Reported at $5m. Madonna reportedly kept the fee"
+    "deal_value": "Reported at $5m. Madonna reportedly kept the fee",
+    "image": {
+      "src": "assets/edition-05/pepsi-madonna.webp",
+      "alt": "Madonna in Pepsi’s 1989 television advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=xFos2Xi5QoM",
+      "credit": "Like a Prayer (1989) · still from Pepsi’s official upload"
+    }
   },
   {
     "id": "hertz-oj-simpson",
@@ -138,9 +157,10 @@
     "take": "The most successful endorsement of its era became the hardest to watch. Nothing about the adverts changed, only what people knew.",
     "credit": "Hertz and O.J. Simpson, 1975 to 1994",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived television advert",
+      "label": "Watch O.J. Simpson in a 1977 Hertz television advert",
+      "url": "https://www.youtube.com/watch?v=Lo0MIUrrNpc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Yahoo News",
@@ -150,7 +170,15 @@
       "Read about the campaign · MediaPost",
       "https://www.mediapost.com/publications/article/395207/putting-oj-in-the-drivers-seat.html"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/hertz-oj-simpson.webp",
+      "alt": "O.J. Simpson runs through an airport with luggage in a Hertz advert",
+      "width": 640,
+      "height": 480,
+      "source": "https://www.youtube.com/watch?v=Lo0MIUrrNpc",
+      "credit": "Hertz Rent-A-Car (1977) · advert still from the Bionic Disco archive"
+    }
   },
   {
     "id": "mastercard-fifa",
@@ -187,9 +215,10 @@
     "take": "Mastercard won in court and lost the World Cup. Sometimes the best outcome of a broken partnership is a cheque and a clean exit.",
     "credit": "Mastercard and FIFA, 1990 to 2006",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original World Cup campaign",
+      "label": "Watch Mastercard’s World Cup Fever campaign from its final men’s World Cup as FIFA sponsor",
+      "url": "https://vimeo.com/97936078",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -200,7 +229,15 @@
       "https://www.warc.com/newsandopinion/news/mastercard-and-fifa-settle-world-cup-dispute/en-gb/21840"
     ],
     "links": [],
-    "deal_value": "FIFA paid Mastercard $90m, and Mastercard gave up future World Cup rights"
+    "deal_value": "FIFA paid Mastercard $90m, and Mastercard gave up future World Cup rights",
+    "image": {
+      "src": "assets/edition-05/mastercard-fifa.webp",
+      "alt": "A football supporter in Mastercard’s World Cup Fever advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/97936078",
+      "credit": "World Cup Fever · campaign still from JUMP’s archive"
+    }
   },
   {
     "id": "kelloggs-michael-phelps",
@@ -237,9 +274,10 @@
     "take": "Kellogg’s acted on its image, Subway on its customers. History has been kinder to Subway’s call.",
     "credit": "Kellogg’s and Michael Phelps, 2008 to 2009",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Later sponsor advert",
+      "label": "Watch Michael Phelps in a Subway advert, the sponsor that kept him",
+      "url": "https://www.youtube.com/watch?v=zaSDqbgTYBM",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · MediaPost",
@@ -249,7 +287,16 @@
       "Read about Subway’s decision · CNBC",
       "https://www.cnbc.com/2009/02/06/subway-keeps-phelps.html"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/kelloggs-michael-phelps.webp",
+      "alt": "A Kellogg’s Frosted Flakes box featuring Michael Phelps",
+      "width": 412,
+      "height": 590,
+      "source": "https://americanhistory.si.edu/collections/object/nmah_1350839",
+      "credit": "Kellogg’s Frosted Flakes box · Smithsonian National Museum of American History",
+      "contain": true
+    }
   },
   {
     "id": "tiger-woods-sponsors",
@@ -286,9 +333,10 @@
     "take": "The only modelled effect in this edition measures damage, not gain. That tells you something about what gets studied.",
     "credit": "Victor Stango and Christopher Knittel, UC Davis, 2009",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Post-crisis television advert",
+      "label": "Watch Nike’s 2010 Earl and Tiger advert, released around Woods’s return to golf",
+      "url": "https://www.youtube.com/watch?v=noc6BtUc7xI",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the study · UC Davis",
@@ -298,7 +346,15 @@
       "Read the report · NPR",
       "https://www.npr.org/sections/money/2009/12/new_study_says_tiger_woods_sca.html"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/tiger-woods-sponsors.webp",
+      "alt": "Tiger Woods faces the camera in a black-and-white Nike advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=noc6BtUc7xI",
+      "credit": "Earl and Tiger (2010) · Nike advert still from an archive upload"
+    }
   },
   {
     "id": "target-missoni",
@@ -335,9 +391,10 @@
     "take": "The only failure here caused by too much love. Customers weren’t angry at Missoni. They were angry they couldn’t get it.",
     "credit": "Target and Missoni, 2011",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Collection launch film",
+      "label": "Watch The Missoni Tradition, the launch film in Vogue’s archive",
+      "url": "https://www.vogue.com/video/watch/traditions812qt",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the launch day report · Star Tribune",
@@ -347,7 +404,15 @@
       "Read about the resale · RetailWire",
       "https://retailwire.com/discussion/fashion-scalpers-hit-jackpot-reselling-missoni-for-target-on-ebay/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/target-missoni.webp",
+      "alt": "Models in patterned clothes from the Missoni for Target collection",
+      "width": 600,
+      "height": 400,
+      "source": "https://corporate.target.com/news-features/article/2011/09/collection-countdown-missoni-for-target",
+      "credit": "Missoni for Target (2011) · Target’s launch photography"
+    }
   },
   {
     "id": "lance-armstrong-sponsors",
@@ -384,9 +449,10 @@
     "take": "Nike said it had been misled. The harder question for every sponsor is how much they wanted to believe.",
     "credit": "Nike, Trek, Anheuser-Busch, Oakley and Lance Armstrong",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived television advert",
+      "label": "Watch Nike’s What Am I On? advert from before it dropped Armstrong",
+      "url": "https://www.youtube.com/watch?v=ZD2ULeV3-qA",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about Nike’s decision · Sports Illustrated",
@@ -396,7 +462,15 @@
       "Read the report · Bangor Daily News",
       "https://www.bangordailynews.com/2012/10/17/sports/lance-armstrong-out-as-livestrong-head-loses-sponsors/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/lance-armstrong-sponsors.webp",
+      "alt": "Lance Armstrong in Nike’s What Am I On? advert",
+      "width": 480,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=ZD2ULeV3-qA",
+      "credit": "What Am I On? · Nike advert still from the Cycling Nostalgia archive"
+    }
   },
   {
     "id": "lego-shell",
@@ -433,9 +507,11 @@
     "take": "LEGO insisted the campaign wasn’t about it. It ended the deal anyway, because a brand built on trust can’t afford the argument.",
     "credit": "LEGO and Shell, 1966 to 2014",
     "creative": {
-      "medium": "Campaign film",
-      "label": "Watch Greenpeace’s film ‘LEGO: Everything is NOT awesome.’ on Greenpeace International’s channel",
-      "url": "https://www.youtube.com/watch?v=qhbliUq0_r4"
+      "medium": "Protest film",
+      "label": "Watch the Greenpeace film that challenged LEGO’s Shell partnership",
+      "url": "https://www.youtube.com/watch?v=qhbliUq0_r4",
+      "heading": "Partnership media",
+      "screening_title": "Everything Is Not Awesome"
     },
     "announcement": [
       "Read about the decision · Salon",
@@ -446,7 +522,15 @@
       "https://www.prweek.com/article/1302633/greenpeace-viral-video-says-everything-not-awesome-lego-shell-partnership"
     ],
     "links": [],
-    "deal_value": "Reported at about $103m in Swedish media, unconfirmed"
+    "deal_value": "Reported at about $103m in Swedish media, unconfirmed",
+    "image": {
+      "src": "assets/edition-05/lego-shell.webp",
+      "alt": "LEGO figures in the Arctic scene from Greenpeace’s campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=qhbliUq0_r4",
+      "credit": "Everything Is Not Awesome (2014) · Greenpeace film still"
+    }
   },
   {
     "id": "apple-u2-songs-of-innocence",
@@ -483,9 +567,11 @@
     "take": "The same partners as Edition 04, ten years on. In 2004 people chose the U2 iPod. In 2014 the album chose them.",
     "credit": "Apple, U2 and Universal Music Group, 2014",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch Apple’s September 2014 event on Apple’s channel. U2 appear near the end",
-      "url": "https://www.youtube.com/watch?v=38IqQpwPe7s"
+      "medium": "Original launch keynote",
+      "label": "Watch Apple’s September 2014 launch event. U2 appear near the end.",
+      "url": "https://www.youtube.com/watch?v=38IqQpwPe7s",
+      "heading": "Partnership media",
+      "screening_title": "Apple’s September 2014 keynote"
     },
     "announcement": [
       "Read about the removal tool · Campaign",
@@ -495,7 +581,15 @@
       "Read the report · CBC",
       "https://www.cbc.ca/news/science/apple-s-one-click-tool-deletes-unwanted-u2-tracks-1.2767319"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/apple-u2-songs-of-innocence.webp",
+      "alt": "U2 and Tim Cook onstage announcing Songs of Innocence",
+      "width": 506,
+      "height": 308,
+      "source": "https://commons.wikimedia.org/wiki/File:U2_with_Tim_Cook_announcing_Songs_of_Innocence.jpg",
+      "credit": "U2 and Tim Cook (2014) · gilipollastv, CC BY 2.0 via Wikimedia Commons · resized"
+    }
   },
   {
     "id": "subway-jared-fogle",
@@ -532,9 +626,10 @@
     "take": "The hardest case in the archive to write. The partnership worked for years, which is exactly why its end was so damaging.",
     "credit": "Subway and Jared Fogle, 2000 to 2015",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived television advert",
+      "label": "Watch a 2004 Subway advert featuring Jared Fogle",
+      "url": "https://www.youtube.com/watch?v=ivXsrnMBtrk",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the suspension · The Drum",
@@ -544,7 +639,15 @@
       "Read about the sentence · Nation’s Restaurant News",
       "https://www.nrn.com/restaurant-segments/former-subway-spokesman-jared-fogle-sentenced-to-15-years"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/subway-jared-fogle.webp",
+      "alt": "Jared Fogle eats a sandwich in a 2004 Subway advert",
+      "width": 480,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=ivXsrnMBtrk",
+      "credit": "Subway (2004) · television advert still from an archive upload"
+    }
   },
   {
     "id": "bp-tate",
@@ -581,9 +684,10 @@
     "take": "BP said it was about business. Maybe so. But the reason a sponsor gives for leaving is rarely the whole reason.",
     "credit": "BP and Tate, 1990 to 2017",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Contemporary protest footage",
+      "label": "Watch The Guardian’s footage of Liberate Tate’s Turbine Hall protest",
+      "url": "https://www.theguardian.com/world/video/2015/jun/15/tate-modern-turbine-hall-protesters-bp-sponsorship-video",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · The Art Newspaper",
@@ -593,7 +697,15 @@
       "Read the report · ArtReview",
       "https://artreview.com/news-11-mar-2016-end-of-bp-tate-sponsorship/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/bp-tate.webp",
+      "alt": "Liberate Tate protesters in Tate Modern’s Turbine Hall",
+      "width": 840,
+      "height": 441,
+      "source": "https://www.theguardian.com/world/video/2015/jun/15/tate-modern-turbine-hall-protesters-bp-sponsorship-video",
+      "credit": "Time Piece (2015) · protest footage via The Guardian"
+    }
   },
   {
     "id": "peloton-and-just-like-that",
@@ -630,9 +742,10 @@
     "take": "Peloton’s answer was brilliant and fast, and then it had to delete it. It’s a reminder that you never control the people in a partnership, even your own advert.",
     "credit": "Peloton and HBO, 2021",
     "creative": {
-      "medium": "Original work",
-      "label": "Peloton removed its advert",
-      "url": ""
+      "medium": "Contemporary video reporting",
+      "label": "Watch ABC News cover Peloton’s response to the episode",
+      "url": "https://abcnews.com/GMA/Culture/peloton-addresses-shocking-spoiler-sex-city-sequel/story?id=81680310",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the analysis · Axios",
@@ -642,7 +755,15 @@
       "Read the report · NBC News",
       "https://www.nbcnews.com/news/us-news/pelotons-new-ad-hits-back-just-death-rcna8513"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/peloton-and-just-like-that.webp",
+      "alt": "Chris Noth in Peloton’s response advert",
+      "width": 800,
+      "height": 372,
+      "source": "https://www.famouscampaigns.com/2021/12/shall-we-take-another-ride-peloton-meets-sex-and-the-city/",
+      "credit": "Unspoiler Alert (2021) · Peloton and Maximum Effort, via Famous Campaigns"
+    }
   },
   {
     "id": "ftx-sports",
@@ -679,9 +800,10 @@
     "take": "Sport rented its credibility to a company that didn’t deserve it. The money was real, and so was the damage.",
     "credit": "FTX, Miami-Dade County and the Miami Heat, 2021 to 2023",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original Super Bowl advert",
+      "label": "Watch FTX’s Don’t Miss Out advert starring Larry David",
+      "url": "https://www.youtube.com/watch?v=hWMnbJJpeZc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the arena ruling · CBS Sports",
@@ -692,7 +814,15 @@
       "https://decrypt.co/114975/crypto-sports-marketing-deals-crumbling-cancelled-failed-ftx"
     ],
     "links": [],
-    "deal_value": "$135m over 19 years for the Miami arena"
+    "deal_value": "$135m over 19 years for the Miami arena",
+    "image": {
+      "src": "assets/edition-05/ftx-sports.webp",
+      "alt": "Larry David in FTX’s Super Bowl advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=hWMnbJJpeZc",
+      "credit": "Don’t Miss Out (2022) · Super Bowl advert still from an archive upload"
+    }
   },
   {
     "id": "yeezy-gap",
@@ -729,9 +859,10 @@
     "take": "Gap wanted culture, Ye wanted control. Neither got what they signed for.",
     "credit": "Gap and Ye, 2020 to 2022",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Music video and campaign film",
+      "label": "Watch Heaven and Hell, the music video that doubled as a Yeezy Gap advert",
+      "url": "https://www.youtube.com/watch?v=XKWcAsT8Sqc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the report · Rolling Stone",
@@ -741,6 +872,14 @@
       "Read the report · Retail Gazette",
       "https://www.retailgazette.co.uk/blog/2022/09/gap-and-kanye-west-end-partnership/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-05/yeezy-gap.webp",
+      "alt": "A hooded figure in the Heaven and Hell music video",
+      "width": 840,
+      "height": 473,
+      "source": "https://pitchfork.com/news/kanye-west-shares-new-video-for-heaven-and-hell-watch/",
+      "credit": "Heaven and Hell (2022) · music video still via Pitchfork"
+    }
   }
 ]

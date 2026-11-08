@@ -871,10 +871,14 @@ def build_index():
     filters = ''.join(f'<div class="filter-row" role="group" aria-label="{label}"><span class="small">{label}</span>{chips(g, vals)}</div>' for g, (label, vals) in filt.items())
     lines = []
     for ed, c in sorted(everything, key=lambda x: (x[1]['year'], x[1]['brand'])):
+        thumbnail = campaign_image(c, 'ix-thumbnail', '../')
+        video_url = c['creative'].get('url')
+        watch = (f'<a class="ix-watch" href="{e(video_url)}" aria-label="Watch video for {e(c["brand"])}">Watch <span aria-hidden="true">↗</span></a>'
+                 if video_url else '')
         lines.append(f'<li class="ix-case" data-edition="{ed["number"]}" data-role="{e(c["data_role"])}" data-industry="{e("|".join(industries_of(c["sector"])))}" data-region="{e(region_of(c["place"]))}" data-evidence="{e(c["evidence_level"])}">'
-                     f'<a href="{case_href(ed, c["id"])}"><span class="ix-year">{c["year"]}</span><span class="ix-main"><span class="ix-brand small">{e(c["brand"])} · {e(c["mechanism"])}</span>'
+                     f'<a class="ix-case-link" href="{case_href(ed, c["id"])}"><span class="ix-visual">{thumbnail}<span class="ix-year">{c["year"]}</span></span><span class="ix-main"><span class="ix-brand small">{e(c["brand"])} · {e(c["mechanism"])}</span>'
                      f'<span class="ix-title">{e(c["title"])}</span><span class="ix-place">{e(c["place"])} · {e(c["data_role"])}</span></span>'
-                     f'<span class="ix-side"><span class="ix-ed">Edition {ed["number"]}, {e(ed["name"])}</span>{meter(c["evidence_level"])}</span></a></li>')
+                     f'<span class="ix-side"><span class="ix-ed">Edition {ed["number"]}, {e(ed["name"])}</span>{meter(c["evidence_level"])}</span></a>{watch}</li>')
 
     share = lambda n: f'{round(n / total * 100)}%'
     uk, na = regions['UK and Ireland'], regions['North America']
