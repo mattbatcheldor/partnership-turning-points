@@ -34,9 +34,10 @@
     "take": "Plenty of great partnerships start as a purchase order. GoPro earned its place on Red Bull’s biggest stage before it asked for a contract.",
     "credit": "Red Bull and GoPro, 2016",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Red Bull Stratos: The Full Story’ on GoPro’s channel",
-      "url": "https://www.youtube.com/watch?v=dYw4meRWGd4"
+      "medium": "Official film from 2014",
+      "label": "Watch GoPro’s Red Bull Stratos film about the 2012 jump, before the 2016 deal",
+      "url": "https://www.youtube.com/watch?v=dYw4meRWGd4",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · GoPro",
@@ -52,7 +53,15 @@
         "https://www.guinnessworldrecords.com/world-records/105276-most-concurrent-views-for-a-live-event-on-youtube"
       ]
     ],
-    "deal_value": "Equity stake of under 1%. Other terms not disclosed"
+    "deal_value": "Equity stake of under 1%. Other terms not disclosed",
+    "image": {
+      "src": "assets/edition-01/red-bull-gopro.webp",
+      "alt": "Felix Baumgartner’s gloved hand at the capsule hatch, with the Earth far below",
+      "credit": "Red Bull Stratos jump (2012) · GoPro film still",
+      "source": "https://www.youtube.com/watch?v=dYw4meRWGd4",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "lego-star-wars",
@@ -89,9 +98,11 @@
     "take": "The deal LEGO nearly said no to became its longest-running theme. Some of the best partnerships need someone senior to overrule the doubters.",
     "credit": "LEGO Group and Lucasfilm",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘LEGO Star Wars: 25 Years’ on LEGO’s channel",
-      "url": "https://www.youtube.com/watch?v=68aY4iB5Vq0"
+      "medium": "Archived launch-era advert",
+      "label": "Watch a 1999 LEGO Star Wars Episode I television advert",
+      "url": "https://www.youtube.com/watch?v=1ik2BD_OjFE",
+      "heading": "Partnership media",
+      "screening_url": "https://www.youtube.com/watch?v=68aY4iB5Vq0"
     },
     "announcement": [
       "Read the launch story · The Brothers Brick",
@@ -101,7 +112,21 @@
       "Read the 2012 renewal · Yakface",
       "https://yakfaceforums.com/main/2012/02/14/lego-star-wars-10-more-years-of-fun/"
     ],
-    "links": []
+    "links": [
+      [
+        "Watch LEGO’s 25th anniversary short",
+        "https://www.youtube.com/watch?v=68aY4iB5Vq0"
+      ]
+    ],
+    "image": {
+      "src": "assets/edition-01/lego-star-wars.webp",
+      "alt": "Boxes from the first LEGO Star Wars sets, displayed together on a dark background",
+      "credit": "LEGO Star Wars 1999 launch assortment · The Brothers Brick archive",
+      "source": "https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/",
+      "width": 800,
+      "height": 428,
+      "contain": true
+    }
   },
   {
     "id": "bmw-films-the-hire",
@@ -138,9 +163,10 @@
     "take": "Branded entertainment before anyone called it that. BMW bought directors’ credibility and let them keep it.",
     "credit": "Fallon Minneapolis for BMW",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The Hire: The Follow’ on BMW India’s channel",
-      "url": "https://www.youtube.com/watch?v=3O3sZFDBQJE"
+      "medium": "Original short film",
+      "label": "Watch Wong Kar-wai’s The Follow on BMW India’s channel",
+      "url": "https://www.youtube.com/watch?v=3O3sZFDBQJE",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read BMW’s account of the series · BMW Group",
@@ -150,7 +176,15 @@
       "Read the history · Jalopnik",
       "https://jalopnik.com/bmws-the-hire-was-ahead-of-the-curve-and-still-has-no-833978195"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/bmw-films-the-hire.webp",
+      "alt": "Camera equipment mounted around a BMW with Clive Owen in the driver’s seat",
+      "credit": "The Hire · behind-the-scenes photograph, BMW Group PressClub",
+      "source": "https://www.press.bmwgroup.com/usa/article/detail/T0451233EN_US/bmw-na-50th-anniversary-%7C-50-stories-for-50-years-chapter-27%3A-%E2%80%9Cthe-hire%3A-bmw%E2%80%99s-revolutionary-brand-campaign%E2%80%9D?language=en_US",
+      "width": 800,
+      "height": 533
+    }
   },
   {
     "id": "hm-karl-lagerfeld",
@@ -187,9 +221,10 @@
     "take": "Every designer collaboration since has copied this one. H&M turned a one-off into an annual event that customers queue for.",
     "credit": "H&M and Karl Lagerfeld, 2004",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived launch advert",
+      "label": "Watch the 2004 Karl Lagerfeld for H&M television advert",
+      "url": "https://www.youtube.com/watch?v=MTYpWB8jd_0",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history of H&M’s collaborations · Stylight",
@@ -199,7 +234,15 @@
       "Read Lagerfeld’s view · Business Insider",
       "https://businessinsider.in/karl-lagerfeld-once-worked-with-hm-to-make-fashion-more-approachable-but-he-said-he-was-ultimately-let-down-by-the-giant-retailer/amp_articleshow/68071585.cms"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/hm-karl-lagerfeld.webp",
+      "alt": "Karl Lagerfeld in dark sunglasses in the black-and-white H&M advert",
+      "credit": "Karl Lagerfeld for H&M (2004) · television advert still from an archive upload",
+      "source": "https://www.youtube.com/watch?v=MTYpWB8jd_0",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "nike-apple-nike-plus",
@@ -236,9 +279,10 @@
     "take": "This is where Nike learned to be a software company. The shoe was the hardware, and Apple showed it the rest.",
     "credit": "Nike and Apple, 2006",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived television advert",
+      "label": "Watch Nike+iPod’s 2006 Running + Motivation advert",
+      "url": "https://www.youtube.com/watch?v=Nr88roCFXug",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · Apple Newsroom",
@@ -252,8 +296,20 @@
       [
         "Read the launch release · Nike",
         "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2006/Nike-and-Apple-Launch-Nike--iPod-Sport-Kit/default.aspx"
+      ],
+      [
+        "See the 2006 Nike+iPod Sport Kit · Computer History Museum",
+        "https://www.computerhistory.org/revolution/artifact/286/1595"
       ]
-    ]
+    ],
+    "image": {
+      "src": "assets/edition-01/nike-apple-nike-plus.webp",
+      "alt": "A runner on a city street in the original Nike+iPod advert",
+      "credit": "Nike+iPod (2006) · original advert still from the brandcode archive upload",
+      "source": "https://www.youtube.com/watch?v=rDraX6MWBvI",
+      "width": 480,
+      "height": 270
+    }
   },
   {
     "id": "uniqlo-jil-sander",
@@ -290,9 +346,10 @@
     "take": "Less noise than H&M’s collaborations, more effect. +J helped make Uniqlo look like design, not just value.",
     "credit": "Uniqlo and Jil Sander, 2009",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "2020 relaunch film",
+      "label": "Watch the +J autumn/winter 2020 campaign film from JN Production",
+      "url": "https://vimeo.com/478434861",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · FashionNetwork",
@@ -302,7 +359,15 @@
       "Read about Uniqlo’s 2009 sales · The Japan Times",
       "https://www.japantimes.co.jp/news/2009/10/17/business/recession-cant-slow-uniqlo"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/uniqlo-jil-sander.webp",
+      "alt": "Two models in dark tailoring from the first Uniqlo +J collection",
+      "credit": "Uniqlo +J autumn 2009 campaign · reproduced by Hypebeast",
+      "source": "https://hypebeast.com/2009/8/jil-sander-x-uniqlo-j-2009-fall-collection-ad-campaign-and-release-date",
+      "width": 620,
+      "height": 413
+    }
   },
   {
     "id": "taco-bell-doritos-locos",
@@ -339,9 +404,10 @@
     "take": "The most commercially successful collaboration in this edition, and the least glamorous. It sold a billion tacos because it tasted like the idea.",
     "credit": "Taco Bell and Frito-Lay, 2012",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The Legend of Doritos Locos Tacos’ on Taco Bell’s channel",
-      "url": "https://www.youtube.com/watch?v=q3Q4DwKsUuI"
+      "medium": "Official retrospective",
+      "label": "Watch Taco Bell tell the story behind Doritos Locos Tacos",
+      "url": "https://www.youtube.com/watch?v=q3Q4DwKsUuI",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read how it was made · Rutgers",
@@ -351,7 +417,15 @@
       "Read the billion-taco report · The Daily Meal",
       "https://www.thedailymeal.com/news/1-billion-worth-doritos-locos-tacos-sold/101713"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/taco-bell-doritos-locos.webp",
+      "alt": "Doritos Locos Taco in its red co-branded sleeve on a yellow background",
+      "credit": "Doritos Locos Taco · Taco Bell’s official retrospective thumbnail",
+      "source": "https://www.youtube.com/watch?v=q3Q4DwKsUuI",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "heineken-skyfall",
@@ -388,9 +462,10 @@
     "take": "The biggest number in this edition is one nobody confirmed. That is a pattern I expect to see a lot in this archive.",
     "credit": "Heineken, 2012 · Wieden+Kennedy Amsterdam",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Archived campaign film",
+      "label": "Watch Heineken’s 2012 Skyfall tie-in advert, The Express",
+      "url": "https://www.youtube.com/watch?v=mngPloA3svc",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · Campaign",
@@ -401,7 +476,15 @@
       "https://www.adweek.com/digital/james-bond-to-drink-heineken-would-rather-have-a-martini/"
     ],
     "links": [],
-    "deal_value": "Rumoured at $45m, never confirmed"
+    "deal_value": "Rumoured at $45m, never confirmed",
+    "image": {
+      "src": "assets/edition-01/heineken-skyfall.webp",
+      "alt": "Guests in evening dress and a server on the train in Heineken’s Bond advert",
+      "credit": "Heineken, The Express (2012) · still from an archive upload of the Skyfall tie-in",
+      "source": "https://www.youtube.com/watch?v=mngPloA3svc",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "spotify-uber",
@@ -438,9 +521,10 @@
     "take": "One of the most talked-about tech partnerships of its year, and one of the hardest to find results for. Great headline, narrow door.",
     "credit": "Spotify and Uber, 2014",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original launch film",
+      "label": "Watch Uber’s 2014 Spotify integration launch film",
+      "url": "https://vimeo.com/112013239",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the launch report · Fortune",
@@ -450,7 +534,15 @@
       "Read the details · Consumerist",
       "https://consumerist.com/2014/11/17/uber-and-spotify-pair-up-to-allow-riders-to-choose-their-own-tunes-for-the-drive/index.html"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/spotify-uber.webp",
+      "alt": "Two phone screens show the Uber app’s Spotify connection prompt and its playlist picker",
+      "credit": "Spotify and Uber in-ride music integration · image reproduced by Semrush",
+      "source": "https://www.semrush.com/blog/growth-hacking-strategies/",
+      "width": 800,
+      "height": 473
+    }
   },
   {
     "id": "supreme-louis-vuitton",
@@ -487,9 +579,10 @@
     "take": "Louis Vuitton once sued for less. Supreme turned that into a collaboration that changed what luxury thought cool looked like.",
     "credit": "Louis Vuitton and Supreme, 2017",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original runway footage",
+      "label": "Watch footage from the autumn/winter 2017 Louis Vuitton × Supreme show",
+      "url": "https://www.youtube.com/watch?v=_XMwBgXy6NE",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the brand history · Wikipedia",
@@ -499,7 +592,15 @@
       "Read about VF’s purchase · The Fashion Law",
       "https://www.thefashionlaw.com/vans-parent-vf-corp-buying-streetwear-brand-supreme-in-2-1-billion-deal/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/supreme-louis-vuitton.webp",
+      "alt": "A model in a dark patterned jacket walks the Louis Vuitton and Supreme runway",
+      "credit": "Louis Vuitton × Supreme, autumn/winter 2017 menswear runway · launch photograph via ELLE",
+      "source": "https://www.elle.com/fashion/news/a42270/louis-vuitton-supreme-collaboration/",
+      "width": 640,
+      "height": 320
+    }
   },
   {
     "id": "crocs-balenciaga",
@@ -536,9 +637,10 @@
     "take": "The most surprising turnaround in this edition. Balenciaga gave Crocs permission to be in on the joke.",
     "credit": "Crocs and Balenciaga, 2017",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original runway footage",
+      "label": "Watch Balenciaga’s spring/summer 2018 show, staged in October 2017",
+      "url": "https://www.youtube.com/watch?v=XllWfpFeWlg",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the runway report · Fortune",
@@ -548,7 +650,16 @@
       "Read the 2021 results · Retail Dive",
       "https://www.retaildive.com/news/crocs-revenue-nearly-doubles-in-q2-as-dtc-and-wholesale-take-off/603772/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/crocs-balenciaga.webp",
+      "alt": "Bright pink Balenciaga platform Crocs with charms beneath green trousers",
+      "credit": "Balenciaga spring/summer 2018 runway, shown in 2017 · photograph reproduced by ELLE",
+      "source": "https://www.elle.com/fashion/a33313908/crocs-pandemic-shoes/",
+      "width": 716,
+      "height": 720,
+      "contain": true
+    }
   },
   {
     "id": "ikea-virgil-abloh",
@@ -585,9 +696,10 @@
     "take": "Abloh’s quotation marks were the joke and the point. IKEA borrowed a generation’s favourite designer and let him tease its own products.",
     "credit": "IKEA and Virgil Abloh, 2019",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original campaign film",
+      "label": "Watch the 2019 MARKERAD film from cinematographer Jasper Spanning’s archive",
+      "url": "https://vimeo.com/375863410",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the product story · IKEA Museum",
@@ -597,7 +709,15 @@
       "Read the pop-up report · FashionUnited",
       "https://fashionunited.uk/news/fashion/off-white-x-ikea-pop-up-store-pulls-rugs-out-from-under-customers/2018100339271"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/ikea-virgil-abloh.webp",
+      "alt": "A room styled with pieces from Virgil Abloh’s MARKERAD collection, including the green WET GRASS rug",
+      "credit": "MARKERAD collection (2019) · IKEA press photography",
+      "source": "https://www.ikea.com/us/en/newsroom/range-news/ikea-x-virgil-abloh-markerad-pubf4461807/",
+      "width": 600,
+      "height": 439
+    }
   },
   {
     "id": "mcdonalds-travis-scott",
@@ -634,9 +754,10 @@
     "take": "It turned the celebrity endorsement into a menu item, and started a run of celebrity meals that every chain copied.",
     "credit": "McDonald’s and Travis Scott, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original television advert",
+      "label": "Watch the 30-second Travis Scott Meal advert at Muse by Clios",
+      "url": "https://musebyclios.com/music/travis-scott-action-figure-touts-his-namesake-mcdonalds-meal/",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the shortage report · NBC",
@@ -647,7 +768,15 @@
       "https://thetakeout.com/mcdonald-s-travis-scott-meal-leads-to-burger-shortages-1845091392"
     ],
     "links": [],
-    "deal_value": "At least $5m for Scott, plus about $15m from merchandise, per Forbes estimates"
+    "deal_value": "At least $5m for Scott, plus about $15m from merchandise, per Forbes estimates",
+    "image": {
+      "src": "assets/edition-01/mcdonalds-travis-scott.webp",
+      "alt": "A Travis Scott action figure behind the Quarter Pounder meal in the McDonald’s spot",
+      "credit": "McDonald’s, The Travis Scott Meal (2020) · television advert still via Muse by Clios",
+      "source": "https://musebyclios.com/music/travis-scott-action-figure-touts-his-namesake-mcdonalds-meal/",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "fortnite-travis-scott",
@@ -684,9 +813,10 @@
     "take": "The moment games became venues. Astronomical showed a platform could be a stage, not just a place to advertise.",
     "credit": "Epic Games and Travis Scott, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Official full event film",
+      "label": "Watch the full Astronomical performance on Travis Scott’s channel",
+      "url": "https://www.youtube.com/watch?v=wYeFAlVC8qU",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the record report · PC Gamer",
@@ -696,7 +826,20 @@
       "Read the full attendance figures · Game Developer",
       "https://gamedeveloper.com/business/-i-fortnite-s-i-virtual-travis-scott-gig-attracted-a-record-12-3-million-concurrent-players"
     ],
-    "links": []
+    "links": [
+      [
+        "See the original event announcement · Epic Games",
+        "https://www.fortnite.com/news/astronomical"
+      ]
+    ],
+    "image": {
+      "src": "assets/edition-01/fortnite-travis-scott.webp",
+      "alt": "Travis Scott’s giant avatar in a blue, glowing scene from Astronomical",
+      "credit": "Astronomical (2020) · Travis Scott and Fortnite’s official event video",
+      "source": "https://www.youtube.com/watch?v=wYeFAlVC8qU",
+      "width": 800,
+      "height": 450
+    }
   },
   {
     "id": "gucci-the-north-face",
@@ -733,9 +876,10 @@
     "take": "This is what a balanced collaboration looks like. Neither brand disappears, and each borrows something real.",
     "credit": "Gucci and The North Face, 2021",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘The North Face x Gucci: Chapter Two’ on Gucci’s channel",
-      "url": "https://www.youtube.com/watch?v=TI4JEMxFWi4"
+      "medium": "Original campaign film",
+      "label": "Watch Gucci’s first The North Face × Gucci campaign film",
+      "url": "https://www.youtube.com/watch?v=78wHAsOPNRs",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the launch report · Luxury Daily",
@@ -745,6 +889,14 @@
       "Read the Lyst ranking · Pop Fashion",
       "https://m.popfashioninfo.com/blog/detail/the-top-20-hottest-brands-of-q1-2021-on-lyst-index-id_31669/"
     ],
-    "links": []
+    "links": [],
+    "image": {
+      "src": "assets/edition-01/gucci-the-north-face.webp",
+      "alt": "Two models wear patterned outdoor clothing in a woodland campaign scene",
+      "credit": "The North Face × Gucci, first campaign · Gucci Stories",
+      "source": "https://www.gucci.com/es/es/st/stories/article/the-north-face-gucci-campaign",
+      "width": 800,
+      "height": 406
+    }
   }
 ]

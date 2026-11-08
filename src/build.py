@@ -402,7 +402,7 @@ EDITIONS = [
         'mechanism_label': 'Exchange',
         'screening': (
             ('red-bull-gopro', 'GoPro tells the Stratos story from the cameras on Felix Baumgartner’s suit.', 'space'),
-            ('lego-star-wars', 'LEGO looks back on 25 years of the licence it nearly turned down.', 'bricks'),
+            ('lego-star-wars', 'LEGO’s 25th anniversary short shows what the licence made possible.', 'bricks'),
             ('bmw-films-the-hire', 'Wong Kar-wai’s film for the series, with Clive Owen as the Driver.', 'road'),
             ('taco-bell-doritos-locos', 'Taco Bell’s own telling of how two brands became one shell.', 'shell'),
         ),
