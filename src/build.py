@@ -286,6 +286,11 @@ def render_cards(campaigns, notes, test_heading, prefix='', source_label='The pa
         thumbnail = campaign_image(c, 'case-thumbnail', prefix) or proof_tile(c)
         brought = ''.join(f'<li><strong>{e(name)}</strong> {e(what)}</li>' for name, what in c['brought'])
         extra = ''.join(f'<li><a href="{e(url)}">{e(label)}</a></li>' for label, url in c['links'])
+        how_to_measure = c.get('how_to_measure')
+        measurement_note = (
+            f'\n<h3>How I’d measure a similar deal</h3><p>{e(how_to_measure)}</p>'
+            if how_to_measure else ''
+        )
         cards.append(f'''<details id="{e(c['id'])}" class="case" data-mechanism="{e(c['mechanism'])}" data-evidence="{e(c['evidence_level'])}" data-era="{e(era(c['year']))}" data-role="{e(c['data_role'])}">
 <summary>
 <span class="case-number small">{i:02d}</span>
@@ -321,7 +326,7 @@ def render_cards(campaigns, notes, test_heading, prefix='', source_label='The pa
 <div class="full-inner">
 <div>
 <h3>What the evidence shows</h3><p>{e(c['evidence'])}</p>
-<h3>What to take into a deal</h3><p>{e(c['lesson'])}</p>
+<h3>What to take into a deal</h3><p>{e(c['lesson'])}</p>{measurement_note}
 </div>
 <div>
 <h3>Sources</h3>
