@@ -170,6 +170,35 @@ def torn_art():
 </svg>'''
 
 
+def screen_art():
+    # Editorial illustration: a phone mid-livestream, with a brand pinned in the chat and hearts rising.
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    hearts = ''.join(f'<path transform="translate({x} {y}) scale({s})" d="M0 6C0 2 3 0 6 0s6 3 6 6c0 6-12 12-12 12S-12 12-12 6c0-3 3-6 6-6s6 2 6 6z" fill="{c}" opacity="{o}"/>' for x, y, s, c, o in [(640, 380, 1.4, '#C97B60', 1), (668, 320, 1.1, '#DBE9E1', .85), (630, 262, .9, '#C97B60', .7), (676, 210, .8, '#DBE9E1', .55), (644, 160, .6, '#C97B60', .4)])
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a phone showing a live stream. A live badge sits at the top, a brand message is pinned in the chat, and hearts float up the side of the screen.</title>
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<g opacity=".16" fill="#DBE9E1">{''.join(f'<circle cx="{x}" cy="{y}" r="2"/>' for x in range(40, 920, 40) for y in range(40, 560, 40))}</g>
+<g transform="rotate(-6 460 280)" filter="url(#sh)">
+<rect x="330" y="36" width="260" height="488" rx="34" fill="#0d1615"/>
+<rect x="344" y="52" width="232" height="456" rx="22" fill="#075950"/>
+<rect x="420" y="62" width="80" height="14" rx="7" fill="#0d1615"/>
+<rect x="362" y="96" width="62" height="26" rx="4" fill="#C97B60"/>
+<text x="393" y="114" text-anchor="middle" font-family="{sans}" font-size="13" font-weight="700" letter-spacing="2" fill="#F7F3EA">LIVE</text>
+<text x="436" y="114" font-family="{sans}" font-size="13" fill="#DBE9E1">2.4m watching</text>
+<text x="368" y="210" font-family="{sans}" font-size="13" letter-spacing="3" fill="#DBE9E1">EDITION 06</text>
+<text x="368" y="262" font-family="{serif}" font-size="46" fill="#F7F3EA">Platform</text>
+<text x="368" y="312" font-family="{serif}" font-size="46" font-style="italic" fill="#F7F3EA">first.</text>
+<rect x="362" y="400" width="196" height="54" rx="10" fill="#F7F3EA"/>
+<text x="376" y="422" font-family="{sans}" font-size="11" font-weight="700" letter-spacing="1.5" fill="#075950">PINNED · PARTNER</text>
+<text x="376" y="442" font-family="{sans}" font-size="13" fill="#172C2A">Use my code at checkout</text>
+<rect x="362" y="466" width="196" height="26" rx="13" fill="none" stroke="#DBE9E1" stroke-width="1.5"/>
+<text x="378" y="484" font-family="{sans}" font-size="12" fill="#DBE9E1">Say something…</text>
+</g>
+{hearts}
+</svg>'''
+
 def era(year):
     if year < 1990:
         return ERAS[0]
@@ -607,6 +636,22 @@ EDITIONS = [
             ('pepsi-madonna', 'The advert Pepsi pulled in 1989, from Pepsi’s own channel. It finally ran again in 2023.', 'candle'),
             ('apple-u2-songs-of-innocence', 'Apple’s 2014 launch event, from Apple’s channel. U2 appear near the end, just before the album landed in every library.', 'stage'),
             ('lego-shell', 'Not a partner’s film, but the one that ended a partnership, from Greenpeace’s channel.', 'brick'),
+        ),
+    },
+    {
+        'number': '06', 'name': 'Platform first', 'data': 'campaigns-06.json', 'template': 'page-template-06.html',
+        'output': 'edition-06/index.html', 'asset_prefix': '../', 'art': screen_art, 'test_heading': 'How the outcome was recorded',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Sales trend': 'Sales, downloads or revenue moved, but other causes are not separated out.',
+            'Reach only': 'Views or streams show attention, not what it did for the brand.',
+            'Archival': 'The record shows the partnership happened, not what it earned.',
+        },
+        'screening': (
+            ('nike-casey-neistat', 'The film Neistat made instead of the advert, from his own channel. Count how often the product appears.', 'globe'),
+            ('fortnite-avengers', 'Epic’s trailer for the Thanos mode, from Fortnite’s channel. The film is advertised by being played.', 'gauntlet'),
+            ('lil-nas-x-roblox', 'The whole concert, from Lil Nas X’s channel. Notice the audience is never shown, because it was inside the game.', 'concert'),
+            ('ocean-spray-nathan-apodaca', 'Ocean Spray’s thank you, from its own channel. The brand arrives after the culture, not before.', 'truck'),
         ),
     },
 ]
