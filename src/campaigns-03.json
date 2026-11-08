@@ -34,9 +34,11 @@
     "take": "The deal every athlete negotiation is compared to. The price was ordinary. The structure, a brand around one person, was not.",
     "credit": "Nike and Michael Jordan, 1984",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘A People’s History of the Air Jordan 1’ on Jordan’s channel",
-      "url": "https://www.youtube.com/watch?v=XOlf3QGxbJo"
+      "medium": "Official retrospective",
+      "label": "Watch A People’s History of the Air Jordan 1 on Jordan Brand’s channel",
+      "url": "https://www.youtube.com/watch?v=XOlf3QGxbJo",
+      "heading": "Partnership media",
+      "screening_title": "A People’s History of the Air Jordan 1"
     },
     "announcement": [
       "Read the deal’s history · Fox Business",
@@ -52,7 +54,15 @@
         "https://www.guinnessworldrecords.com/world-records/776613-largest-sneaker-endorsement"
       ]
     ],
-    "deal_value": "Never disclosed. Guinness World Records lists it at $2.5m"
+    "deal_value": "Never disclosed. Guinness World Records lists it at $2.5m",
+    "image": {
+      "src": "assets/edition-03/nike-michael-jordan.webp",
+      "alt": "A red and black pair of Nike Air Jordan I high tops",
+      "width": 840,
+      "height": 562,
+      "source": "https://avpreservation.si.edu/object/nmaahc_2014.221.1ab",
+      "credit": "Nike Air Jordan I high tops · Smithsonian National Museum of African American History and Culture, CC0"
+    }
   },
   {
     "id": "disney-pixar",
@@ -89,9 +99,10 @@
     "take": "The most expensive way to end a partnership is to buy your partner. Disney decided it was cheaper than losing them.",
     "credit": "Disney and Pixar",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original theatrical trailer",
+      "label": "Watch the 1995 Toy Story trailer from Disney’s archive",
+      "url": "https://video.disney.com/watch/toy-story-trailer-1995-disney-throwback-oh-my-disney-5206000518c56de8c92ef8b3",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · AllEars",
@@ -102,7 +113,15 @@
       "https://www.mactech.com/2006/01/24/disney-buys-pixar-formal-announcement/amp/"
     ],
     "links": [],
-    "deal_value": "1991 terms not disclosed. 2006 acquisition worth about $7.4bn in Disney shares"
+    "deal_value": "1991 terms not disclosed. 2006 acquisition worth about $7.4bn in Disney shares",
+    "image": {
+      "src": "assets/edition-03/disney-pixar.webp",
+      "alt": "Woody and Buzz Lightyear ride on a toy car in the original Toy Story trailer",
+      "width": 720,
+      "height": 540,
+      "source": "https://video.disney.com/watch/toy-story-trailer-1995-disney-throwback-oh-my-disney-5206000518c56de8c92ef8b3",
+      "credit": "Toy Story (1995) · trailer still from Disney Video"
+    }
   },
   {
     "id": "emirates-arsenal",
@@ -139,9 +158,11 @@
     "take": "The renewals tell you more than the original price. Twenty years on, both sides keep choosing each other.",
     "credit": "Emirates and Arsenal, 2004",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Woven together’ on Arsenal’s channel",
-      "url": "https://www.youtube.com/watch?v=yLjMcyEw8AM"
+      "medium": "Renewal announcement film",
+      "label": "Watch Woven Together, Arsenal’s film announcing the 2023 renewal",
+      "url": "https://www.youtube.com/watch?v=yLjMcyEw8AM",
+      "heading": "Partnership media",
+      "screening_title": "Woven Together"
     },
     "announcement": [
       "Read the announcement · SportCal",
@@ -152,7 +173,15 @@
       "https://stadiumdb.com/news/2012/11/london_arsenal_extended_emirates_deal"
     ],
     "links": [],
-    "deal_value": "About £100m in 2004, then £150m in a 2012 renewal"
+    "deal_value": "About £100m in 2004, then £150m in a 2012 renewal",
+    "image": {
+      "src": "assets/edition-03/emirates-arsenal.webp",
+      "alt": "Arsenal players in red Emirates-branded shirts celebrate on the pitch",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=yLjMcyEw8AM",
+      "credit": "Woven Together · still from Arsenal’s sponsorship renewal film"
+    }
   },
   {
     "id": "visa-fifa",
@@ -189,9 +218,10 @@
     "take": "The most reliable price in this edition came out because of a lawsuit and a share listing, not because anyone chose to share it.",
     "credit": "Visa and FIFA, 2007",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "World Cup campaign advert",
+      "label": "Watch The Flop, a Visa advert for the 2010 FIFA World Cup",
+      "url": "https://vimeo.com/26409892",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read Visa’s filing · SEC",
@@ -202,7 +232,15 @@
       "https://app.sponsorpitch.com/posts/world-cup-why-visa-has-the-rights-but-mastercard-got-paid"
     ],
     "links": [],
-    "deal_value": "$180m over eight years, disclosed in Visa’s SEC filings. Mastercard’s settlement was reported at about $90m"
+    "deal_value": "$180m over eight years, disclosed in Visa’s SEC filings. Mastercard’s settlement was reported at about $90m",
+    "image": {
+      "src": "assets/edition-03/visa-fifa.webp",
+      "alt": "A football player falls on the grass in Visa’s The Flop advert",
+      "width": 787,
+      "height": 590,
+      "source": "https://vimeo.com/26409892",
+      "credit": "The Flop · 2010 World Cup advert still from director Chris Kaliszewski’s archive"
+    }
   },
   {
     "id": "manchester-united-chevrolet",
@@ -239,9 +277,10 @@
     "take": "United needed the number for investors. Chevrolet bought the most visible shirt in football. Only one of them published what they got.",
     "credit": "Manchester United and General Motors, 2012",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original shirt launch film",
+      "label": "Watch the 2014 film revealing Chevrolet’s first Manchester United shirt",
+      "url": "https://vimeo.com/100499540",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read United’s filing · SEC",
@@ -252,7 +291,15 @@
       "https://www.bloomberg.com/news/articles/2012-09-20/manchester-united-may-squeeze-nike-after-record-gm-jersey-deal"
     ],
     "links": [],
-    "deal_value": "About $559m through 2020/21, disclosed in Manchester United’s SEC filing"
+    "deal_value": "About $559m through 2020/21, disclosed in Manchester United’s SEC filing",
+    "image": {
+      "src": "assets/edition-03/manchester-united-chevrolet.webp",
+      "alt": "Supporters walk together in red shirts in Chevrolet’s Manchester United launch film",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/100499540",
+      "credit": "Chevrolet Shirt Reveal (2014) · campaign film still via Craig Mungons"
+    }
   },
   {
     "id": "under-armour-curry",
@@ -289,9 +336,10 @@
     "take": "Under Armour bought the future at today’s price. Few brands are brave enough to do that.",
     "credit": "Under Armour and Stephen Curry, 2013",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original shoe launch advert",
+      "label": "Watch Underdog, Under Armour’s advert for Stephen Curry’s first signature shoe",
+      "url": "https://www.youtube.com/watch?v=TrATx_DIwSQ",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the signing · Business Insider",
@@ -302,7 +350,15 @@
       "https://www.fortune.com/2016/03/23/nike-stephen-curry-under-armour"
     ],
     "links": [],
-    "deal_value": "Reported at close to $4m a year in 2013. Later extensions were not disclosed"
+    "deal_value": "Reported at close to $4m a year in 2013. Later extensions were not disclosed",
+    "image": {
+      "src": "assets/edition-03/under-armour-curry.webp",
+      "alt": "Stephen Curry on a basketball court in the Curry One launch campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=TrATx_DIwSQ",
+      "credit": "Curry One: Underdog (2015) · Under Armour campaign still"
+    }
   },
   {
     "id": "nike-ronaldo",
@@ -339,9 +395,10 @@
     "take": "Like Heineken’s Bond deal in Edition 01, the famous number is a guess. It’s still the number everyone remembers.",
     "credit": "Nike and Cristiano Ronaldo, 2016",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Campaign advert from 2016",
+      "label": "Watch Nike’s The Switch, starring Cristiano Ronaldo ahead of Euro 2016",
+      "url": "https://www.youtube.com/watch?v=vemDTAxkvhI",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · MediaPost",
@@ -352,7 +409,15 @@
       "https://nbcsports.com/soccer/news/ronaldo-signs-reported-1-billion-lifetime-deal-with-nike"
     ],
     "links": [],
-    "deal_value": "Reported at $1bn, never confirmed"
+    "deal_value": "Reported at $1bn, never confirmed",
+    "image": {
+      "src": "assets/edition-03/nike-ronaldo.webp",
+      "alt": "Footballers sprint across the pitch in Nike’s The Switch campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=vemDTAxkvhI",
+      "credit": "The Switch (2016) · Nike campaign still from an archive upload"
+    }
   },
   {
     "id": "fenty-beauty-lvmh",
@@ -389,9 +454,10 @@
     "take": "A celebrity brand that started from a real gap in the market. The partnership worked because the product would have been worth buying without the name.",
     "credit": "Fenty Beauty and Kendo, LVMH, 2017",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Original launch film",
+      "label": "Watch the 2017 Fenty Beauty launch film from creative agency GB65",
+      "url": "https://vimeo.com/292816448",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the history · Wikipedia",
@@ -402,7 +468,15 @@
       "https://blackenterprise.com/rihanna-entrepreneur-fenty-beauty/"
     ],
     "links": [],
-    "deal_value": "Reported at $10m for the 2016 agreement, unconfirmed"
+    "deal_value": "Reported at $10m for the 2016 agreement, unconfirmed",
+    "image": {
+      "src": "assets/edition-03/fenty-beauty-lvmh.webp",
+      "alt": "Rihanna in the Fenty Beauty launch film with the brand name across the frame",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/292816448",
+      "credit": "Fenty Beauty launch (2017) · campaign still from GB65’s archive"
+    }
   },
   {
     "id": "nestle-starbucks",
@@ -439,9 +513,10 @@
     "take": "Starbucks sold the right to be in your kitchen and kept control of what’s in the cup. A clean split of what each side does best.",
     "credit": "Nestlé and Starbucks, 2018",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Starbucks at Home campaign",
+      "label": "Watch the Starbucks at Home campaign film in director Daphne van de Berg’s archive",
+      "url": "https://vimeo.com/392294136",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · PR Newswire",
@@ -452,7 +527,15 @@
       "https://www.foxbusiness.com/lifestyle/nestle-starbucks-coffee-alliance-growth"
     ],
     "links": [],
-    "deal_value": "$7.15bn paid up front for a perpetual licence"
+    "deal_value": "$7.15bn paid up front for a perpetual licence",
+    "image": {
+      "src": "assets/edition-03/nestle-starbucks.webp",
+      "alt": "People prepare coffee together at a kitchen counter in a Starbucks at Home advert",
+      "width": 840,
+      "height": 473,
+      "source": "https://vimeo.com/392294136",
+      "credit": "Starbucks at Home · campaign still from director Daphne van de Berg’s archive"
+    }
   },
   {
     "id": "microsoft-openai",
@@ -489,9 +572,10 @@
     "take": "The partnership that set off the AI race. The money is famous, the return is still being argued over, and the terms keep moving.",
     "credit": "Microsoft and OpenAI, 2019",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Partner presentation from 2023",
+      "label": "Watch Microsoft discuss the OpenAI partnership at Inspire 2023",
+      "url": "https://www.youtube.com/watch?v=aEujdoqAgWY",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the 2023 investment · HPCwire",
@@ -502,7 +586,15 @@
       "https://uk.finance.yahoo.com/news/microsoft-invests-10-billion-chatgpt-155459385.html"
     ],
     "links": [],
-    "deal_value": "$1bn in 2019. The 2023 investment was reported at $10bn, not disclosed"
+    "deal_value": "$1bn in 2019. The 2023 investment was reported at $10bn, not disclosed",
+    "image": {
+      "src": "assets/edition-03/microsoft-openai.webp",
+      "alt": "A conference audience watches Microsoft’s presentation about OpenAI",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=aEujdoqAgWY",
+      "credit": "Microsoft Inspire 2023 · still from Microsoft’s conference video"
+    }
   },
   {
     "id": "spotify-joe-rogan",
@@ -539,9 +631,10 @@
     "take": "Spotify paid to lock the door, then opened it again. The second deal tells you what the first one taught them.",
     "credit": "Spotify and Joe Rogan, 2020",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Video reporting from 2020",
+      "label": "Watch The Verge explain Spotify’s 2020 exclusive deal with Joe Rogan",
+      "url": "https://www.youtube.com/watch?v=VYwg3xTBH_c",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read about the 2024 deal · CNBC",
@@ -552,7 +645,15 @@
       "https://www.startribune.com/joe-rogan-signs-a-new-250-million-deal-ending-spotifys-exclusive-big-name-podcasting-era/600340693/"
     ],
     "links": [],
-    "deal_value": "Reported at over $100m in 2020, and up to $250m for the 2024 non-exclusive deal. Spotify did not confirm either"
+    "deal_value": "Reported at over $100m in 2020, and up to $250m for the 2024 non-exclusive deal. Spotify did not confirm either",
+    "image": {
+      "src": "assets/edition-03/spotify-joe-rogan.webp",
+      "alt": "Joe Rogan wearing headphones and speaking into a podcast microphone",
+      "width": 840,
+      "height": 321,
+      "source": "https://newsroom.spotify.com/2020-05-19/the-joe-rogan-experience-launches-exclusive-partnership-with-spotify/",
+      "credit": "Joe Rogan at the microphone · Spotify’s 2020 partnership announcement"
+    }
   },
   {
     "id": "spotify-barcelona",
@@ -589,9 +690,10 @@
     "take": "Spotify bought a name that had never been for sale. That scarcity was the real asset.",
     "credit": "Spotify and FC Barcelona, 2022",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Official partnership launch film",
+      "label": "Watch FC Barcelona unveil the new Spotify Camp Nou branding in July 2022",
+      "url": "https://barcaacademy.fcbarcelona.com/en/videos/2664220/fc-barcelona-and-spotify-begin-strategic-partnership-unting-music-and-sport",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the announcement · ESPN",
@@ -602,7 +704,15 @@
       "https://www.thelocal.es/20220208/barca-reaches-e280-million-spotify-deal-which-includes-stadium-name-change"
     ],
     "links": [],
-    "deal_value": "Reported at €280m, never disclosed"
+    "deal_value": "Reported at €280m, never disclosed",
+    "image": {
+      "src": "assets/edition-03/spotify-barcelona.webp",
+      "alt": "A Spotify Camp Nou mural with Barcelona players covers the stadium façade",
+      "width": 840,
+      "height": 560,
+      "source": "https://barcaacademy.fcbarcelona.com/en/videos/2664220/fc-barcelona-and-spotify-begin-strategic-partnership-unting-music-and-sport",
+      "credit": "Spotify Camp Nou mural (2022) · FC Barcelona launch photography"
+    }
   },
   {
     "id": "oracle-red-bull-racing",
@@ -639,9 +749,11 @@
     "take": "Oracle bought a seat next to the fastest car on the grid. Being a business brand, its real audience was the boardroom, not the grandstand.",
     "credit": "Oracle and Red Bull Racing, 2022",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Introducing the RB18’ on Oracle’s channel",
-      "url": "https://www.youtube.com/watch?v=Yqv0WW_snkI"
+      "medium": "Original car launch film",
+      "label": "Watch Oracle introduce the RB18 at the 2022 Red Bull Racing car launch",
+      "url": "https://www.youtube.com/watch?v=Yqv0WW_snkI",
+      "heading": "Partnership media",
+      "screening_title": "Introducing the RB18"
     },
     "announcement": [
       "Read the announcement · Racer",
@@ -652,7 +764,15 @@
       "https://www.planetf1.com/news/red-bull-oracle-title-sponsorship"
     ],
     "links": [],
-    "deal_value": "Reported at about $100m a year for five years, from an anonymous source"
+    "deal_value": "Reported at about $100m a year for five years, from an anonymous source",
+    "image": {
+      "src": "assets/edition-03/oracle-red-bull-racing.webp",
+      "alt": "The black Oracle Red Bull Racing RB18 with yellow and red accents",
+      "width": 584,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=Yqv0WW_snkI",
+      "credit": "Introducing the RB18 (2022) · Oracle car launch film still"
+    }
   },
   {
     "id": "amazon-nfl",
@@ -689,9 +809,11 @@
     "take": "Amazon didn’t buy football to sell football. It bought it to sell Prime, and judged it the same way.",
     "credit": "Amazon and the NFL, 2022",
     "creative": {
-      "medium": "Official film",
-      "label": "Watch ‘Football is Open’ on Prime Video’s channel",
-      "url": "https://www.youtube.com/watch?v=rnDTxvMoCus"
+      "medium": "Original broadcast campaign film",
+      "label": "Watch Football Is Open, Prime Video’s Thursday Night Football launch campaign",
+      "url": "https://www.youtube.com/watch?v=rnDTxvMoCus",
+      "heading": "Partnership media",
+      "screening_title": "Football Is Open"
     },
     "announcement": [
       "Read the sign-ups report · CNBC",
@@ -702,7 +824,15 @@
       "https://www.cnbc.com/2022/09/22/amazon-averaged-13-million-viewers-for-thursday-night-football-nielsen-data-shows.html"
     ],
     "links": [],
-    "deal_value": "Reported at about $1bn a year over 11 years"
+    "deal_value": "Reported at about $1bn a year over 11 years",
+    "image": {
+      "src": "assets/edition-03/amazon-nfl.webp",
+      "alt": "A Pittsburgh Steelers fan cheers in Prime Video’s Thursday Night Football campaign",
+      "width": 840,
+      "height": 473,
+      "source": "https://www.youtube.com/watch?v=rnDTxvMoCus",
+      "credit": "Football Is Open (2022) · Prime Video campaign still"
+    }
   },
   {
     "id": "google-apple",
@@ -739,9 +869,10 @@
     "take": "The biggest partnership payment in this archive is a default setting. It shows what distribution is worth, and what it can cost when regulators take notice.",
     "credit": "Google and Apple",
     "creative": {
-      "medium": "Original work",
-      "label": "No official copy found online",
-      "url": ""
+      "medium": "Video reporting from 2024",
+      "label": "Watch Reuters explain how the antitrust ruling put Apple’s search deal with Google in the spotlight",
+      "url": "https://www.youtube.com/watch?v=x3k5-QSS6no",
+      "heading": "Partnership media"
     },
     "announcement": [
       "Read the court documents report · Gulf News",
@@ -752,6 +883,14 @@
       "https://searchengineland.com/google-pay-apple-safari-revenue-antitrust-trial-434775"
     ],
     "links": [],
-    "deal_value": "$20bn in 2022, and 36% of Safari search revenue, revealed in court"
+    "deal_value": "$20bn in 2022, and 36% of Safari search revenue, revealed in court",
+    "image": {
+      "src": "assets/edition-03/google-apple.webp",
+      "alt": "A person using an iPhone in Reuters’ report about the Google and Apple search deal",
+      "width": 640,
+      "height": 360,
+      "source": "https://www.youtube.com/watch?v=x3k5-QSS6no",
+      "credit": "Reuters video report on the Google and Apple search deal (2024) · still"
+    }
   }
 ]
