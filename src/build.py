@@ -26,6 +26,35 @@ def exchange_art():
 <text x="460" y="52" text-anchor="middle" font-family="{sans}" font-size="14" letter-spacing="3" fill="#DBE9E1">EDITION 01 / FAME FIRST</text>
 </svg>'''
 
+
+def contract_art():
+    # Editorial illustration: a partnership agreement, signed by two parties and stamped with its measured return.
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    lines = ''.join(f'<rect x="280" y="{190 + i * 22}" width="{360 - (i % 4) * 40}" height="7" fill="#DBE9E1"/>' for i in range(8))
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a partnership agreement signed by two parties, with a large stamp across it reading 14.5 to 1, the measured return.</title>
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".4"/></filter></defs>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<g transform="translate(46 20) scale(.9)"><g transform="rotate(-2 460 280)" filter="url(#sh)">
+<rect x="240" y="50" width="440" height="470" fill="#F7F3EA"/>
+<text x="280" y="104" font-family="{sans}" font-size="13" letter-spacing="3" fill="#075950">EDITION 02 / PROOF FIRST</text>
+<text x="280" y="152" font-family="{serif}" font-size="34" fill="#172C2A">Partnership agreement</text>
+{lines}
+<line x1="280" y1="430" x2="440" y2="430" stroke="#172C2A" stroke-width="1.5"/>
+<line x1="480" y1="430" x2="640" y2="430" stroke="#172C2A" stroke-width="1.5"/>
+<path d="M290 420c18-26 30 10 46-6s22-22 34 2" fill="none" stroke="#075950" stroke-width="2.5"/>
+<path d="M492 422c12-20 28-6 40-14s20 4 36-10" fill="none" stroke="#C97B60" stroke-width="2.5"/>
+<text x="280" y="452" font-family="{sans}" font-size="12" letter-spacing="2" fill="#53584d">PARTNER A</text>
+<text x="480" y="452" font-family="{sans}" font-size="12" letter-spacing="2" fill="#53584d">PARTNER B</text>
+<g transform="rotate(-12 470 300)" opacity=".93">
+<rect x="330" y="240" width="280" height="118" rx="10" fill="none" stroke="#075950" stroke-width="7"/>
+<text x="470" y="312" text-anchor="middle" font-family="{serif}" font-size="56" font-weight="600" fill="#075950">14.5 : 1</text>
+<text x="470" y="342" text-anchor="middle" font-family="{sans}" font-size="13" font-weight="700" letter-spacing="3" fill="#075950">MEASURED RETURN</text>
+</g>
+</g></g>
+</svg>'''
+
 LEVELS = ['Modelled effect', 'Sales trend', 'Survey', 'Reach only', 'Archival']
 LEVEL_NOTES = {
     'Modelled effect': 'A model estimates the effect against a baseline.',
@@ -42,8 +71,10 @@ MECHANISMS = [
     ('Content for reach', 'One side makes something worth watching, and the other gets it seen.'),
     ('Platform for audience', 'A platform lends its users, and a partner brings a reason to show up.'),
     ('Money for association', 'One side pays to stand next to something people already love.'),
+    ('Purpose for preference', 'A brand gives a cause money or a stage, and the cause gives people a reason to choose the brand.'),
+    ('Network for network', 'Peers or rivals join up to offer customers something none could alone.'),
 ]
-ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement']
+ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement', 'Cause partnership', 'Alliance']
 # Every case is sorted by the type of partnership.
 ROLE_DEFAULTS = {'roles': ROLES, 'role_label': 'Type', 'role_aria': 'Type of partnership', 'source_label': 'The partners'}
 ERAS = ['1950s to 1980s', '1990s and 2000s', '2010s', '2020s']
@@ -405,6 +436,28 @@ EDITIONS = [
             ('lego-star-wars', 'LEGO looks back on 25 years of the licence it nearly turned down.', 'bricks'),
             ('bmw-films-the-hire', 'Wong Kar-wai’s film for the series, with Clive Owen as the Driver.', 'road'),
             ('taco-bell-doritos-locos', 'Taco Bell’s own telling of how two brands became one shell.', 'shell'),
+        ),
+    },
+    {
+        'number': '02',
+        'name': 'Proof first',
+        'data': 'campaigns-02.json',
+        'template': 'page-template-02.html',
+        'output': 'edition-02/index.html',
+        'asset_prefix': '../',
+        'art': contract_art,
+        'test_heading': 'How the outcome was measured',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Modelled effect': 'A model or a comparison with markets that didn’t take part estimates the effect against a baseline.',
+            'Sales trend': 'Sales, donations or outcomes moved, but other causes are not separated out.',
+            'Survey': 'Tracking or research showed people’s views or interest changed.',
+        },
+        'screening': (
+            ('heineken-champions-league', 'Heineken invites fans to watch with a legend. The strategy in one line: don’t watch alone.', 'sofa'),
+            ('mcdonalds-london-2012', 'Leo Burnett’s own record of the campaign. Notice who is on screen: the public, not the athletes.', 'torch'),
+            ('tourism-ireland-game-of-thrones', 'Tourism Ireland’s film of the tapestry it made because it couldn’t use the show’s footage freely.', 'tapestry'),
+            ('gillette-movember', 'A later Gillette UK film for Movember. The partnership outlived its first campaign.', 'mo'),
         ),
     },
 ]

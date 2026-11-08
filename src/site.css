@@ -181,3 +181,8 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 .film-frame.road{background:linear-gradient(90deg,transparent 0 48%,#F7F3EA 48% 52%,transparent 52%) 50% 100%/100% 50% no-repeat,linear-gradient(transparent 0 50%,#2b3a38 50%),linear-gradient(#DBE9E1,#7FB3A3)}
 .film-frame.shell{background:radial-gradient(ellipse at 50% 100%,#C97B60 0 42%,#9e5a43 42.5% 46%,transparent 46.5%),#F7F3EA}
 .feature a:not(.button),.method a{color:#DBE9E1}
+.proof-tile.r-cause-partnership{background:#F3DDE0}.proof-tile.r-alliance{background:#DCE3F2}
+.film-frame.sofa{background:linear-gradient(#075950,#075950) 50% 78%/70% 30% no-repeat,linear-gradient(#0a463f,#0a463f) 50% 58%/76% 22% no-repeat,radial-gradient(circle at 50% 25%,#DBE9E1 0 9%,transparent 9.5%),#172C2A}
+.film-frame.torch{background:radial-gradient(ellipse at 50% 30%,#ffcf5a 0 9%,#C97B60 9.5% 15%,transparent 15.5%),linear-gradient(90deg,transparent 0 46%,#DBE9E1 46% 54%,transparent 54%) 50% 100%/100% 62% no-repeat,#172C2A}
+.film-frame.tapestry{background:repeating-linear-gradient(90deg,#C97B60 0 18px,#b06a51 18px 22px),#C97B60}
+.film-frame.mo{background:radial-gradient(ellipse at 38% 55%,#172C2A 0 14%,transparent 14.5%),radial-gradient(ellipse at 62% 55%,#172C2A 0 14%,transparent 14.5%),#DBE9E1}
