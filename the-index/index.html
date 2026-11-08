@@ -225,6 +225,9 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 .film-frame.hat{background:radial-gradient(circle at 50% 30%,#C97B60 0 5%,transparent 5.5%),radial-gradient(ellipse 16% 22% at 50% 52%,#C97B60 0 98%,transparent),linear-gradient(#ffcf5a,#ffcf5a) 50% 82%/18% 30% no-repeat,#F7F3EA}
 .film-frame.deck{background:radial-gradient(circle at 30% 70%,#F7F3EA 0 4%,transparent 4.5%),radial-gradient(circle at 70% 70%,#F7F3EA 0 4%,transparent 4.5%),linear-gradient(#9d2b3a,#9d2b3a) 50% 56%/56% 12% no-repeat,#111}
 .film-frame.wave{background:radial-gradient(ellipse 60% 30% at 30% 100%,#2F7D6F 0 98%,transparent),radial-gradient(ellipse 60% 26% at 75% 100%,#075950 0 98%,transparent),radial-gradient(circle at 74% 30%,#ffcf5a 0 9%,transparent 9.5%),#DBE9E1}
+.foot-links{display:inline-flex;gap:1.2rem;align-items:center}
+.gap-suggest{margin-top:1.8rem;color:var(--light)}.gap-suggest a{color:var(--light);font-weight:bold}
+@media(max-width:560px){.foot-links{gap:.9rem}}
 .ix-stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--ink);border-bottom:1px solid var(--line);margin-top:clamp(2rem,4vw,3rem)}
 .ix-stats div{padding:1rem .8rem 1.1rem 0;border-right:1px solid var(--line)}.ix-stats div:last-child{border-right:0}
 .ix-stats b{display:block;font:normal clamp(2rem,4vw,3.2rem)/1 var(--serif);letter-spacing:-.03em}.ix-stats span{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
@@ -486,11 +489,12 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 <section class="method" id="gaps" aria-labelledby="gaps-title"><div class="wrap">
 <p class="small">06 / What’s missing</p><h2 id="gaps-title">What the series doesn’t cover yet</h2>
 <div class="gap-grid"><div><h3>Where the deals were made</h3><p>21 cases, 21%, started in the UK or Ireland, 34, 34%, in North America and 25 were global from the start. Europe has 9, Asia 8, Latin America 2 and Africa 1.</p></div><div><h3>When</h3><p>63 of the 100 cases, 63%, date from 2010 or later. Only seven come from before 1990, because older deals rarely left a public record of what each side gained.</p></div><div><h3>What the proof looks like</h3><p>10 of 100 cases have a modelled effect, and 8 of those are in Edition 02. 26 show a sales trend, 49 are archival only, and survey evidence is the rarest, with 3.</p></div><div><h3>Whose side the evidence is on</h3><p>Most outcome figures describe one partner, usually the bigger brand. Few cases show what both sides gained, and the smaller partner’s result is the hardest to find.</p></div></div>
+<p class="gap-suggest">Know a partnership that belongs here? <a href="https://github.com/mattbatcheldor/partnership-turning-points/issues/new?template=suggest-a-case.yml">Suggest a case</a>. It takes a couple of minutes and needs a free GitHub account.</p>
 </div></section>
 
 <section class="wrap next" id="next" aria-labelledby="next-title"><div><p class="small">07 / Start reading</p><h2 id="next-title">Pick an angle.</h2></div><div class="next-copy"><p>Every edition stands on its own, and they read best in order. Start with the famous collaborations, then see what can be proved, what the money bought and what went wrong.</p><p>The companion series, <a href="https://mattbatcheldor.github.io/brand-turning-points/the-index/">Brand Turning Points</a>, asks the same questions of 100 campaigns.</p><p><a href="../">Edition 01, Fame first</a>, <a href="../edition-02/">Edition 02, Proof first</a>, <a href="../edition-03/">Edition 03, Money first</a>, <a href="../edition-04/">Edition 04, Culture first</a>, <a href="../edition-05/">Edition 05, Failure first</a>, <a href="../edition-06/">Edition 06, Platform first</a>, <a href="../edition-07/">Edition 07, Edge first</a>.</p></div></section>
 </main>
-<footer class="wrap foot small"><span>Partnership Turning Points / The Index / Curated by Matthew Batcheldor</span><a href="#top">Back to top ↑</a><span class="foot-copy">© 2026 Matthew Batcheldor. Text and ratings by Matthew Batcheldor. Brand names, images and films belong to their owners and are credited in each case.</span></footer>
+<footer class="wrap foot small"><span>Partnership Turning Points / The Index / Curated by Matthew Batcheldor</span><span class="foot-links"><a href="https://github.com/mattbatcheldor/partnership-turning-points/issues/new?template=suggest-a-case.yml">Suggest a case</a><a href="#top">Back to top ↑</a></span><span class="foot-copy">© 2026 Matthew Batcheldor. Text and ratings by Matthew Batcheldor. Brand names, images and films belong to their owners and are credited in each case.</span></footer>
 <script>
 const buttons = Array.from(document.querySelectorAll('.filter'));
 const rows = Array.from(document.querySelectorAll('.ix-case'));

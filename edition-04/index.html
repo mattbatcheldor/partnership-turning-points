@@ -225,6 +225,9 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 .film-frame.hat{background:radial-gradient(circle at 50% 30%,#C97B60 0 5%,transparent 5.5%),radial-gradient(ellipse 16% 22% at 50% 52%,#C97B60 0 98%,transparent),linear-gradient(#ffcf5a,#ffcf5a) 50% 82%/18% 30% no-repeat,#F7F3EA}
 .film-frame.deck{background:radial-gradient(circle at 30% 70%,#F7F3EA 0 4%,transparent 4.5%),radial-gradient(circle at 70% 70%,#F7F3EA 0 4%,transparent 4.5%),linear-gradient(#9d2b3a,#9d2b3a) 50% 56%/56% 12% no-repeat,#111}
 .film-frame.wave{background:radial-gradient(ellipse 60% 30% at 30% 100%,#2F7D6F 0 98%,transparent),radial-gradient(ellipse 60% 26% at 75% 100%,#075950 0 98%,transparent),radial-gradient(circle at 74% 30%,#ffcf5a 0 9%,transparent 9.5%),#DBE9E1}
+.foot-links{display:inline-flex;gap:1.2rem;align-items:center}
+.gap-suggest{margin-top:1.8rem;color:var(--light)}.gap-suggest a{color:var(--light);font-weight:bold}
+@media(max-width:560px){.foot-links{gap:.9rem}}
 .case-data{display:block;margin-top:.5rem;color:var(--muted);font-size:.78rem}
 
 </style>
@@ -1052,7 +1055,7 @@ a{color:var(--teal)}.top nav a,.wordmark{color:var(--ink)}
 <div id="film-screen"></div>
 <p class="player-fallback"><a id="film-original">Open on YouTube</a></p>
 </dialog>
-<footer class="wrap foot small"><span>Partnership Turning Points / Edition 04 / Curated by Matthew Batcheldor</span><a href="#top">Back to top ↑</a><span class="foot-copy">© 2026 Matthew Batcheldor. Text and ratings by Matthew Batcheldor. Brand names, images and films belong to their owners and are credited in each case.</span></footer>
+<footer class="wrap foot small"><span>Partnership Turning Points / Edition 04 / Curated by Matthew Batcheldor</span><span class="foot-links"><a href="https://github.com/mattbatcheldor/partnership-turning-points/issues/new?template=suggest-a-case.yml">Suggest a case</a><a href="#top">Back to top ↑</a></span><span class="foot-copy">© 2026 Matthew Batcheldor. Text and ratings by Matthew Batcheldor. Brand names, images and films belong to their owners and are credited in each case.</span></footer>
 <script>
 const filters = document.querySelector('#filters');
 const search = document.querySelector('#search');
