@@ -1,0 +1,748 @@
+[
+  {
+    "id": "run-dmc-adidas",
+    "brand": "Adidas × Run-DMC",
+    "title": "My Adidas",
+    "year": 1986,
+    "place": "New York, then worldwide",
+    "sector": "Sportswear and hip-hop",
+    "mechanism": "Credibility for reach",
+    "data_role": "Endorsement",
+    "data_source": "Run-DMC’s song, Adidas’ shoes",
+    "stage": "Signed and launched",
+    "hook": "A rap group wrote a song about their trainers, and Adidas signed them.",
+    "situation": "Run-DMC wore Adidas Superstars without laces as part of their look, and released a single called ‘My Adidas’ in 1986. Sportswear brands signed athletes, not musicians.",
+    "exchange": "Adidas signed the group to an endorsement deal. Run-DMC gave Adidas a place in hip-hop culture that no advertising could have bought.",
+    "brought": [
+      [
+        "Adidas",
+        "Money, product and a global sportswear brand."
+      ],
+      [
+        "Run-DMC",
+        "A hit song, a look and credibility with a new generation."
+      ]
+    ],
+    "turning_point": "At a Madison Square Garden concert, an Adidas executive watched thousands of fans hold their trainers in the air as the group performed the song. The deal followed.",
+    "metric": "$1.6m",
+    "metric_label": "The deal, per Guinness World Records",
+    "measure": "The value Guinness gives for the first sneaker deal with people outside sport. Other sources say $1m",
+    "evidence": "The deal is recorded as the first sneaker endorsement for non-athletes, but its value and year vary between sources. No sales effect was published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "The best cultural partners are already using your product. Find the people who chose you before you paid them.",
+    "take": "Adidas didn’t create the moment. It saw it in a crowd at Madison Square Garden and had the sense to back it.",
+    "credit": "Adidas and Run-DMC, 1986",
+    "creative": {
+      "medium": "Official audio",
+      "label": "Listen to ‘My Adidas’ on Run-DMC’s channel",
+      "url": "https://www.youtube.com/watch?v=Qx0huz6TiLo",
+      "heading": "Media"
+    },
+    "announcement": [
+      "See the record · Guinness World Records",
+      "https://www.guinnessworldrecords.com/world-records/776615-first-non-sporting-sneaker-endorsement"
+    ],
+    "impact_source": [
+      "Read the story · Mr Porter",
+      "https://www.mrporter.com/journal/lifestyle/how-run-dmc-earned-their-adidas-stripes-826882"
+    ],
+    "links": [],
+    "deal_value": "$1.6m according to Guinness World Records, $1m in other accounts"
+  },
+  {
+    "id": "coca-cola-olympics",
+    "brand": "Coca-Cola × the Olympic Games",
+    "title": "Since 1928",
+    "year": 1928,
+    "place": "Amsterdam, then every Games",
+    "sector": "Soft drinks and sport",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Coca-Cola’s money, the Olympic Games",
+    "stage": "Signed and renewed for a century",
+    "hook": "The longest-running partnership in sport.",
+    "situation": "At the 1928 Amsterdam Games, Coca-Cola was there with the American team. The Olympics were growing into the world’s biggest sporting event.",
+    "exchange": "Coca-Cola has paid to be an official Olympic partner. The Games have had one of the world’s best-known brands at their side.",
+    "brought": [
+      [
+        "Coca-Cola",
+        "Sponsorship money and a global marketing machine."
+      ],
+      [
+        "The Olympic Games",
+        "The world’s most watched sporting event, every two years."
+      ]
+    ],
+    "turning_point": "In 2019 the partnership was extended to 2032, jointly with the Chinese dairy company Mengniu. The International Olympic Committee calls Coca-Cola its longest-standing partner.",
+    "metric": "104 years",
+    "metric_label": "From 1928 to the end of the current deal in 2032",
+    "measure": "The length of the partnership if it runs to the end of its current term. A fact, not a result",
+    "evidence": "The renewals are the evidence: Coca-Cola keeps choosing the Olympics. No public figure shows what each Games adds, and health groups have urged the IOC to end the deal.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A partnership that lasts a century becomes part of both brands. It also means you inherit each other’s criticism.",
+    "take": "Nearly a hundred years in, nobody asks what the Olympics does for Coca-Cola any more. That’s the most valuable thing a partnership can earn, and the most dangerous.",
+    "credit": "Coca-Cola and the IOC",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Coca-Cola Archives Celebrates 90 Years of Olympic Games’ on The Coca-Cola Co.’s channel",
+      "url": "https://www.youtube.com/watch?v=haHRgD16WYs"
+    },
+    "announcement": [
+      "Read about the IOC partnership · Olympics.com",
+      "https://olympics.com/ioc/news/-the-olympic-games-is-the-one-thing-that-talks-to-everyone-coca-cola-s-ricardo-fort-on-the-enduring-appeal-of-an-olympic-partnership"
+    ],
+    "impact_source": [
+      "Read about the 2032 extension · Business Standard",
+      "https://business-standard.com/article/pti-stories/coca-cola-extends-as-olympic-sponsor-in-china-deal-to-2032-119062400483_1.html"
+    ],
+    "links": [],
+    "deal_value": "The 2019 joint deal with Mengniu was reported at up to $3bn, unconfirmed"
+  },
+  {
+    "id": "pepsi-michael-jackson",
+    "brand": "Pepsi × Michael Jackson",
+    "title": "The Choice of a New Generation",
+    "year": 1984,
+    "place": "United States",
+    "sector": "Soft drinks and pop music",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Pepsi’s money, Jackson’s music",
+    "stage": "Signed, launched and reported",
+    "hook": "The biggest pop star in the world rewrote ‘Billie Jean’ for a soft drink.",
+    "situation": "Pepsi was fighting Coca-Cola for younger drinkers. Michael Jackson had just released Thriller, the best-selling album of the era.",
+    "exchange": "Pepsi paid Jackson and his brothers a record fee. Jackson reworked ‘Billie Jean’ into a Pepsi jingle for the ‘new generation’ campaign.",
+    "brought": [
+      [
+        "Pepsi",
+        "A record endorsement fee and a huge advertising budget."
+      ],
+      [
+        "Michael Jackson",
+        "The most famous voice in the world and a generation of fans."
+      ]
+    ],
+    "turning_point": "The campaign ran in 1984. During filming, Jackson’s hair caught fire, and the accident became part of the story.",
+    "metric": "$5m",
+    "metric_label": "The reported fee, then a record",
+    "measure": "The reported value of the 1984 deal. A second deal in the late 1980s was reported at $10m",
+    "evidence": "Pepsi’s sales reached $7.7bn in 1984 and its share rose while Coca-Cola’s fell, according to reports at the time. Those figures sit alongside the campaign, and no source separates its effect.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "When a partner is the culture of the moment, the deal can change the category, not just your share of it.",
+    "take": "The deal that set the price of celebrity in advertising for a generation. It made the endorsement fee a headline in itself.",
+    "credit": "Pepsi and Michael Jackson, 1984",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · IBTimes",
+      "https://ibtimes.com/michael-jackson-pepsi-made-marketing-history-289730"
+    ],
+    "impact_source": [
+      "Read about the campaign · Exchange4media",
+      "https://www.exchange4media.com/advertising-news/before-algorithms-there-was-michael-ads-that-made-the-king-of-pop-a-brand-unto-himself-154505.html"
+    ],
+    "links": [],
+    "deal_value": "Reported at about $5m, a record for a celebrity endorsement at the time"
+  },
+  {
+    "id": "absolut-warhol",
+    "brand": "Absolut × Andy Warhol",
+    "title": "Absolut Warhol",
+    "year": 1985,
+    "place": "New York, then worldwide",
+    "sector": "Spirits and art",
+    "mechanism": "Talent for scale",
+    "data_role": "Artist collaboration",
+    "data_source": "Warhol’s painting, Absolut’s bottle",
+    "stage": "Commissioned and renewed",
+    "hook": "A vodka bottle became a work of art, and then an art collection.",
+    "situation": "Absolut was building a brand in America around its distinctive bottle. Andy Warhol was the most famous artist in the world.",
+    "exchange": "Absolut commissioned Warhol to paint its bottle. Warhol made two paintings, and one became an advert.",
+    "brought": [
+      [
+        "Absolut",
+        "A commission and a bottle shape worth painting."
+      ],
+      [
+        "Andy Warhol",
+        "The name that made art and advertising the same thing."
+      ]
+    ],
+    "turning_point": "The 1985 painting started a tradition: between 1985 and 2004 Absolut commissioned 850 works from 550 artists for its advertising.",
+    "metric": "850",
+    "metric_label": "Works by 550 artists, 1985 to 2004",
+    "measure": "The size of the Absolut Art Collection that grew from Warhol’s commission. A fact, not a result",
+    "evidence": "The collection and its use in advertising are well documented. The second Warhol painting resurfaced in 2020 and became a limited-edition bottle, which Absolut’s owner says drove growth, without giving numbers.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "One great collaboration can become a platform. Ask whether the first partner can open the door to many more.",
+    "take": "Warhol painted a bottle, and Absolut spent twenty years turning that into its whole identity. The partnership outlived the man.",
+    "credit": "Absolut and Andy Warhol, 1985",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Absolut Warhol: From 1985 to Today’ on Absolut’s channel",
+      "url": "https://www.youtube.com/watch?v=JpgrohtyIgA"
+    },
+    "announcement": [
+      "Read about the partnership · Campaign",
+      "https://campaignlive.com/article/absolut-expands-andy-warhol-partnership-forty-years/1879350"
+    ],
+    "impact_source": [
+      "See the painting · National Galleries of Scotland",
+      "https://www.nationalgalleries.org/art-and-artists/93233"
+    ],
+    "links": []
+  },
+  {
+    "id": "swatch-keith-haring",
+    "brand": "Swatch × Keith Haring",
+    "title": "Art You Could Wear",
+    "year": 1986,
+    "place": "New York, then worldwide",
+    "sector": "Watches and art",
+    "mechanism": "Talent for scale",
+    "data_role": "Artist collaboration",
+    "data_source": "Haring’s figures, Swatch’s plastic watch",
+    "stage": "Launched",
+    "hook": "A street artist put his figures on a cheap plastic watch.",
+    "situation": "Swatch had been launched in 1983 as an affordable, fashionable Swiss watch. Keith Haring wanted art to reach everyone, and opened a shop to sell it cheaply.",
+    "exchange": "Haring designed watches for Swatch. Swatch put his art on people’s wrists at an affordable price.",
+    "brought": [
+      [
+        "Swatch",
+        "An affordable watch made in huge numbers."
+      ],
+      [
+        "Keith Haring",
+        "Instantly recognisable art and credibility in New York culture."
+      ]
+    ],
+    "turning_point": "Swatch dates Haring’s watches to 1986, a year after its first artist watch by Kiki Picasso. Artist editions became a Swatch tradition.",
+    "metric": "1986",
+    "metric_label": "The year of Haring’s Swatch designs",
+    "measure": "The year Swatch gives for Haring’s watches. Some collectors date the first to 1985",
+    "evidence": "The watches are now collectors’ items, and Swatch has worked with many artists since. No sales figure was published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Partner with an artist whose values match your product. Haring wanted art for everyone, and Swatch was a watch for everyone.",
+    "take": "The most natural fit in this edition. Neither side had to pretend. Haring sold cheap art, and Swatch made the cheap watch desirable.",
+    "credit": "Swatch and Keith Haring",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read Swatch’s art history · Swatch",
+      "https://www.swatch.com/en-gb/watches/art-watches/swatch-art-history.html"
+    ],
+    "impact_source": [
+      "See a Haring watch at auction · Christie’s",
+      "https://www.christies.com.cn/lot/lot-558964"
+    ],
+    "links": []
+  },
+  {
+    "id": "gatorade-michael-jordan",
+    "brand": "Gatorade × Michael Jordan",
+    "title": "Be Like Mike",
+    "year": 1991,
+    "place": "United States",
+    "sector": "Sports drinks and basketball",
+    "mechanism": "Money for association",
+    "data_role": "Endorsement",
+    "data_source": "Gatorade’s money, Jordan’s fame",
+    "stage": "Signed and launched",
+    "hook": "An advert so catchy that its song outlived the campaign.",
+    "situation": "Gatorade already dominated sports drinks. Michael Jordan had just won his first championship.",
+    "exchange": "Gatorade signed Jordan as its only endorser. The ‘Be Like Mike’ advert showed children dreaming of playing like him.",
+    "brought": [
+      [
+        "Gatorade",
+        "A ten-year contract and national advertising."
+      ],
+      [
+        "Michael Jordan",
+        "The most admired athlete in America."
+      ]
+    ],
+    "turning_point": "The advert aired on 8 August 1991, the same day Gatorade announced the deal. Its song became a hit in its own right.",
+    "metric": "$13.5m",
+    "metric_label": "Reported value over ten years",
+    "measure": "The reported value of the ten-year deal. A deal term, not a result",
+    "evidence": "The advert is one of the most remembered in sport. Gatorade already led its category, and a widely quoted sales jump came before the advert aired. Some accounts say it didn’t drastically change sales.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When you already lead the market, a cultural partner may defend your position rather than grow it. Measure accordingly.",
+    "take": "The song is famous, the sales effect is not. It’s a reminder that the most loved adverts aren’t always the ones that moved the numbers.",
+    "credit": "Gatorade and Michael Jordan, 1991",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · Wikipedia",
+      "https://en.wikipedia.org/wiki/Be_Like_Mike"
+    ],
+    "impact_source": [
+      "Read the 25th anniversary story · ESPN",
+      "https://africa.espn.com/nba/story/_/id/17246999/michael-jordan-famous-mike-gatorade-commercial-debuted-25-years-ago-monday"
+    ],
+    "links": [],
+    "deal_value": "Reported at $13.5m over ten years"
+  },
+  {
+    "id": "ben-jerrys-phish",
+    "brand": "Ben & Jerry’s × Phish",
+    "title": "Phish Food",
+    "year": 1997,
+    "place": "Vermont, then worldwide",
+    "sector": "Ice cream and music",
+    "mechanism": "Credibility for reach",
+    "data_role": "Co-branded product",
+    "data_source": "A Vermont band, a Vermont ice cream",
+    "stage": "Launched",
+    "hook": "Two Vermont institutions made an ice cream together.",
+    "situation": "Phish was a Vermont band with a devoted touring following. Ben & Jerry’s was a Vermont ice cream company already known for flavours with personality.",
+    "exchange": "Phish lent its name to a flavour and directed its royalties to charitable causes. Ben & Jerry’s made and sold the ice cream.",
+    "brought": [
+      [
+        "Ben & Jerry’s",
+        "Ice cream, freezers in shops and a playful brand."
+      ],
+      [
+        "Phish",
+        "A loyal fan base and local credibility."
+      ]
+    ],
+    "turning_point": "Phish Food launched in 1997 with a concert at the Flynn Theatre in Burlington, and is still on sale.",
+    "metric": "1997",
+    "metric_label": "Launched, and still sold today",
+    "measure": "The year of launch. A flavour still on sale decades later is a fact, not a sales figure",
+    "evidence": "The flavour’s long life suggests it sells, but Ben & Jerry’s doesn’t publish sales by flavour, and claims that it is the best-seller conflict.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Local partnerships can travel. Shared roots make the story believable a long way from home.",
+    "take": "The partnership works because it feels like neighbours, not a deal. That is hard to fake.",
+    "credit": "Ben & Jerry’s and Phish, 1997",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the origin story · Tasting Table",
+      "https://www.tastingtable.com/1064189/why-ben-jerrys-phish-food-flavor-was-almost-never-created"
+    ],
+    "impact_source": [
+      "Read about pop culture flavours · Mental Floss",
+      "https://www.mentalfloss.com/article/53390/11-ben-jerry%E2%80%99s-flavors-inspired-pop-culture"
+    ],
+    "links": []
+  },
+  {
+    "id": "louis-vuitton-murakami",
+    "brand": "Louis Vuitton × Takashi Murakami",
+    "title": "Monogram Multicolore",
+    "year": 2003,
+    "place": "Paris, then worldwide",
+    "sector": "Luxury fashion and art",
+    "mechanism": "Talent for scale",
+    "data_role": "Artist collaboration",
+    "data_source": "Murakami’s colour, Vuitton’s monogram",
+    "stage": "Launched and reported",
+    "hook": "An artist repainted the most famous monogram in fashion in 33 colours.",
+    "situation": "Louis Vuitton’s brown monogram was iconic but serious. Its creative director, Marc Jacobs, wanted it to feel young and playful.",
+    "exchange": "Takashi Murakami redrew the LV monogram in 33 colours on white and black canvas. Louis Vuitton made it into bags sold around the world.",
+    "brought": [
+      [
+        "Louis Vuitton",
+        "Its monogram, craft and stores."
+      ],
+      [
+        "Takashi Murakami",
+        "Pop art colour and a cult following in Japan and the art world."
+      ]
+    ],
+    "turning_point": "The Multicolore line launched for spring and summer 2003 and became one of the defining bags of the decade.",
+    "metric": "$300m+",
+    "metric_label": "First-year sales, as widely reported",
+    "measure": "A figure repeated in many accounts. Another, attributed to WWD, put 2003 sales at $345m, about 10% of the brand",
+    "evidence": "The sales figures are widely repeated but traced to secondary sources rather than LVMH’s accounts. The line was discontinued in 2015.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Letting an artist play with your most sacred asset can renew it, as long as the asset stays recognisable.",
+    "take": "Vuitton let an artist touch its crown jewel. The risk was enormous, and the monogram came out younger.",
+    "credit": "Louis Vuitton and Takashi Murakami, 2003",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history · Sotheby’s",
+      "https://sothebys.com/en/articles/takashi-murakami-x-louis-vuitton-the-fashion-collaboration-that-defined-a-generation?locale=de"
+    ],
+    "impact_source": [
+      "Read about the sales · NSS Magazine",
+      "https://www.nssmag.com/en/fashion/39082/louis-vuitton-takashi-murakami-collaboration-2025"
+    ],
+    "links": []
+  },
+  {
+    "id": "apple-u2",
+    "brand": "Apple × U2",
+    "title": "The U2 iPod",
+    "year": 2004,
+    "place": "Global",
+    "sector": "Technology and rock music",
+    "mechanism": "Product for product",
+    "data_role": "Co-branded product",
+    "data_source": "Apple’s iPod, U2’s new single",
+    "stage": "Launched",
+    "hook": "A rock band got its own iPod.",
+    "situation": "Apple was making the iPod the way people carried music. U2 had a new album, and record labels were nervous about digital music.",
+    "exchange": "Apple made a black and red U2 edition of the iPod and an advert with the band playing ‘Vertigo’. The single was sold exclusively through iTunes in the US.",
+    "brought": [
+      [
+        "Apple",
+        "The iPod, iTunes and its silhouette adverts."
+      ],
+      [
+        "U2 and Universal Music",
+        "A new single and one of the biggest bands in the world."
+      ]
+    ],
+    "turning_point": "Announced in October 2004, the U2 iPod carried the band’s signatures on the back and came with a discount on U2’s complete catalogue on iTunes.",
+    "metric": "Oct 2004 to Jun 2005",
+    "metric_label": "How long the U2 iPod was on sale",
+    "measure": "The special edition’s time on sale. A fact, not a result",
+    "evidence": "No sales figures for the special edition were published. The partnership is remembered for the advert and the iTunes tie-in, and a decade later the same partners made a much less popular move.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When both sides bring a product, the partnership can sell each other’s. Design the deal so both products benefit.",
+    "take": "The iPod advert that felt like a music video. Ten years later the same partners pushed an album onto everyone’s phones, and that’s in Failure first.",
+    "credit": "Apple, U2 and Universal Music Group, 2004",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the announcement · Apple Newsroom",
+      "https://www.apple.com/newsroom/2004/10/26Apple-Introduces-the-U2-iPod/"
+    ],
+    "impact_source": [
+      "Read the product history · Apple History",
+      "https://www.apple-history.com/ipod_u2"
+    ],
+    "links": []
+  },
+  {
+    "id": "adidas-stella-mccartney",
+    "brand": "Adidas × Stella McCartney",
+    "title": "Adidas by Stella McCartney",
+    "year": 2004,
+    "place": "Global",
+    "sector": "Sportswear and fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "McCartney’s design, Adidas’ performance kit",
+    "stage": "Launched and running for two decades",
+    "hook": "A fashion designer made women’s sportswear worth wearing, and stayed.",
+    "situation": "Women’s sportswear was often men’s kit made smaller. Stella McCartney, known for luxury fashion without leather, wanted to design for active women.",
+    "exchange": "McCartney designed performance collections for running, gym and swimming. Adidas made and sold them worldwide.",
+    "brought": [
+      [
+        "Adidas",
+        "Sports science, factories and global distribution."
+      ],
+      [
+        "Stella McCartney",
+        "Fashion credibility and a design point of view."
+      ]
+    ],
+    "turning_point": "Announced in September 2004, the line reached shops in 2005. In 2010 Adidas made McCartney creative director for Team GB’s kit at London 2012.",
+    "metric": "2004",
+    "metric_label": "The start of a partnership still running",
+    "measure": "The year of launch. Lasting two decades is a fact, not a sales figure",
+    "evidence": "Neither side publishes the line’s sales. Its longevity, a dedicated store from 2012 and the Team GB role suggest both have found it worth continuing.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A designer partnership can outlast a capsule collection if the designer solves a real problem for customers.",
+    "take": "Most designer collaborations last a season. This one lasted twenty years because it filled a gap, not just a headline.",
+    "credit": "Adidas and Stella McCartney, 2004",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch the ‘adidas by Stella McCartney SS20’ film on Stella McCartney’s channel",
+      "url": "https://www.youtube.com/watch?v=mI9--onH4Qw"
+    },
+    "announcement": [
+      "Read about the designer · Wikipedia",
+      "https://en.wikipedia.org/wiki/Stella_McCartney"
+    ],
+    "impact_source": [
+      "Read about the first store · RetailDetail",
+      "https://www.retaildetail.eu/news/food/first-adidas-stella-mccartney-store-opens-time-olympics"
+    ],
+    "links": []
+  },
+  {
+    "id": "converse-comme-des-garcons",
+    "brand": "Converse × Comme des Garçons PLAY",
+    "title": "The Heart on the Chuck",
+    "year": 2009,
+    "place": "Tokyo, then worldwide",
+    "sector": "Footwear and fashion",
+    "mechanism": "Credibility for reach",
+    "data_role": "Designer collaboration",
+    "data_source": "Comme des Garçons’ heart, Converse’s Chuck Taylor",
+    "stage": "Launched and running",
+    "hook": "A small heart with eyes made a classic trainer fashionable again.",
+    "situation": "The Chuck Taylor was a classic, but common. Comme des Garçons, the Japanese fashion house, had a playful sub-label, PLAY, with a heart logo designed by Filip Pagowski.",
+    "exchange": "Comme des Garçons put its PLAY heart on Converse’s Chuck Taylor. Converse brought the shoe and the distribution.",
+    "brought": [
+      [
+        "Converse",
+        "The Chuck Taylor and shops around the world."
+      ],
+      [
+        "Comme des Garçons",
+        "Fashion credibility and the heart logo."
+      ]
+    ],
+    "turning_point": "The heart first appeared on the Chuck Taylor in 2009, with a wider release in 2015. In 2024 the partners marked fifteen years.",
+    "metric": "15 years",
+    "metric_label": "Celebrated in 2024",
+    "measure": "The length of the partnership when the brands marked its anniversary. A fact, not a result",
+    "evidence": "The shoe is a staple in fashion stores, and the partnership keeps being renewed. Neither brand publishes its sales.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A small mark from the right partner can change how people see a familiar product. Keep the change small and the product intact.",
+    "take": "The smallest intervention in this edition, and one of the longest-lasting. Sometimes a partner only needs to add a heart.",
+    "credit": "Converse and Comme des Garçons PLAY",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the story · Kith",
+      "https://kith.com/blogs/discover/converse-x-comme-des-garcons-cdg-play-chuck-taylor"
+    ],
+    "impact_source": [
+      "Read about the 15th anniversary · Hypebeast",
+      "https://hypebeast.com/2024/7/play-comme-des-garcons-converse-single-heart-chuck-70-15-anniversary-release-info"
+    ],
+    "links": []
+  },
+  {
+    "id": "fred-perry-amy-winehouse",
+    "brand": "Fred Perry × Amy Winehouse",
+    "title": "Amy Winehouse for Fred Perry",
+    "year": 2010,
+    "place": "United Kingdom, then worldwide",
+    "sector": "Fashion and music",
+    "mechanism": "Credibility for reach",
+    "data_role": "Designer collaboration",
+    "data_source": "Winehouse’s style, Fred Perry’s clothes",
+    "stage": "Launched and continued with her foundation",
+    "hook": "A singer designed clothes for a British brand, and the partnership continued after her death.",
+    "situation": "Amy Winehouse’s look drew on the British subcultures Fred Perry had long dressed. Fred Perry wanted to reach a new generation of women.",
+    "exchange": "Winehouse designed womenswear collections for Fred Perry. Fred Perry made and sold them.",
+    "brought": [
+      [
+        "Fred Perry",
+        "Its heritage, production and shops."
+      ],
+      [
+        "Amy Winehouse",
+        "Her style, her designs and her fans."
+      ]
+    ],
+    "turning_point": "Winehouse died in July 2011 with two seasons still to come. With her family’s approval, Fred Perry released them and gave her royalties and fees to the Amy Winehouse Foundation.",
+    "metric": "£2.4m",
+    "metric_label": "Raised for the Amy Winehouse Foundation, per Fred Perry",
+    "measure": "Donations reported by Fred Perry, which gives a share of the collection’s revenue to the foundation",
+    "evidence": "The donations are reported by the brand, and totals vary by date. No figure shows what the collections did for Fred Perry’s own sales.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "If a partnership outlives its plan, let the partner’s family and values decide what happens next.",
+    "take": "The most moving case in the archive. Fred Perry found a way to carry on that honoured her rather than profited from her.",
+    "credit": "Fred Perry and Amy Winehouse, 2010",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about the decision to continue · Rolling Stone",
+      "https://www.rollingstone.com/culture/culture-news/fred-perry-announces-amy-winehouse-collaboration-will-continue-110875"
+    ],
+    "impact_source": [
+      "Read about the donations · Brands Untapped",
+      "https://www.brandsuntapped.com/fred-perrys-amy-winehouse-collection-has-raised-over-2m-for-amy-winehouse-foundation-to-date/"
+    ],
+    "links": []
+  },
+  {
+    "id": "samsung-jay-z",
+    "brand": "Samsung × Jay-Z",
+    "title": "Magna Carta Holy Grail",
+    "year": 2013,
+    "place": "United States",
+    "sector": "Smartphones and hip-hop",
+    "mechanism": "Money for distribution",
+    "data_role": "Platform integration",
+    "data_source": "Samsung’s phones, Jay-Z’s album",
+    "stage": "Launched",
+    "hook": "Samsung bought a million copies of an album before it came out.",
+    "situation": "Samsung wanted its Galaxy phones to feel culturally relevant against the iPhone. Jay-Z had a new album and wanted a different way to release it.",
+    "exchange": "Samsung bought a million copies of the album and gave them free to Galaxy owners through an app, three days before it reached shops.",
+    "brought": [
+      [
+        "Samsung",
+        "Money, and millions of Galaxy phones to deliver the album to."
+      ],
+      [
+        "Jay-Z",
+        "A new album and one of the biggest names in music."
+      ]
+    ],
+    "turning_point": "The album was released to Galaxy owners on 4 July 2013. The music industry body, the RIAA, changed its rules so digital albums could be certified platinum on release day.",
+    "metric": "1m",
+    "metric_label": "Copies Samsung bought and gave away",
+    "measure": "The number of copies distributed through the app. Billboard refused to count them in its charts",
+    "evidence": "The million copies and the RIAA change are documented. Billboard didn’t count the copies, and Samsung published no figure for what the deal did for phone sales.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Buying a cultural moment outright can rewrite an industry’s rules. Make sure it also rewrites what customers think of you.",
+    "take": "Jay-Z was paid before anyone heard a note. It was a brilliant deal for the artist, and a harder one to prove for the phone.",
+    "credit": "Samsung and Jay-Z, 2013",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the report · Rolling Stone",
+      "https://www.rollingstone.com/music/music-news/jay-z-stumbles-63780/"
+    ],
+    "impact_source": [
+      "Read about the rule change · Fact",
+      "https://factmag.com/2013/07/02/jay-zs-magna-carta-holy-grail-leads-riaa-to-change-rules-will-go-platinum-on-moment-of-release"
+    ],
+    "links": [
+      [
+        "Read the analysis · Quartz",
+        "https://qz.com/100094/with-or-without-a-platinum-selling-album-the-samsung-deal-is-a-win-for-jay-z"
+      ]
+    ],
+    "deal_value": "Reported at $5m, though other reports gave different figures"
+  },
+  {
+    "id": "puma-rihanna",
+    "brand": "Puma × Rihanna",
+    "title": "Fenty Puma",
+    "year": 2014,
+    "place": "Global",
+    "sector": "Sportswear and pop music",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Rihanna’s design, Puma’s sportswear",
+    "stage": "Launched and ended",
+    "hook": "A pop star became a sportswear brand’s creative director, and its women’s business took off.",
+    "situation": "Puma was struggling to compete with Nike and Adidas, especially with women. Rihanna was one of the most influential style figures in the world.",
+    "exchange": "Puma made Rihanna creative director of its women’s line. She designed collections, including a creeper trainer that sold out.",
+    "brought": [
+      [
+        "Puma",
+        "Production, distribution and a creative director role."
+      ],
+      [
+        "Rihanna",
+        "Design, influence and a vast young audience."
+      ]
+    ],
+    "turning_point": "Rihanna joined Puma in December 2014. Her Creeper sold out within hours in 2015, and the Fenty Puma line ran until 2018.",
+    "metric": "+17.1%",
+    "metric_label": "Puma sales growth, fourth quarter 2015",
+    "measure": "Growth in Puma’s quarterly sales, which the company said Rihanna’s shoes were helping to drive in its women’s business",
+    "evidence": "Puma credited Rihanna with lifting its women’s business, but women’s sportswear was growing across the industry, and Puma’s chief executive later said the company’s total revenue didn’t depend on her.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A celebrity creative director works when they design, not just endorse. Give them real authority over the product.",
+    "take": "Rihanna didn’t just wear Puma, she made it. That’s the difference between an endorsement and a partnership.",
+    "credit": "Puma and Rihanna, 2014",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read about Puma’s growth · Hypebeast",
+      "https://hypebeast.com/2016/4/puma-sales-growth-rihanna"
+    ],
+    "impact_source": [
+      "Read about Rihanna and Puma · Quartz",
+      "https://qz.com/619337/rihanna-is-leading-puma-into-a-female-future"
+    ],
+    "links": []
+  },
+  {
+    "id": "nike-off-white",
+    "brand": "Nike × Off-White",
+    "title": "The Ten",
+    "year": 2017,
+    "place": "Global",
+    "sector": "Sportswear and fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Abloh’s deconstruction, Nike’s icons",
+    "stage": "Launched",
+    "hook": "A designer took apart ten of Nike’s most famous shoes, and put them back together with quotation marks.",
+    "situation": "Nike had decades of classic shoes. Virgil Abloh, of the Off-White label, was the most influential designer for a young streetwear audience.",
+    "exchange": "Abloh redesigned ten Nike classics, from the Air Jordan 1 to the Air Max 90, with exposed foam, labels and quotation marks.",
+    "brought": [
+      [
+        "Nike",
+        "Ten of its most famous shoes and its production."
+      ],
+      [
+        "Virgil Abloh",
+        "A design language a generation recognised instantly."
+      ]
+    ],
+    "turning_point": "‘The Ten’ was released in 2017. Abloh later became Louis Vuitton’s menswear artistic director, and the shoes’ resale value soared.",
+    "metric": "$1,765",
+    "metric_label": "Average resale price of the white Air Jordan 1, per StockX data",
+    "measure": "Average resale prices analysed by Highsnobiety. A demand signal, not Nike’s sales",
+    "evidence": "Resale prices show huge demand, but they are made by resellers, not Nike. Nike published no sales or brand figures for the collaboration.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A designer can make your archive feel new. Watch the resale market: it tells you how much value you left on the table.",
+    "take": "Abloh appeared in Edition 01 with IKEA. Here he did the same trick for Nike: he made the familiar feel rare.",
+    "credit": "Nike and Virgil Abloh, 2017",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the resale analysis · Highsnobiety",
+      "https://www.highsnobiety.com/p/off-white-nike-resell-price-analysis"
+    ],
+    "impact_source": [
+      "Read the resale guide · Complex",
+      "https://www.complex.com/sneakers/a/sole-collector/virgil-abloh-off-white-nike-jordan-resale-price-guide"
+    ],
+    "links": []
+  }
+]

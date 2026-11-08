@@ -77,6 +77,34 @@ def price_art():
 </g></g>
 </svg>'''
 
+
+def record_art():
+    # Editorial illustration: a record half out of its sleeve, side A for the brand and side B for the culture it partnered with.
+    serif = "'Source Serif 4', Georgia, serif"
+    sans = "'Source Sans 3', Arial, sans-serif"
+    grooves = ''.join(f'<circle cx="680" cy="280" r="{r}" fill="none" stroke="#2b3a38" stroke-width="1.2"/>' for r in range(70, 200, 9))
+    return f'''<svg viewBox="0 0 920 560" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="art-title">
+<title id="art-title">Illustration of a vinyl record sliding out of its sleeve. The label reads side A, the brand, and side B, the culture.</title>
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<path d="M0 0h920v560H0z" fill="#172C2A"/>
+<g filter="url(#sh)">
+<circle cx="680" cy="280" r="205" fill="#0d1615"/>
+{grooves}
+<circle cx="680" cy="280" r="78" fill="#C97B60"/>
+<circle cx="680" cy="280" r="6" fill="#0d1615"/>
+<text x="680" y="270" text-anchor="middle" font-family="{sans}" font-size="12" font-weight="700" letter-spacing="1.5" fill="#172C2A">A · THE BRAND</text>
+<text x="680" y="300" text-anchor="middle" font-family="{sans}" font-size="12" font-weight="700" letter-spacing="1.5" fill="#172C2A">B · THE CULTURE</text>
+</g>
+<g filter="url(#sh)">
+<rect x="150" y="70" width="420" height="420" fill="#DBE9E1"/>
+<rect x="150" y="70" width="420" height="420" fill="none" stroke="#F7F3EA" stroke-width="2" opacity=".6"/>
+<text x="190" y="128" font-family="{sans}" font-size="14" letter-spacing="3" fill="#075950">EDITION 04</text>
+<text x="190" y="214" font-family="{serif}" font-size="64" fill="#172C2A">Culture</text>
+<text x="190" y="284" font-family="{serif}" font-size="64" font-style="italic" fill="#172C2A">first.</text>
+<text x="190" y="446" font-family="{sans}" font-size="13" letter-spacing="2" fill="#075950">MUSIC · SPORT · ART · FASHION</text>
+</g>
+</svg>'''
+
 LEVELS = ['Modelled effect', 'Sales trend', 'Survey', 'Reach only', 'Archival']
 LEVEL_NOTES = {
     'Modelled effect': 'A model estimates the effect against a baseline.',
@@ -97,8 +125,9 @@ MECHANISMS = [
     ('Network for network', 'Peers or rivals join up to offer customers something none could alone.'),
     ('Money for distribution', 'One side pays to be where customers start: the default, the shelf or the screen.'),
     ('Capital for capability', 'One side invests money or infrastructure, and the other brings a capability it could not build.'),
+    ('Credibility for reach', 'A cultural figure lends authenticity, and a brand takes it to a mass audience.'),
 ]
-ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement', 'Cause partnership', 'Alliance', 'Endorsement', 'Investment partnership']
+ROLES = ['Co-branded product', 'Designer collaboration', 'Licence', 'Content partnership', 'Platform integration', 'Sponsorship and placement', 'Cause partnership', 'Alliance', 'Endorsement', 'Investment partnership', 'Artist collaboration']
 # Every case is sorted by the type of partnership.
 ROLE_DEFAULTS = {'roles': ROLES, 'role_label': 'Type', 'role_aria': 'Type of partnership', 'source_label': 'The partners'}
 ERAS = ['1950s to 1980s', '1990s and 2000s', '2010s', '2020s']
@@ -504,6 +533,27 @@ EDITIONS = [
             ('emirates-arsenal', 'Arsenal’s film for the renewal. A sponsor that has stayed this long is its own kind of evidence.', 'stadium'),
             ('oracle-red-bull-racing', 'Oracle’s launch film for the car carrying its name. Watch how the sponsor presents itself as a technology partner.', 'car'),
             ('amazon-nfl', 'Prime Video’s opening film for its first season. The price bought a new kind of football broadcast.', 'field'),
+        ),
+    },
+    {
+        'number': '04',
+        'name': 'Culture first',
+        'data': 'campaigns-04.json',
+        'template': 'page-template-04.html',
+        'output': 'edition-04/index.html',
+        'asset_prefix': '../',
+        'art': record_art,
+        'test_heading': 'How the outcome was recorded',
+        'mechanism_label': 'Exchange',
+        'level_notes': {
+            'Sales trend': 'Sales, share or donations moved, but other causes are not separated out.',
+            'Archival': 'The record shows the partnership and how long it lasted, not what it earned.',
+        },
+        'screening': (
+            ('run-dmc-adidas', 'The song that started it, from Run-DMC’s own channel. Listen for the brand name in the chorus.', 'vinyl'),
+            ('absolut-warhol', 'Absolut tells the story from Warhol’s first painting in 1985 to today.', 'bottle'),
+            ('adidas-stella-mccartney', 'A campaign film from the partnership’s second decade. Notice whose name comes first.', 'gym'),
+            ('coca-cola-olympics', 'Coca-Cola’s archivists on ninety years of the Olympic partnership.', 'rings'),
         ),
     },
 ]
