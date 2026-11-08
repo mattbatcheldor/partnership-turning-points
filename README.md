@@ -29,3 +29,14 @@ A companion to [Brand Turning Points](https://mattbatcheldor.github.io/brand-tur
 6. **Sources and media.** Link the announcement and outcome evidence separately. Credit images and identify whether video is original footage or a later account.
 
 Write in British English. Include deals that stalled or failed alongside successes, and distinguish a signed agreement from a launched partnership and a measured result.
+
+## Build and preview
+
+The site is built from the files in `src/`, using the same engine as Brand Turning Points.
+
+- `src/campaigns-NN.json` holds each edition's cases, `src/page-template-NN.html` its page copy, and `src/site.css` and `src/site.js` the shared design and behaviour.
+- Edition settings, including the screening-room films, live in `EDITIONS` in `src/build.py`.
+- Run `python3 src/build.py` to rebuild every page, then commit the source and the output together.
+- Edition 01 is the home page (`index.html`), and `edition-01/` forwards to it.
+
+`main` is the only source of truth, and GitHub Pages publishes from it. Start new work from the latest `main`, and never force-push to it.

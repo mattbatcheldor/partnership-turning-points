@@ -1,0 +1,750 @@
+[
+  {
+    "id": "red-bull-gopro",
+    "brand": "Red Bull × GoPro",
+    "title": "From Supplier to Partner",
+    "year": 2016,
+    "place": "Global",
+    "sector": "Energy drinks and cameras",
+    "mechanism": "Content for reach",
+    "data_role": "Content partnership",
+    "data_source": "Red Bull’s events, GoPro’s cameras",
+    "stage": "Signed and launched",
+    "hook": "GoPro filmed the most watched stunt of 2012 as a supplier. Four years later it became a partner.",
+    "situation": "When Felix Baumgartner jumped from the edge of space for Red Bull Stratos in 2012, his suit carried GoPro cameras and the live stream set a YouTube record for concurrent views. GoPro was there as a supplier, not a partner, and by 2015 its shares were falling.",
+    "exchange": "Red Bull made the events and the films. GoPro made the cameras that captured them, and had its own channel to show the results.",
+    "brought": [
+      [
+        "Red Bull",
+        "World-class events, athletes and a media house that makes films."
+      ],
+      [
+        "GoPro",
+        "Point-of-view cameras, and an audience that watches what they capture."
+      ]
+    ],
+    "turning_point": "In May 2016 the two signed a multi-year exclusive partnership. GoPro became Red Bull’s exclusive point-of-view camera, the two agreed to share content across their channels, and Red Bull took a small stake in GoPro.",
+    "metric": "Under 1%",
+    "metric_label": "Red Bull’s stake in GoPro, per GoPro’s chief executive",
+    "measure": "The size of the equity stake, as described when the deal was announced. A deal term, not a result",
+    "evidence": "The deal terms are documented in GoPro’s announcement, and a Red Bull TV channel for GoPro followed that August. Neither company published what the partnership did for sales or audiences.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Work together before you sign together. A supplier relationship is the cheapest way to find out whether a partnership will work.",
+    "take": "Plenty of great partnerships start as a purchase order. GoPro earned its place on Red Bull’s biggest stage before it asked for a contract.",
+    "credit": "Red Bull and GoPro, 2016",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘Red Bull Stratos: The Full Story’ on GoPro’s channel",
+      "url": "https://www.youtube.com/watch?v=dYw4meRWGd4"
+    },
+    "announcement": [
+      "Read the announcement · GoPro",
+      "https://investor.gopro.com/press-releases/press-release-details/2016/GoPro-and-Red-Bull-Form-Exclusive-Global-Partnership/default.aspx"
+    ],
+    "impact_source": [
+      "Read about the deal · The Drum",
+      "https://www.thedrum.com/news/2016/05/24/red-bull-and-gopro-ink-exclusive-global-partnership-inspire-world-live-bigger-life"
+    ],
+    "links": [
+      [
+        "See the Stratos live-stream record · Guinness World Records",
+        "https://www.guinnessworldrecords.com/world-records/105276-most-concurrent-views-for-a-live-event-on-youtube"
+      ]
+    ],
+    "deal_value": "Equity stake of under 1%. Other terms not disclosed"
+  },
+  {
+    "id": "lego-star-wars",
+    "brand": "LEGO × Lucasfilm",
+    "title": "LEGO Star Wars",
+    "year": 1999,
+    "place": "Global",
+    "sector": "Toys and film",
+    "mechanism": "Licence",
+    "data_role": "Licence",
+    "data_source": "LEGO’s bricks, Lucasfilm’s galaxy",
+    "stage": "Signed, launched and renewed",
+    "hook": "LEGO’s first licence, and one its own executives nearly turned down.",
+    "situation": "LEGO had never sold another company’s characters. Some of its executives were reluctant to start, and Star Wars: Episode I was due in 1999.",
+    "exchange": "LEGO brought the bricks and the shelf space. Lucasfilm brought the most valuable story in film merchandise.",
+    "brought": [
+      [
+        "LEGO",
+        "Bricks, factories and a place in every toy shop."
+      ],
+      [
+        "Lucasfilm",
+        "Star Wars characters, ships and a release date to build around."
+      ]
+    ],
+    "turning_point": "The licence was signed in 1998 after owner Kjeld Kirk Kristiansen gave the go-ahead, and the theme was unveiled at the New York Toy Fair in February 1999.",
+    "metric": "200m+",
+    "metric_label": "Boxes sold by 2012, as reported",
+    "measure": "Boxes sold worldwide since 1999, per the 2012 announcement renewing the licence",
+    "evidence": "The licence has been renewed several times and is reported as one of the best-selling toy lines. The sales figure comes from a press release. LEGO still came close to running out of money in 2003 and 2004, so the licence alone didn’t secure the business.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A strong licence can grow sales while the core business weakens. Track both before you call the partnership a success.",
+    "take": "The deal LEGO nearly said no to became its longest-running theme. Some of the best partnerships need someone senior to overrule the doubters.",
+    "credit": "LEGO Group and Lucasfilm",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘LEGO Star Wars: 25 Years’ on LEGO’s channel",
+      "url": "https://www.youtube.com/watch?v=68aY4iB5Vq0"
+    },
+    "announcement": [
+      "Read the launch story · The Brothers Brick",
+      "https://www.brothers-brick.com/2019/04/09/the-story-behind-the-1999-launch-of-lego-star-wars-feature/"
+    ],
+    "impact_source": [
+      "Read the 2012 renewal · Yakface",
+      "https://yakfaceforums.com/main/2012/02/14/lego-star-wars-10-more-years-of-fun/"
+    ],
+    "links": []
+  },
+  {
+    "id": "bmw-films-the-hire",
+    "brand": "BMW × Hollywood directors",
+    "title": "The Hire",
+    "year": 2001,
+    "place": "Online, from the United States",
+    "sector": "Cars and film",
+    "mechanism": "Content for reach",
+    "data_role": "Content partnership",
+    "data_source": "BMW’s cars, directors’ films",
+    "stage": "Launched",
+    "hook": "Car adverts made as short films by some of the world’s best directors.",
+    "situation": "Car advertising was all scenic roads and voiceovers, and broadband was new. BMW’s agency, Fallon, wanted something people would choose to watch.",
+    "exchange": "BMW paid for the films and provided the cars. Directors including Ang Lee, Guy Ritchie, Wong Kar-wai and John Woo made films they could put their names to.",
+    "brought": [
+      [
+        "BMW",
+        "Budget, cars and a website to show the films."
+      ],
+      [
+        "The directors",
+        "Cinematic craft, and names that made people click."
+      ]
+    ],
+    "turning_point": "From 2001 BMW released eight short films starring Clive Owen as the Driver, watched online rather than on television.",
+    "metric": "100m+",
+    "metric_label": "Film views claimed by BMW across the series",
+    "measure": "Views over the series’ online run, as claimed by BMW. Early reports put the first films at 11m views in four months",
+    "evidence": "BMW’s US sales rose about 12% in 2001 and 17% in 2002, and some coverage credits the films. That is a correlation, and the view counts are BMW’s own.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "If you want talent to do its best work, give it creative control and judge the result on attention, not on product shots.",
+    "take": "Branded entertainment before anyone called it that. BMW bought directors’ credibility and let them keep it.",
+    "credit": "Fallon Minneapolis for BMW",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The Hire: The Follow’ on BMW India’s channel",
+      "url": "https://www.youtube.com/watch?v=3O3sZFDBQJE"
+    },
+    "announcement": [
+      "Read BMW’s account of the series · BMW Group",
+      "https://www.press.bmwgroup.com/usa/article/detail/T0017525EN_US/the-hire-the-acclaimed-film-series-by-bmw-will-end-a-four-and-a-half-year-internet-run-october-21st"
+    ],
+    "impact_source": [
+      "Read the history · Jalopnik",
+      "https://jalopnik.com/bmws-the-hire-was-ahead-of-the-curve-and-still-has-no-833978195"
+    ],
+    "links": []
+  },
+  {
+    "id": "hm-karl-lagerfeld",
+    "brand": "H&M × Karl Lagerfeld",
+    "title": "Karl Lagerfeld for H&M",
+    "year": 2004,
+    "place": "Europe and the United States",
+    "sector": "Fashion retail",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Lagerfeld’s name, H&M’s stores",
+    "stage": "Launched",
+    "hook": "The first big designer collaboration on the high street.",
+    "situation": "Designer fashion and the high street lived in different worlds. H&M sold trends cheaply, and Lagerfeld designed for Chanel.",
+    "exchange": "Lagerfeld lent his name and designs. H&M brought hundreds of stores and prices most people could afford.",
+    "brought": [
+      [
+        "H&M",
+        "Stores across Europe and the US, and fast production."
+      ],
+      [
+        "Karl Lagerfeld",
+        "One of the most famous names in fashion."
+      ]
+    ],
+    "turning_point": "The capsule collection went on sale on 12 November 2004. Many stores sold out within hours, and H&M’s marketing chief said the company had never seen anything like it.",
+    "metric": "Sold out",
+    "metric_label": "Within hours in many stores",
+    "measure": "The speed of the sell-out, as widely reported. A fact, not a sales figure",
+    "evidence": "Coverage agrees the collection sold out fast, though accounts of how fast differ. H&M published no sales figure. Lagerfeld later said he was let down by the retailer, partly over how few pieces it made.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Scarcity makes headlines and disappoints customers. Agree how much you will make before you agree who you will make it with.",
+    "take": "Every designer collaboration since has copied this one. H&M turned a one-off into an annual event that customers queue for.",
+    "credit": "H&M and Karl Lagerfeld, 2004",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the history of H&M’s collaborations · Stylight",
+      "https://www.stylight.com/Magazine/Fashion/14-Years-Hm-Designer-Collaborations-High-Street-Became-Fashions-Hottest-Ticket/"
+    ],
+    "impact_source": [
+      "Read Lagerfeld’s view · Business Insider",
+      "https://businessinsider.in/karl-lagerfeld-once-worked-with-hm-to-make-fashion-more-approachable-but-he-said-he-was-ultimately-let-down-by-the-giant-retailer/amp_articleshow/68071585.cms"
+    ],
+    "links": []
+  },
+  {
+    "id": "nike-apple-nike-plus",
+    "brand": "Nike × Apple",
+    "title": "Nike+iPod",
+    "year": 2006,
+    "place": "United States, then worldwide",
+    "sector": "Sportswear and technology",
+    "mechanism": "Product for product",
+    "data_role": "Co-branded product",
+    "data_source": "Nike’s shoes, Apple’s iPod",
+    "stage": "Launched",
+    "hook": "A sensor in a running shoe that talked to an iPod.",
+    "situation": "Runners carried iPods but had no easy way to track their runs. Nike wanted a digital relationship with runners, and Apple wanted more reasons to buy an iPod.",
+    "exchange": "Nike put a pocket for a sensor in its shoes. Apple made the iPod read it and show the run.",
+    "brought": [
+      [
+        "Nike",
+        "Running shoes, runners and a reason to measure every run."
+      ],
+      [
+        "Apple",
+        "The iPod, iTunes and its stores."
+      ]
+    ],
+    "turning_point": "Announced on 23 May 2006 and launched that July, the $29 Sport Kit was sold through Apple’s and Nike’s stores and websites.",
+    "metric": "22m",
+    "metric_label": "Miles logged by mid-2007, as reported",
+    "measure": "Miles logged by Nike+ users about a year after launch",
+    "evidence": "The usage figure was reported in 2007. Neither company published sales of the kit, and later Nike+ membership figures vary by source. The partnership continued into Nike’s later digital products.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Put your product inside your partner’s product, not next to it. Integration is harder to copy than co-branding.",
+    "take": "This is where Nike learned to be a software company. The shoe was the hardware, and Apple showed it the rest.",
+    "credit": "Nike and Apple, 2006",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the announcement · Apple Newsroom",
+      "https://www.apple.com/newsroom/2006/05/23Nike-and-Apple-Team-Up-to-Launch-Nike-iPod/"
+    ],
+    "impact_source": [
+      "Read the usage report · TechCrunch",
+      "https://techcrunch.com/2007/07/26/quite-a-few-people-run-with-the-nikeipod-system/"
+    ],
+    "links": [
+      [
+        "Read the launch release · Nike",
+        "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2006/Nike-and-Apple-Launch-Nike--iPod-Sport-Kit/default.aspx"
+      ]
+    ]
+  },
+  {
+    "id": "uniqlo-jil-sander",
+    "brand": "Uniqlo × Jil Sander",
+    "title": "+J",
+    "year": 2009,
+    "place": "Japan, the US and the UK, then worldwide",
+    "sector": "Fashion retail",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Sander’s minimalism, Uniqlo’s prices",
+    "stage": "Launched and revived",
+    "hook": "A minimalist designer at mass-market prices.",
+    "situation": "Uniqlo was expanding abroad and wanted to be seen as more than cheap basics. Jil Sander’s quiet, precise style fitted its products.",
+    "exchange": "Jil Sander designed and advised as creative consultant. Uniqlo made the clothes and sold them at its usual prices around the world.",
+    "brought": [
+      [
+        "Uniqlo",
+        "Global stores, fabric technology and low prices."
+      ],
+      [
+        "Jil Sander",
+        "A respected designer’s eye and name."
+      ]
+    ],
+    "turning_point": "+J launched in autumn 2009 and ran until 2011. It returned in 2020, when queues formed outside stores.",
+    "metric": "2009 to 2011",
+    "metric_label": "The first run, before a 2020 revival",
+    "measure": "How long the original collaboration ran. A fact, not a result",
+    "evidence": "Coverage framed +J as a way for Uniqlo to export its image abroad. Uniqlo’s sales were rising strongly in 2009, but no figure separates +J from the rest of the business.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A long collaboration can reposition a brand in a way a one-off capsule can’t. Agree the length before you agree the launch.",
+    "take": "Less noise than H&M’s collaborations, more effect. +J helped make Uniqlo look like design, not just value.",
+    "credit": "Uniqlo and Jil Sander, 2009",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the announcement · FashionNetwork",
+      "https://us.fashionnetwork.com/news/Jil-sander-for-uniqlo,500637.html"
+    ],
+    "impact_source": [
+      "Read about Uniqlo’s 2009 sales · The Japan Times",
+      "https://www.japantimes.co.jp/news/2009/10/17/business/recession-cant-slow-uniqlo"
+    ],
+    "links": []
+  },
+  {
+    "id": "taco-bell-doritos-locos",
+    "brand": "Taco Bell × Doritos",
+    "title": "Doritos Locos Tacos",
+    "year": 2012,
+    "place": "United States",
+    "sector": "Fast food and snacks",
+    "mechanism": "Product for product",
+    "data_role": "Co-branded product",
+    "data_source": "Taco Bell’s taco, Frito-Lay’s Doritos",
+    "stage": "Launched",
+    "hook": "Two brands in one taco shell.",
+    "situation": "Taco Bell needed a reason for people to visit, and Doritos wanted to be eaten beyond the bag.",
+    "exchange": "Frito-Lay developed a shell made from Doritos, testing more than 50 prototypes to keep the crunch without splintering. Taco Bell put it on the menu.",
+    "brought": [
+      [
+        "Taco Bell",
+        "Restaurants, a taco and millions of customers."
+      ],
+      [
+        "Frito-Lay",
+        "The Doritos brand, flavour and food science."
+      ]
+    ],
+    "turning_point": "The Doritos Locos Taco launched in March 2012 and became one of the fastest-selling products Taco Bell had made.",
+    "metric": "1bn",
+    "metric_label": "Tacos sold in under three years",
+    "measure": "Units sold. Sources disagree on timing, from about 17 months to just under three years",
+    "evidence": "The billion-unit figure is widely reported, and Taco Bell said it added about 15,000 workers to meet demand. It is a sales trend, and it doesn’t show what the partnership added for Frito-Lay.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "The best co-branded products need both partners’ engineers, not just both logos.",
+    "take": "The most commercially successful collaboration in this edition, and the least glamorous. It sold a billion tacos because it tasted like the idea.",
+    "credit": "Taco Bell and Frito-Lay, 2012",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The Legend of Doritos Locos Tacos’ on Taco Bell’s channel",
+      "url": "https://www.youtube.com/watch?v=q3Q4DwKsUuI"
+    },
+    "announcement": [
+      "Read how it was made · Rutgers",
+      "https://www.rutgers.edu/news/rutgers-food-science-alum-helped-create-taco-bells-doritos-locos-taco"
+    ],
+    "impact_source": [
+      "Read the billion-taco report · The Daily Meal",
+      "https://www.thedailymeal.com/news/1-billion-worth-doritos-locos-tacos-sold/101713"
+    ],
+    "links": []
+  },
+  {
+    "id": "heineken-skyfall",
+    "brand": "Heineken × James Bond",
+    "title": "Skyfall",
+    "year": 2012,
+    "place": "Global",
+    "sector": "Beer and film",
+    "mechanism": "Money for association",
+    "data_role": "Sponsorship and placement",
+    "data_source": "Heineken’s money, Bond’s screen time",
+    "stage": "Launched",
+    "hook": "James Bond swapped his martini for a beer.",
+    "situation": "Heineken had appeared in Bond films since the 1990s. Big films need partners to pay for them, and Skyfall marked the series’ 50th anniversary.",
+    "exchange": "Heineken paid for placement and ran its own Bond campaign. The film got money and a global advertising push.",
+    "brought": [
+      [
+        "Heineken",
+        "Money and a worldwide advertising campaign."
+      ],
+      [
+        "James Bond",
+        "The most famous character in film product placement."
+      ]
+    ],
+    "turning_point": "In Skyfall, Bond drinks a Heineken on screen, and Heineken’s ‘Crack the Case’ campaign starring Daniel Craig ran around the release.",
+    "metric": "$45m",
+    "metric_label": "Rumoured value of the deal, never confirmed",
+    "measure": "A widely reported figure the partners never confirmed. Another report put it at £28m",
+    "evidence": "The deal value was never confirmed, and no effect on sales was published. Fans criticised the placement, and Daniel Craig reportedly called it unfortunate while accepting that big films need product placement.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "If your partner’s fans see the deal as a compromise, the cost isn’t only money. Ask how the audience will read it.",
+    "take": "The biggest number in this edition is one nobody confirmed. That is a pattern I expect to see a lot in this archive.",
+    "credit": "Heineken, 2012 · Wieden+Kennedy Amsterdam",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the announcement · Campaign",
+      "https://www.campaignlive.co.uk/article/james-bond-swig-heineken-skyfall/1125978"
+    ],
+    "impact_source": [
+      "Read the reaction · Adweek",
+      "https://www.adweek.com/digital/james-bond-to-drink-heineken-would-rather-have-a-martini/"
+    ],
+    "links": [],
+    "deal_value": "Rumoured at $45m, never confirmed"
+  },
+  {
+    "id": "spotify-uber",
+    "brand": "Spotify × Uber",
+    "title": "Your Music in Someone Else’s Car",
+    "year": 2014,
+    "place": "10 launch cities, including London and New York",
+    "sector": "Music streaming and ride-hailing",
+    "mechanism": "Platform for audience",
+    "data_role": "Platform integration",
+    "data_source": "Spotify’s music, Uber’s rides",
+    "stage": "Launched",
+    "hook": "Riders could play their own music in an Uber.",
+    "situation": "Spotify wanted to reach young city dwellers. Uber wanted rides to feel personal rather than like any taxi.",
+    "exchange": "Spotify linked its accounts to the Uber app. Uber gave riders control of the music in music-enabled cars.",
+    "brought": [
+      [
+        "Spotify",
+        "Music, playlists and Premium subscribers."
+      ],
+      [
+        "Uber",
+        "Millions of rides and a growing young audience."
+      ]
+    ],
+    "turning_point": "The feature launched in November 2014 in ten cities, for Spotify Premium users in music-enabled cars. Drivers kept control of the volume.",
+    "metric": "10",
+    "metric_label": "Launch cities",
+    "measure": "The number of cities at launch. A fact, not a result",
+    "evidence": "No results were published, and both chief executives declined to say whether the deal involved revenue sharing. The feature only worked for paying Spotify users in selected cars.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A clever integration still needs a reason for most users to use it. Check how many of your partner’s customers can actually take part.",
+    "take": "One of the most talked-about tech partnerships of its year, and one of the hardest to find results for. Great headline, narrow door.",
+    "credit": "Spotify and Uber, 2014",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the launch report · Fortune",
+      "https://fortune.com/2014/11/17/spotify-moves-into-cars-with-uber-partnership"
+    ],
+    "impact_source": [
+      "Read the details · Consumerist",
+      "https://consumerist.com/2014/11/17/uber-and-spotify-pair-up-to-allow-riders-to-choose-their-own-tunes-for-the-drive/index.html"
+    ],
+    "links": []
+  },
+  {
+    "id": "supreme-louis-vuitton",
+    "brand": "Supreme × Louis Vuitton",
+    "title": "Supreme × Louis Vuitton",
+    "year": 2017,
+    "place": "Paris, then pop-up stores",
+    "sector": "Streetwear and luxury fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Supreme’s credibility, Louis Vuitton’s craft",
+    "stage": "Launched",
+    "hook": "Streetwear walked into a luxury house.",
+    "situation": "Luxury houses wanted younger customers, and Supreme had the credibility they lacked. Years earlier, Louis Vuitton had sent Supreme a cease-and-desist letter over its monogram.",
+    "exchange": "Supreme brought its logo and its following. Louis Vuitton brought luxury materials, craft and status.",
+    "brought": [
+      [
+        "Louis Vuitton",
+        "Luxury craft, prestige and global stores."
+      ],
+      [
+        "Supreme",
+        "Streetwear credibility and a devoted young following."
+      ]
+    ],
+    "turning_point": "The collection showed in Paris in January 2017 and sold through pop-up stores. Later that year the Carlyle Group bought about half of Supreme.",
+    "metric": "$500m",
+    "metric_label": "Carlyle’s reported price for about half of Supreme, 2017",
+    "measure": "The reported price of the stake, months after the collaboration. VF bought all of Supreme for $2.1bn in 2020",
+    "evidence": "Supreme’s value rose sharply after 2017, from about $1bn implied by Carlyle’s stake to $2.1bn in VF’s purchase. The collaboration was part of that story, but no source isolates its effect.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A collaboration can raise the value of the smaller partner more than the sales of the bigger one. Know which side you are on.",
+    "take": "Louis Vuitton once sued for less. Supreme turned that into a collaboration that changed what luxury thought cool looked like.",
+    "credit": "Louis Vuitton and Supreme, 2017",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the brand history · Wikipedia",
+      "https://en.wikipedia.org/wiki/Supreme_(brand)"
+    ],
+    "impact_source": [
+      "Read about VF’s purchase · The Fashion Law",
+      "https://www.thefashionlaw.com/vans-parent-vf-corp-buying-streetwear-brand-supreme-in-2-1-billion-deal/"
+    ],
+    "links": []
+  },
+  {
+    "id": "crocs-balenciaga",
+    "brand": "Crocs × Balenciaga",
+    "title": "The Platform Croc",
+    "year": 2017,
+    "place": "Paris, then worldwide",
+    "sector": "Footwear and luxury fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Crocs’ clog, Balenciaga’s runway",
+    "stage": "Launched and repeated",
+    "hook": "The shoe people loved to mock went down a Paris runway.",
+    "situation": "Crocs was seen as comfortable and ugly. Balenciaga, under Demna, made a habit of turning the unfashionable into fashion.",
+    "exchange": "Balenciaga put a platform Croc on its runway. Crocs got the fashion credibility it had never had.",
+    "brought": [
+      [
+        "Crocs",
+        "A famous, divisive shoe and a factory to make it."
+      ],
+      [
+        "Balenciaga",
+        "Runway status and fashion authority."
+      ]
+    ],
+    "turning_point": "The platform Croc appeared at Paris Fashion Week in October 2017. The two brands worked together again in later years.",
+    "metric": "+93%",
+    "metric_label": "Crocs revenue growth, second quarter 2021",
+    "measure": "Year-on-year revenue growth reported by Crocs, as its collaborations multiplied",
+    "evidence": "Crocs’ revenue soared after 2017 under a new chief executive who made collaborations central, from Balenciaga to celebrities and snack brands. The pandemic’s comfort trend helped too, so no single partnership can take the credit.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "One partnership can start a change in perception. Many partnerships, in a clear strategy, sustain it.",
+    "take": "The most surprising turnaround in this edition. Balenciaga gave Crocs permission to be in on the joke.",
+    "credit": "Crocs and Balenciaga, 2017",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the runway report · Fortune",
+      "https://fortune.com/2017/10/02/balenciaga-crocs-collaboration-paris-fashion-week"
+    ],
+    "impact_source": [
+      "Read the 2021 results · Retail Dive",
+      "https://www.retaildive.com/news/crocs-revenue-nearly-doubles-in-q2-as-dtc-and-wholesale-take-off/603772/"
+    ],
+    "links": []
+  },
+  {
+    "id": "ikea-virgil-abloh",
+    "brand": "IKEA × Virgil Abloh",
+    "title": "Markerad",
+    "year": 2019,
+    "place": "Paris pop-up in 2018, then stores",
+    "sector": "Furniture and fashion",
+    "mechanism": "Talent for scale",
+    "data_role": "Designer collaboration",
+    "data_source": "Abloh’s wit, IKEA’s flat-pack",
+    "stage": "Launched",
+    "hook": "A streetwear designer put quotation marks on flat-pack furniture.",
+    "situation": "IKEA wanted to reach young people furnishing their first homes. Virgil Abloh, of Off-White and later Louis Vuitton, was the most influential designer for that generation.",
+    "exchange": "Abloh designed the Markerad collection, including a receipt-shaped rug and one reading ‘Keep off’. IKEA made it at its scale and prices.",
+    "brought": [
+      [
+        "IKEA",
+        "Affordable design, production and stores worldwide."
+      ],
+      [
+        "Virgil Abloh",
+        "Cultural credibility with a young audience."
+      ]
+    ],
+    "turning_point": "The rugs sold out at a Paris pop-up in 2018, and the full Markerad collection reached selected stores in 2019.",
+    "metric": "€129",
+    "metric_label": "Price of the ‘Keep off’ rug, later resold for up to €1,500",
+    "measure": "The original price and reported resale prices. A demand signal, not a sales figure",
+    "evidence": "The IKEA Museum records that the rug sold out, and resale prices show demand. IKEA published no sales or brand figures for the collection.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When resellers make more from your collaboration than you do, you have under-made it, or found something worth more than your price.",
+    "take": "Abloh’s quotation marks were the joke and the point. IKEA borrowed a generation’s favourite designer and let him tease its own products.",
+    "credit": "IKEA and Virgil Abloh, 2019",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the product story · IKEA Museum",
+      "https://ikeamuseum.com/en/explore/product-stories/markerad-rug-2018/"
+    ],
+    "impact_source": [
+      "Read the pop-up report · FashionUnited",
+      "https://fashionunited.uk/news/fashion/off-white-x-ikea-pop-up-store-pulls-rugs-out-from-under-customers/2018100339271"
+    ],
+    "links": []
+  },
+  {
+    "id": "mcdonalds-travis-scott",
+    "brand": "McDonald’s × Travis Scott",
+    "title": "The Travis Scott Meal",
+    "year": 2020,
+    "place": "United States",
+    "sector": "Fast food and music",
+    "mechanism": "Talent for scale",
+    "data_role": "Co-branded product",
+    "data_source": "Scott’s order, McDonald’s menu",
+    "stage": "Launched",
+    "hook": "A rapper’s usual order, sold as a menu item.",
+    "situation": "McDonald’s sales had fallen during lockdown, and it wanted younger customers back. Travis Scott was at the height of his fame.",
+    "exchange": "Scott lent his name and his usual order. McDonald’s put it on the menu across the US and sold merchandise alongside.",
+    "brought": [
+      [
+        "McDonald’s",
+        "Thousands of restaurants and an existing menu."
+      ],
+      [
+        "Travis Scott",
+        "Fame with young audiences, and merchandise they wanted."
+      ]
+    ],
+    "turning_point": "The meal launched in September 2020. Within about a week some restaurants ran short of ingredients, and McDonald’s began allocating supplies centrally.",
+    "metric": "+4.6%",
+    "metric_label": "US same-store sales, third quarter 2020",
+    "measure": "A swing from an 8.7% fall in the second quarter, which Forbes linked partly to the meal",
+    "evidence": "Sales rebounded strongly, and Forbes linked part of the rebound to the meal. Restaurants were also reopening after lockdowns, so the meal’s share can’t be separated out.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A partnership that causes shortages is a supply problem as well as a success. Plan operations with marketing, not after it.",
+    "take": "It turned the celebrity endorsement into a menu item, and started a run of celebrity meals that every chain copied.",
+    "credit": "McDonald’s and Travis Scott, 2020",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the shortage report · NBC",
+      "https://www.nbcdfw.com/entertainment/entertainment-news/mcdonalds-travis-scott-meal-is-so-popular-its-causing-quarter-pounder-shortages/"
+    ],
+    "impact_source": [
+      "Read about the sales and earnings · The Takeout",
+      "https://thetakeout.com/mcdonald-s-travis-scott-meal-leads-to-burger-shortages-1845091392"
+    ],
+    "links": [],
+    "deal_value": "At least $5m for Scott, plus about $15m from merchandise, per Forbes estimates"
+  },
+  {
+    "id": "fortnite-travis-scott",
+    "brand": "Fortnite × Travis Scott",
+    "title": "Astronomical",
+    "year": 2020,
+    "place": "Online",
+    "sector": "Gaming and music",
+    "mechanism": "Platform for audience",
+    "data_role": "Platform integration",
+    "data_source": "Epic’s game, Scott’s music",
+    "stage": "Launched",
+    "hook": "A concert inside a video game, for millions at once.",
+    "situation": "In April 2020 concerts had stopped because of the pandemic. Fortnite had tens of millions of players, and Travis Scott had new music to promote.",
+    "exchange": "Epic built a giant animated Travis Scott inside Fortnite. Scott brought his music and premiered a new song with Kid Cudi.",
+    "brought": [
+      [
+        "Epic Games",
+        "A game with tens of millions of players."
+      ],
+      [
+        "Travis Scott",
+        "Music, and a reason for players to log in at the same time."
+      ]
+    ],
+    "turning_point": "Astronomical ran five times between 23 and 25 April 2020. Its first show set a record for concurrent Fortnite players.",
+    "metric": "27.7m",
+    "metric_label": "Unique players across five shows",
+    "measure": "Unique players, with 12.3m at the peak of the first show, as reported by Epic",
+    "evidence": "Epic’s figures show huge attendance. Neither side published revenue from the event or its effect on music streams.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Platforms can lend an audience in a single moment. Decide in advance what you want that audience to do next.",
+    "take": "The moment games became venues. Astronomical showed a platform could be a stage, not just a place to advertise.",
+    "credit": "Epic Games and Travis Scott, 2020",
+    "creative": {
+      "medium": "Original work",
+      "label": "No official copy found online",
+      "url": ""
+    },
+    "announcement": [
+      "Read the record report · PC Gamer",
+      "https://www.pcgamer.com/travis-scotts-fortnite-show-had-a-record-breaking-number-of-players"
+    ],
+    "impact_source": [
+      "Read the full attendance figures · Game Developer",
+      "https://gamedeveloper.com/business/-i-fortnite-s-i-virtual-travis-scott-gig-attracted-a-record-12-3-million-concurrent-players"
+    ],
+    "links": []
+  },
+  {
+    "id": "gucci-the-north-face",
+    "brand": "Gucci × The North Face",
+    "title": "Gucci × The North Face",
+    "year": 2021,
+    "place": "China first, then worldwide",
+    "sector": "Luxury and outdoor clothing",
+    "mechanism": "Product for product",
+    "data_role": "Co-branded product",
+    "data_source": "Gucci’s luxury, The North Face’s outdoors",
+    "stage": "Launched",
+    "hook": "A luxury house went outdoors with a mountain brand.",
+    "situation": "Outdoor clothing had become fashion, and luxury buyers wanted it too. The North Face was already among the most searched brands.",
+    "exchange": "Gucci added its patterns and prestige. The North Face brought its outdoor heritage and jacket designs.",
+    "brought": [
+      [
+        "Gucci",
+        "Luxury status, patterns and stores."
+      ],
+      [
+        "The North Face",
+        "Outdoor credibility and some of the most famous jackets in fashion."
+      ]
+    ],
+    "turning_point": "The collection launched in China and then online in early 2021, and sold out quickly.",
+    "metric": "No. 1",
+    "metric_label": "Hottest women’s product, Lyst Index, early 2021",
+    "measure": "The ranking of the collaboration’s jacket in Lyst’s quarterly index of shopping demand",
+    "evidence": "Lyst’s index measures online demand, not sales. Neither brand published sales from the collaboration.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Two strong brands can lift each other when each brings something the other can’t claim. Check that both sides are visible in the product.",
+    "take": "This is what a balanced collaboration looks like. Neither brand disappears, and each borrows something real.",
+    "credit": "Gucci and The North Face, 2021",
+    "creative": {
+      "medium": "Official film",
+      "label": "Watch ‘The North Face x Gucci: Chapter Two’ on Gucci’s channel",
+      "url": "https://www.youtube.com/watch?v=TI4JEMxFWi4"
+    },
+    "announcement": [
+      "Read the launch report · Luxury Daily",
+      "https://luxurydaily.com/gucci-launches-north-face-collaboration-online//?print=1"
+    ],
+    "impact_source": [
+      "Read the Lyst ranking · Pop Fashion",
+      "https://m.popfashioninfo.com/blog/detail/the-top-20-hottest-brands-of-q1-2021-on-lyst-index-id_31669/"
+    ],
+    "links": []
+  }
+]
