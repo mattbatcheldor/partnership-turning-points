@@ -38,6 +38,8 @@
 .lesson-chip:hover{background:#DBE9E1;border-color:var(--ink)}.lesson-chip .small{font-size:.62rem;color:var(--muted);margin-right:.15rem}
 .brand-list{border-top:1px solid var(--ink)}
 .brand-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr);gap:1.5rem;padding:1.1rem 0;border-bottom:1px solid var(--line)}
+.brand-heading{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:start;gap:1rem}
+.brand-logo{display:block;width:5.125rem;height:3.875rem;padding:.45rem;object-fit:contain;background:var(--light);border:1px solid var(--line);border-radius:.35rem}
 .brand-row h3{font:normal 1.7rem/1.1 var(--serif);margin:0 0 .35rem}.brand-row p{margin:0;color:var(--muted);font-size:.92rem}
 .brand-row ol{list-style:none;margin:0;padding:0;display:grid;gap:.35rem}.brand-row li a{display:flex;gap:.6rem;align-items:baseline;color:var(--ink);text-decoration:none;font-size:.95rem}
 .brand-row li a:hover{text-decoration:underline}.brand-row .small{min-width:5.6rem;color:var(--muted);font-size:.64rem}.brand-row .yr{color:var(--muted);font-size:.85rem}
@@ -56,6 +58,7 @@
 @media(max-width:900px){.ed-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ed-card:last-child:nth-child(3n+1){grid-column:auto}.ed-card:last-child:nth-child(odd){grid-column:1/-1}.ix-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.ix-stats div:nth-child(3){border-right:0}}
 @media(max-width:700px){.ed-card:last-child:nth-child(odd){grid-column:auto}.ix-about{grid-template-columns:1fr;gap:.4rem}.ix-about-copy{border-top:0}
 .ed-grid,.lesson-grid,.gap-grid{grid-template-columns:1fr}.brand-row{grid-template-columns:1fr;gap:.6rem}
+.brand-heading{gap:.75rem}.brand-logo{width:4.25rem;height:3.375rem;padding:.35rem}
 .ev-row{grid-template-columns:1fr;gap:.3rem}.ix-case-link{grid-template-columns:4.4rem minmax(0,1fr);gap:.4rem .65rem}.ix-visual{grid-row:span 2;align-self:start}.ix-side{grid-column:2}
 .ix-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.ix-stats div{border-right:0}.ix-stats div:nth-child(odd){border-right:1px solid var(--line)}}
 </style>

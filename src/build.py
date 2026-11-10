@@ -744,6 +744,27 @@ LESSONS = [
 ]
 PARTY_GROUPS = {'Apple Music': 'Apple', 'McDonald’s Japan': 'McDonald’s'}
 PARTY_SKIP = {'his sponsors', 'sport', 'its first creators'}
+PARTY_LOGO_DIR = Path('assets/partner-logos')
+PARTY_LOGOS = {
+    'Adidas': 'adidas',
+    'Apple': 'apple',
+    'Ben & Jerry’s': 'ben-and-jerrys',
+    'Coca-Cola': 'coca-cola',
+    'FIFA': 'fifa',
+    'Fortnite': 'fortnite',
+    'Gucci': 'gucci',
+    'Heineken': 'heineken',
+    'LEGO': 'lego',
+    'Louis Vuitton': 'louis-vuitton',
+    'Mastercard': 'mastercard',
+    'McDonald’s': 'mcdonalds',
+    'Michael Jordan': 'michael-jordan',
+    'Nike': 'nike',
+    'Pepsi': 'pepsi',
+    'Spotify': 'spotify',
+    'U2': 'u2',
+    'Uniqlo': 'uniqlo',
+}
 PARTY_NOTES = {
     'Apple': 'A running sensor with Nike, a search deal worth billions, two U2 releases and an open letter from Taylor Swift. Partner, payer and the one being told what to do.',
     'Nike': 'Jordan and Ronaldo, a sensor with Apple, Virgil Abloh’s Ten and a filmmaker who spent the budget. Nike keeps backing people over products.',
@@ -861,9 +882,16 @@ def build_index():
     assert not missing, f'Add a note for these partners: {missing}'
     partners = []
     for p, v in recurring:
+        assert p in PARTY_LOGOS, f'Add a logo for {p}'
+        logo = PARTY_LOGO_DIR / f'{PARTY_LOGOS[p]}.webp'
+        assert (root.parent / logo).is_file(), f'Missing logo for {p}: {logo}'
         items = ''.join(f'<li><a href="{case_href(ed, c["id"])}"><span class="small">Edition {ed["number"]}</span> {e(c["brand"])} <span class="yr">{c["year"]}</span></a></li>'
                         for ed, c in sorted(v, key=lambda x: x[1]['year']))
-        partners.append(f'<article class="brand-row"><div><h3>{e(p)}</h3><p>{e(PARTY_NOTES[p])}</p></div><ol>{items}</ol></article>')
+        partners.append(
+            f'<article class="brand-row"><div class="brand-heading">'
+            f'<img class="brand-logo" src="../{logo.as_posix()}" alt="" width="82" height="62" loading="lazy" decoding="async">'
+            f'<div><h3>{e(p)}</h3><p>{e(PARTY_NOTES[p])}</p></div></div><ol>{items}</ol></article>'
+        )
 
     region_order = [r for r, _ in REGIONS] + ['Global']
     filt = {
