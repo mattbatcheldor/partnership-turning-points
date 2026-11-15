@@ -903,7 +903,7 @@ def build_index():
                         for ed, c in sorted(v, key=lambda x: x[1]['year']))
         partners.append(
             f'<article class="brand-row"><div class="brand-heading">'
-            f'<img class="brand-logo" src="../{logo.as_posix()}" alt="" width="82" height="62" loading="lazy" decoding="async">'
+            f'<img class="brand-logo" src="../{logo.as_posix()}" alt="{e(p)} logo" width="82" height="62" loading="lazy" decoding="async">'
             f'<div><h3>{e(p)}</h3><p>{e(PARTY_NOTES[p])}</p></div></div><ol>{items}</ol></article>'
         )
 
@@ -920,7 +920,8 @@ def build_index():
     for ed, c in sorted(everything, key=lambda x: (x[1]['year'], x[1]['brand'])):
         thumbnail = campaign_image(c, 'ix-thumbnail', '../')
         video_url = c['creative'].get('url')
-        watch = (f'<a class="ix-watch" href="{e(video_url)}" aria-label="Watch video for {e(c["brand"])}">Watch <span aria-hidden="true">↗</span></a>'
+        watch_label = 'Watch report' if 'reporting' in c['creative'].get('medium', '').lower() else 'Watch'
+        watch = (f'<a class="ix-watch" href="{e(video_url)}" aria-label="{e(c["creative"]["label"])}" title="{e(c["creative"]["label"])}">{watch_label} <span aria-hidden="true">↗</span></a>'
                  if video_url else '')
         lines.append(f'<li class="ix-case" data-edition="{ed["number"]}" data-role="{e(c["data_role"])}" data-industry="{e("|".join(industries_of(c["sector"])))}" data-region="{e(region_of(c["place"]))}" data-evidence="{e(c["evidence_level"])}">'
                      f'<a class="ix-case-link" href="{case_href(ed, c["id"])}"><span class="ix-visual">{thumbnail}<span class="ix-year">{c["year"]}</span></span><span class="ix-main"><span class="ix-brand small">{e(c["brand"])} · {e(c["mechanism"])}</span>'
