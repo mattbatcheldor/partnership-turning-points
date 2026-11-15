@@ -1,6 +1,8 @@
 from html import escape
 from pathlib import Path
 import collections
+import hashlib
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 import json
 import re
 import random
@@ -244,12 +246,24 @@ def slug(text):
     return text.lower().replace(' ', '-')
 
 
+def image_url(image, prefix=''):
+    # Fingerprint the bytes so a replaced thumbnail cannot reuse an older cached image.
+    parts = urlsplit(image['src'])
+    asset = root.parent / parts.path
+    if parts.scheme or parts.netloc or not asset.is_file():
+        raise ValueError(f"Expected a local image file: {image['src']}")
+    version = hashlib.sha256(asset.read_bytes()).hexdigest()[:12]
+    query = [(k, v) for k, v in parse_qsl(parts.query) if k != 'v']
+    query.append(('v', version))
+    return prefix + urlunsplit(('', '', parts.path, urlencode(query), parts.fragment))
+
+
 def campaign_image(c, placement, prefix=''):
     image = c.get('image')
     if not image:
         return ''
     fit = ' image-contain' if image.get('contain') else ''
-    return (f'<span class="{placement}{fit}"><img src="{e(prefix + image["src"])}" '
+    return (f'<span class="{placement}{fit}"><img src="{e(image_url(image, prefix))}" '
             f'alt="{e(image["alt"])}" width="{image["width"]}" height="{image["height"]}" '
             'loading="lazy" decoding="async"></span>')
 

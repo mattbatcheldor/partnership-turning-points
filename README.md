@@ -41,3 +41,7 @@ The site is built from the files in `src/`, using the same engine as Brand Turni
 - The Index (`the-index/`) is built from every edition's case file, using `src/page-template-index.html`. Its lessons and partner notes live in `LESSONS` and `PARTY_NOTES` in `src/build.py`, and the build stops if a partner who appears in two editions has no note.
 
 `main` is the only source of truth, and GitHub Pages publishes from it. Start new work from the latest `main`, and never force-push to it.
+
+## Link and image validation
+
+Run `python3 src/audit.py` after rebuilding and before publishing. Thumbnail URLs are fingerprinted from their image bytes so replacements refresh browser caches. See [AUDIT.md](AUDIT.md) for the 15 November 2026 audit and external verification limits.
